@@ -1,0 +1,601 @@
+GO_ID,GO_TERM_ft,pmatch_orig,pmatch_ft,category
+GO:0005685,U1 snRNP,0,1,g
+GO:0010008,endosome membrane,0,0,i
+GO:0005686,U2 snRNP,0,0,i
+GO:0090575,RNA polymerase II transcription regulator complex,0,0,i
+GO:0005769,early endosome,0,0,i
+GO:0034451,centriolar satellite,0,0,i
+GO:0000781,"chromosome, telomeric region",0,0,i
+GO:0005912,adherens junction,1,1,c
+GO:0001650,fibrillar center,0,0,i
+GO:0030496,midbody,0,0,i
+GO:0045111,intermediate filament cytoskeleton,0,0,i
+GO:0030666,endocytic vesicle membrane,0,0,i
+GO:0072562,blood microparticle,0,0,i
+GO:0000775,"chromosome, centromeric region",0,1,g
+GO:0000786,nucleosome,0,1,g
+GO:0045095,keratin filament,0,0,i
+GO:0005930,axoneme,0,1,g
+GO:0032587,ruffle membrane,0,0,i
+GO:0016363,nuclear matrix,0,0,i
+GO:0030670,phagocytic vesicle membrane,0,0,i
+GO:0001533,cornified envelope,0,0,i
+GO:0005876,spindle microtubule,0,0,i
+GO:0031011,Ino80 complex,0,0,i
+GO:0005697,telomerase holoenzyme complex,0,0,i
+GO:0005691,U6atac snRNP,0,0,i
+GO:0030992,intraciliary transport particle B,0,0,i
+GO:0045335,phagocytic vesicle,0,0,i
+GO:0001772,immunological synapse,0,0,i
+GO:0044322,endoplasmic reticulum quality control compartment,0,0,i
+GO:0005881,cytoplasmic microtubule,0,0,i
+GO:0071203,WASH complex,0,0,i
+GO:0033162,melanosome membrane,0,0,i
+GO:0048188,Set1C/COMPASS complex,0,0,i
+GO:0043195,terminal bouton,0,0,i
+GO:0033276,transcription factor TFTC complex,0,0,i
+GO:0042613,MHC class II protein complex,0,0,i
+GO:0031931,TORC1 complex,0,0,i
+GO:0016342,catenin complex,0,0,i
+GO:0005795,Golgi stack,0,1,g
+GO:0000159,protein phosphatase type 2A complex,0,1,g
+GO:0031941,filamentous actin,0,0,i
+GO:0032426,stereocilium tip,0,0,i
+GO:0030127,COPII vesicle coat,0,0,i
+GO:0070382,exocytic vesicle,0,0,i
+GO:0042105,alpha-beta T cell receptor complex,0,0,i
+GO:0031105,septin complex,0,0,i
+GO:0043186,P granule,0,0,i
+GO:0160111,axonemal A tubule inner sheath,0,0,i
+GO:0002177,manchette,0,0,i
+GO:0005665,"RNA polymerase II, core complex",0,1,g
+GO:1990454,L-type voltage-gated calcium channel complex,0,0,i
+GO:0071162,CMG complex,0,0,i
+GO:0000939,inner kinetochore,0,0,i
+GO:0030121,AP-1 adaptor complex,0,0,i
+GO:0030008,TRAPP complex,0,0,i
+GO:0016593,Cdc73/Paf1 complex,0,0,i
+GO:0099524,postsynaptic cytosol,0,0,i
+GO:0120293,dynein axonemal particle,0,0,i
+GO:0019773,"proteasome core complex, alpha-subunit complex",0,0,i
+GO:0000346,transcription export complex,0,0,i
+GO:0060077,inhibitory synapse,0,0,i
+GO:0005693,U12 snRNP,0,1,g
+GO:0098691,dopaminergic synapse,0,0,i
+GO:0061827,sperm head,0,0,i
+GO:0045275,respiratory chain complex III,0,0,i
+GO:0000800,lateral element,0,0,i
+GO:0016471,vacuolar proton-transporting V-type ATPase complex,0,0,i
+GO:0033176,proton-transporting V-type ATPase complex,0,0,i
+GO:0045252,oxoglutarate dehydrogenase complex,0,0,i
+GO:0097255,R2TP complex,0,0,i
+GO:0072687,meiotic spindle,0,0,i
+GO:0031429,box H/ACA snoRNP complex,0,0,i
+GO:0031095,platelet dense tubular network membrane,0,0,i
+GO:0070552,BRISC complex,0,0,i
+GO:0031232,extrinsic component of external side of plasma membrane,0,0,i
+GO:0098837,postsynaptic recycling endosome,0,0,i
+GO:1990879,CST complex,0,0,i
+GO:0030056,hemidesmosome,0,0,i
+GO:0031253,cell projection membrane,0,0,i
+GO:0000801,central element,0,0,i
+GO:0030124,AP-4 adaptor complex,0,0,i
+GO:0042582,azurophil granule,0,0,i
+GO:0031461,cullin-RING ubiquitin ligase complex,0,0,i
+GO:0097197,tetraspanin-enriched microdomain,0,0,i
+GO:0120157,PAR polarity complex,0,0,i
+GO:0098843,postsynaptic endocytic zone,0,0,i
+GO:0005968,Rab-protein geranylgeranyltransferase complex,0,0,i
+GO:0160157,branched-chain alpha-ketoacid dehydrogenase complex,0,0,i
+GO:0032437,cuticular plate,0,0,i
+GO:0005588,collagen type V trimer,0,0,i
+GO:1904949,ATPase complex,0,0,i
+GO:0070938,contractile ring,0,0,i
+GO:0120200,rod photoreceptor outer segment,0,0,i
+GO:1990851,Wnt-Frizzled-LRP5/6 complex,0,0,i
+GO:1904602,serotonin-activated cation-selective channel complex,0,0,i
+GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)",0,0,i
+GO:0071204,histone pre-mRNA 3'end processing complex,0,0,i
+GO:0106333,subcortical maternal complex,0,0,i
+GO:1990423,RZZ complex,0,0,i
+GO:0005655,nucleolar ribonuclease P complex,0,1,g
+GO:0060171,stereocilium membrane,0,0,i
+GO:0060342,photoreceptor inner segment membrane,0,0,i
+GO:0005945,6-phosphofructokinase complex,0,0,i
+GO:0035749,myelin sheath adaxonal region,0,0,i
+GO:0044300,cerebellar mossy fiber,0,0,i
+GO:0044304,main axon,0,0,i
+GO:0008290,F-actin capping protein complex,0,0,i
+GO:0001520,outer dense fiber,0,0,i
+GO:0070449,elongin complex,0,0,i
+GO:0016914,follicle-stimulating hormone complex,0,0,i
+GO:0032044,DSIF complex,0,0,i
+GO:0098985,"asymmetric, glutamatergic, excitatory synapse",0,0,i
+GO:0097342,ripoptosome,0,0,i
+GO:0097145,BAK complex,0,0,i
+GO:0016939,kinesin II complex,0,0,i
+GO:0002079,inner acrosomal membrane,0,0,i
+GO:0106003,amyloid-beta complex,0,0,i
+GO:0097180,serine protease inhibitor complex,0,0,i
+GO:0042720,mitochondrial inner membrane peptidase complex,0,0,i
+GO:0005826,actomyosin contractile ring,0,0,i
+GO:0061696,pituitary gonadotropin complex,0,0,i
+GO:0016507,mitochondrial fatty acid beta-oxidation multienzyme complex,0,0,i
+GO:0031515,tRNA (m1A) methyltransferase complex,0,0,i
+GO:0098944,postsynaptic recycling endosome membrane,0,0,i
+GO:0106002,mCRD-mediated mRNA stability complex,0,0,i
+GO:0005642,annulate lamellae,0,1,g
+GO:0062157,mitochondrial ATP-gated potassium channel complex,0,0,i
+GO:1905347,endodeoxyribonuclease complex,0,0,i
+GO:0097728,9+0 motile cilium,0,0,i
+GO:0005586,collagen type III trimer,0,1,g
+GO:1990406,CGRP receptor complex,0,0,i
+GO:0045293,mRNA editing complex,0,0,i
+GO:1904090,peptidase inhibitor complex,0,0,i
+GO:0034688,integrin alphaM-beta2 complex,0,0,i
+GO:1990667,PCSK9-AnxA2 complex,0,0,i
+GO:1990357,terminal web,0,0,i
+GO:0097196,Shu complex,0,0,i
+GO:0071748,monomeric IgA immunoglobulin complex,0,0,i
+GO:0070381,endosome to plasma membrane transport vesicle,0,0,i
+GO:0005862,muscle thin filament tropomyosin,0,0,i
+GO:1990512,Cry-Per complex,0,0,i
+GO:0070743,interleukin-23 complex,0,0,i
+GO:0070069,cytochrome complex,0,0,i
+GO:0070033,synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex,0,0,i
+GO:0150048,cerebellar granule cell to Purkinje cell synapse,0,0,i
+GO:0061773,eNoSc complex,0,0,i
+GO:0061851,leading edge of lamellipodium,0,0,i
+GO:0035868,alphav-beta3 integrin-HMGB1 complex,0,0,i
+GO:0044753,amphisome,0,0,i
+GO:0031391,Elg1 RFC-like complex,0,0,i
+GO:0000262,mitochondrial chromosome,0,0,i
+GO:0045098,type III intermediate filament,0,0,i
+GO:1990425,ryanodine receptor complex,0,0,i
+GO:0097519,DNA recombinase complex,0,0,i
+GO:1990590,ATF1-ATF4 transcription factor complex,0,0,i
+GO:1990711,beta-catenin-ICAT complex,0,0,i
+GO:0032156,septin cytoskeleton,0,0,i
+GO:0070443,Mad-Max complex,0,0,i
+GO:0033011,perinuclear theca,0,0,i
+GO:0008328,ionotropic glutamate receptor complex,0,1,g
+GO:1905360,GTPase complex,0,0,i
+GO:0097014,ciliary plasm,0,0,i
+GO:0031501,mannosyltransferase complex,0,0,i
+GO:1990566,I(KACh) inward rectifier potassium channel complex,0,0,i
+GO:1990728,mitotic spindle assembly checkpoint MAD1-MAD2 complex,0,0,i
+GO:1990647,C/EBP complex,0,0,i
+GO:0097133,cyclin D3-CDK6 complex,0,0,i
+GO:0032476,polyprenyl diphosphate synthase complex,0,0,i
+GO:0071133,alpha9-beta1 integrin-ADAM8 complex,0,0,i
+GO:0140240,perforant pathway to dendrate granule cell synapse,0,0,i
+GO:0005969,serine-pyruvate aminotransferase complex,0,0,i
+GO:1990620,ANPR-A receptor complex,0,0,i
+GO:0150056,amylin receptor complex 1,0,0,i
+GO:0097181,protein C inhibitor-coagulation factor V complex,0,0,i
+GO:0031906,late endosome lumen,0,0,i
+GO:0070210,Rpd3L-Expanded complex,0,0,i
+GO:0035841,new growing cell tip,0,0,i
+GO:0034777,recycling endosome lumen,0,0,i
+GO:1990047,spindle matrix,0,0,i
+GO:0043073,germ cell nucleus,0,0,i
+GO:0034718,SMN-Gemin2 complex,0,0,i
+GO:0070826,paraferritin complex,0,0,i
+GO:1990706,MAD1 complex,0,0,i
+GO:1902912,pyruvate kinase complex,0,0,i
+GO:0031475,myosin V complex,0,0,i
+GO:0033593,BRCA2-MAGE-D1 complex,0,0,i
+GO:0071513,phosphopantothenoylcysteine decarboxylase complex,0,0,i
+GO:1990038,Lewy body corona,0,0,i
+GO:0035838,growing cell tip,0,0,i
+GO:0045267,"proton-transporting ATP synthase, catalytic core",0,0,i
+GO:0005700,polytene chromosome,0,0,i
+GO:0044207,translation initiation ternary complex,0,0,i
+GO:0009360,DNA polymerase III complex,0,0,i
+GO:0120231,DNA recombinase auxiliary factor complex,0,0,i
+GO:0120134,proximal portion of axoneme,0,0,i
+GO:0090498,extrinsic component of Golgi membrane,0,0,i
+GO:0097471,mossy fiber rosette,0,0,i
+GO:0044225,apical pole of neuron,0,0,i
+GO:0043528,tRNA (m2G10) methyltransferase complex,0,0,i
+GO:0097409,glial cytoplasmic inclusion,0,0,i
+GO:0006099,tricarboxylic acid cycle,0,0,i
+GO:0006487,protein N-linked glycosylation,0,1,g
+GO:0097191,extrinsic apoptotic signaling pathway,0,0,i
+GO:0002931,response to ischemia,0,0,i
+GO:0051321,meiotic cell cycle,0,0,i
+GO:2000648,positive regulation of stem cell proliferation,0,0,i
+GO:0050821,protein stabilization,0,1,g
+GO:0007094,mitotic spindle assembly checkpoint signaling,0,1,g
+GO:0048812,neuron projection morphogenesis,0,0,i
+GO:0060041,retina development in camera-type eye,0,0,i
+GO:0045050,protein insertion into ER membrane by stop-transfer membrane-anchor sequence,0,0,i
+GO:0051966,"regulation of synaptic transmission, glutamatergic",0,0,i
+GO:0008033,tRNA processing,0,1,g
+GO:0000422,autophagy of mitochondrion,0,0,i
+GO:0019216,regulation of lipid metabolic process,0,1,g
+GO:0032727,positive regulation of interferon-alpha production,0,0,i
+GO:0090050,positive regulation of cell migration involved in sprouting angiogenesis,0,0,i
+GO:0000079,regulation of cyclin-dependent protein serine/threonine kinase activity,0,0,i
+GO:0042542,response to hydrogen peroxide,0,0,i
+GO:0030214,hyaluronan catabolic process,0,0,i
+GO:0038066,p38MAPK cascade,0,0,i
+GO:0097435,supramolecular fiber organization,0,0,i
+GO:0140042,lipid droplet formation,0,0,i
+GO:0010996,response to auditory stimulus,0,0,i
+GO:0085020,protein K6-linked ubiquitination,0,0,i
+GO:0032502,developmental process,0,1,g
+GO:0006977,"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0,1,g
+GO:0006939,smooth muscle contraction,0,1,g
+GO:0033619,membrane protein proteolysis,0,0,i
+GO:0048015,phosphatidylinositol-mediated signaling,0,1,g
+GO:0071498,cellular response to fluid shear stress,0,0,i
+GO:0007208,phospholipase C-activating serotonin receptor signaling pathway,0,1,g
+GO:0035162,embryonic hemopoiesis,0,0,i
+GO:0006892,post-Golgi vesicle-mediated transport,0,0,i
+GO:0010763,positive regulation of fibroblast migration,0,0,i
+GO:0033630,positive regulation of cell adhesion mediated by integrin,0,0,i
+GO:0030311,poly-N-acetyllactosamine biosynthetic process,0,0,i
+GO:0043200,response to amino acid,0,0,i
+GO:1990869,cellular response to chemokine,0,0,i
+GO:0051256,mitotic spindle midzone assembly,0,0,i
+GO:1903980,positive regulation of microglial cell activation,0,0,i
+GO:0042592,homeostatic process,0,0,i
+GO:0035455,response to interferon-alpha,0,0,i
+GO:0010884,positive regulation of lipid storage,0,0,i
+GO:1900246,positive regulation of RIG-I signaling pathway,0,0,i
+GO:0006729,tetrahydrobiopterin biosynthetic process,0,0,i
+GO:0006995,cellular response to nitrogen starvation,0,0,i
+GO:1904996,positive regulation of leukocyte adhesion to vascular endothelial cell,0,0,i
+GO:0060259,regulation of feeding behavior,0,0,i
+GO:0040015,negative regulation of multicellular organism growth,0,0,i
+GO:0032649,regulation of type II interferon production,0,0,i
+GO:0021612,facial nerve structural organization,0,0,i
+GO:0070574,cadmium ion transmembrane transport,0,0,i
+GO:0032873,negative regulation of stress-activated MAPK cascade,0,0,i
+GO:0010898,positive regulation of triglyceride catabolic process,0,0,i
+GO:0071787,endoplasmic reticulum tubular network formation,0,0,i
+GO:0097011,cellular response to granulocyte macrophage colony-stimulating factor stimulus,0,0,i
+GO:0008228,opsonization,0,0,i
+GO:0070291,N-acylethanolamine metabolic process,0,0,i
+GO:1905198,manchette assembly,0,0,i
+GO:0002842,positive regulation of T cell mediated immune response to tumor cell,0,0,i
+GO:0009086,methionine biosynthetic process,0,0,i
+GO:0009888,tissue development,0,1,g
+GO:0038160,CXCL12-activated CXCR4 signaling pathway,0,0,i
+GO:0033490,cholesterol biosynthetic process via lathosterol,0,0,i
+GO:2000144,positive regulation of DNA-templated transcription initiation,0,0,i
+GO:0036035,osteoclast development,0,0,i
+GO:2001259,positive regulation of cation channel activity,0,0,i
+GO:0044351,macropinocytosis,0,0,i
+GO:0032532,regulation of microvillus length,0,0,i
+GO:0051132,NK T cell activation,0,0,i
+GO:0043489,RNA stabilization,0,0,i
+GO:0007435,salivary gland morphogenesis,0,1,g
+GO:0060372,regulation of atrial cardiac muscle cell membrane repolarization,0,0,i
+GO:0045836,positive regulation of meiotic nuclear division,0,0,i
+GO:0033603,positive regulation of dopamine secretion,0,0,i
+GO:0043217,myelin maintenance,0,0,i
+GO:0061041,regulation of wound healing,0,0,i
+GO:0060129,thyroid-stimulating hormone-secreting cell differentiation,0,0,i
+GO:0046881,positive regulation of follicle-stimulating hormone secretion,0,0,i
+GO:0031401,positive regulation of protein modification process,0,0,i
+GO:0014827,intestine smooth muscle contraction,0,0,i
+GO:0090625,siRNA-mediated gene silencing by mRNA destabilization,0,0,i
+GO:0033081,regulation of T cell differentiation in thymus,0,0,i
+GO:0035112,genitalia morphogenesis,0,0,i
+GO:0009450,gamma-aminobutyric acid catabolic process,0,0,i
+GO:0043587,tongue morphogenesis,0,0,i
+GO:0006249,dCMP catabolic process,0,0,i
+GO:0072189,ureter development,0,0,i
+GO:0072656,maintenance of protein location in mitochondrion,0,0,i
+GO:0045003,double-strand break repair via synthesis-dependent strand annealing,0,0,i
+GO:0033153,T cell receptor V(D)J recombination,0,0,i
+GO:0002313,mature B cell differentiation involved in immune response,0,0,i
+GO:0002074,extraocular skeletal muscle development,0,0,i
+GO:0006386,termination of RNA polymerase III transcription,0,0,i
+GO:0032507,maintenance of protein location in cell,0,0,i
+GO:0010694,positive regulation of alkaline phosphatase activity,0,0,i
+GO:1901533,negative regulation of hematopoietic progenitor cell differentiation,0,0,i
+GO:0008088,axo-dendritic transport,0,0,i
+GO:0032348,negative regulation of aldosterone biosynthetic process,0,0,i
+GO:0060421,positive regulation of heart growth,0,0,i
+GO:1903843,cellular response to arsenite ion,0,0,i
+GO:0003192,mitral valve formation,0,0,i
+GO:0031952,regulation of protein autophosphorylation,0,0,i
+GO:0035434,copper ion transmembrane transport,0,0,i
+GO:0071635,negative regulation of transforming growth factor beta production,0,0,i
+GO:0060541,respiratory system development,0,0,i
+GO:0060741,prostate gland stromal morphogenesis,0,0,i
+GO:1905049,negative regulation of metallopeptidase activity,0,0,i
+GO:1905165,regulation of lysosomal protein catabolic process,0,0,i
+GO:2001287,negative regulation of caveolin-mediated endocytosis,0,0,i
+GO:0030910,olfactory placode formation,0,0,i
+GO:0044375,regulation of peroxisome size,0,0,i
+GO:0034767,positive regulation of monoatomic ion transmembrane transport,0,0,i
+GO:0010909,positive regulation of heparan sulfate proteoglycan biosynthetic process,0,0,i
+GO:0021903,rostrocaudal neural tube patterning,0,0,i
+GO:0097155,fasciculation of sensory neuron axon,0,0,i
+GO:0016476,regulation of embryonic cell shape,0,0,i
+GO:2000807,regulation of synaptic vesicle clustering,0,0,i
+GO:0032412,regulation of monoatomic ion transmembrane transporter activity,0,0,i
+GO:0071349,cellular response to interleukin-12,0,0,i
+GO:0150064,vertebrate eye-specific patterning,0,0,i
+GO:1900625,positive regulation of monocyte aggregation,0,0,i
+GO:0097111,endoplasmic reticulum-Golgi intermediate compartment organization,0,0,i
+GO:1905273,"positive regulation of proton-transporting ATP synthase activity, rotational mechanism",0,0,i
+GO:0033685,negative regulation of luteinizing hormone secretion,0,0,i
+GO:0009386,translational attenuation,0,0,i
+GO:0014878,response to electrical stimulus involved in regulation of muscle adaptation,0,0,i
+GO:0072237,metanephric proximal tubule development,0,0,i
+GO:0005990,lactose catabolic process,0,0,i
+GO:0071955,recycling endosome to Golgi transport,0,0,i
+GO:0046373,L-arabinose metabolic process,0,0,i
+GO:0106047,polyamine deacetylation,0,0,i
+GO:0048840,otolith development,0,0,i
+GO:1901207,regulation of heart looping,0,0,i
+GO:0071846,actin filament debranching,0,0,i
+GO:0035622,intrahepatic bile duct development,0,0,i
+GO:0072161,mesenchymal cell differentiation involved in kidney development,0,0,i
+GO:0046010,"positive regulation of circadian sleep/wake cycle, non-REM sleep",0,0,i
+GO:1902170,cellular response to reactive nitrogen species,0,0,i
+GO:0051946,regulation of glutamate uptake involved in transmission of nerve impulse,0,0,i
+GO:0060420,regulation of heart growth,0,0,i
+GO:1901594,response to capsazepine,0,0,i
+GO:1902858,propionyl-CoA metabolic process,0,0,i
+GO:0034331,cell junction maintenance,0,0,i
+GO:1901077,regulation of relaxation of muscle,0,0,i
+GO:0018171,peptidyl-cysteine oxidation,0,0,i
+GO:0070781,response to biotin,0,0,i
+GO:0060313,negative regulation of blood vessel remodeling,0,0,i
+GO:0032056,positive regulation of translation in response to stress,0,0,i
+GO:0042748,"circadian sleep/wake cycle, non-REM sleep",0,0,i
+GO:0045720,negative regulation of integrin biosynthetic process,0,0,i
+GO:1904777,negative regulation of protein localization to cell cortex,0,0,i
+GO:1902367,negative regulation of Notch signaling pathway involved in somitogenesis,0,0,i
+GO:0060529,squamous basal epithelial stem cell differentiation involved in prostate gland acinus development,0,0,i
+GO:0072268,pattern specification involved in metanephros development,0,0,i
+GO:0006392,transcription elongation by mitochondrial RNA polymerase,0,0,i
+GO:0060431,primary lung bud formation,0,0,i
+GO:1901003,negative regulation of fermentation,0,0,i
+GO:0070130,negative regulation of mitochondrial translation,0,0,i
+GO:1900151,"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0,0,i
+GO:0035788,cell migration involved in metanephros development,0,0,i
+GO:0061974,perichondral bone morphogenesis,0,0,i
+GO:0033215,reductive iron assimilation,0,0,i
+GO:0045344,negative regulation of MHC class I biosynthetic process,0,0,i
+GO:0008617,guanosine metabolic process,0,0,i
+GO:0097298,regulation of nucleus size,0,0,i
+GO:0106056,regulation of calcineurin-mediated signaling,0,0,i
+GO:0071585,detoxification of cadmium ion,0,0,i
+GO:1905457,negative regulation of lymphoid progenitor cell differentiation,0,0,i
+GO:0021793,chemorepulsion of branchiomotor axon,0,0,i
+GO:0002696,positive regulation of leukocyte activation,0,0,i
+GO:0035238,vitamin A biosynthetic process,0,0,i
+GO:0031947,negative regulation of glucocorticoid biosynthetic process,0,0,i
+GO:0046490,isopentenyl diphosphate metabolic process,0,0,i
+GO:0034355,NAD salvage,0,0,i
+GO:2000984,negative regulation of ATP citrate synthase activity,0,0,i
+GO:0045091,regulation of single stranded viral RNA replication via double stranded DNA intermediate,0,0,i
+GO:1903709,uterine gland development,0,0,i
+GO:0046381,CMP-N-acetylneuraminate metabolic process,0,0,i
+GO:1902659,regulation of glucose mediated signaling pathway,0,0,i
+GO:1902915,negative regulation of protein polyubiquitination,0,0,i
+GO:0051261,protein depolymerization,0,0,i
+GO:0050433,regulation of catecholamine secretion,0,0,i
+GO:0072158,proximal tubule morphogenesis,0,0,i
+GO:1903564,regulation of protein localization to cilium,0,0,i
+GO:0018063,cytochrome c-heme linkage,0,0,i
+GO:0072340,lactam catabolic process,0,0,i
+GO:0098759,cellular response to interleukin-8,0,0,i
+GO:0090074,negative regulation of protein homodimerization activity,0,0,i
+GO:0061360,optic chiasma development,0,0,i
+GO:1904255,negative regulation of iron ion transmembrane transporter activity,0,0,i
+GO:1903318,negative regulation of protein maturation,0,0,i
+GO:0072663,establishment of protein localization to peroxisome,0,0,i
+GO:1904570,negative regulation of selenocysteine incorporation,0,0,i
+GO:1901293,nucleoside phosphate biosynthetic process,0,0,i
+GO:0050792,regulation of viral process,0,1,g
+GO:0061103,carotid body glomus cell differentiation,0,0,i
+GO:0007387,anterior compartment pattern formation,0,0,i
+GO:2001262,positive regulation of semaphorin-plexin signaling pathway,0,0,i
+GO:0038187,pattern recognition receptor activity,0,0,i
+GO:0051082,unfolded protein binding,0,0,i
+GO:0004386,helicase activity,0,0,i
+GO:0008137,NADH dehydrogenase (ubiquinone) activity,0,0,i
+GO:0015459,potassium channel regulator activity,0,1,g
+GO:0019789,SUMO transferase activity,0,0,i
+GO:0017080,sodium channel regulator activity,0,0,i
+GO:1990404,NAD+-protein ADP-ribosyltransferase activity,0,0,i
+GO:0005109,frizzled binding,0,1,g
+GO:0030374,nuclear receptor coactivator activity,0,0,i
+GO:0070840,dynein complex binding,0,0,i
+GO:0004679,AMP-activated protein kinase activity,0,0,i
+GO:0005388,P-type calcium transporter activity,0,0,i
+GO:0032977,membrane insertase activity,0,0,i
+GO:0050750,low-density lipoprotein particle receptor binding,0,0,i
+GO:0008253,5'-nucleotidase activity,0,0,i
+GO:0033192,calmodulin-dependent protein phosphatase activity,0,0,i
+GO:0035613,RNA stem-loop binding,0,0,i
+GO:0017128,phospholipid scramblase activity,0,0,i
+GO:0048019,receptor antagonist activity,0,0,i
+GO:0030297,transmembrane receptor protein tyrosine kinase activator activity,0,0,i
+GO:0140036,ubiquitin-modified protein reader activity,0,0,i
+GO:0005021,vascular endothelial growth factor receptor activity,0,0,i
+GO:0005161,platelet-derived growth factor receptor binding,0,0,i
+GO:0008467,[heparan sulfate]-glucosamine 3-sulfotransferase 1 activity,0,0,i
+GO:0015269,calcium-activated potassium channel activity,0,0,i
+GO:0004905,type I interferon receptor activity,0,0,i
+GO:0051011,microtubule minus-end binding,0,0,i
+GO:0010181,FMN binding,0,0,i
+GO:0017111,ribonucleoside triphosphate phosphatase activity,0,0,i
+GO:0031957,very long-chain fatty acid-CoA ligase activity,0,0,i
+GO:0003747,translation release factor activity,0,1,g
+GO:0140313,molecular sequestering activity,0,0,i
+GO:0045504,dynein heavy chain binding,0,0,i
+GO:0017136,NAD-dependent histone deacetylase activity,0,0,i
+GO:0045294,alpha-catenin binding,0,0,i
+GO:0015232,heme transmembrane transporter activity,0,0,i
+GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,0,1,g
+GO:0005001,transmembrane receptor protein tyrosine phosphatase activity,0,0,i
+GO:0004385,guanylate kinase activity,0,0,i
+GO:0036312,phosphatidylinositol 3-kinase regulatory subunit binding,0,0,i
+GO:0170011,stalled ribosome sensor activity,0,0,i
+GO:0001164,RNA polymerase I core promoter sequence-specific DNA binding,0,0,i
+GO:0005095,GTPase inhibitor activity,0,1,g
+GO:0072572,poly-ADP-D-ribose binding,0,0,i
+GO:0072542,protein phosphatase activator activity,0,0,i
+GO:0032453,histone H3K4 demethylase activity,0,0,i
+GO:0008378,galactosyltransferase activity,0,0,i
+GO:0048101,"calmodulin-activated 3',5'-cyclic-GMP phosphodiesterase activity",0,0,i
+GO:0009378,four-way junction helicase activity,0,0,i
+GO:0004740,pyruvate dehydrogenase (acetyl-transferring) kinase activity,0,0,i
+GO:1990757,ubiquitin ligase activator activity,0,0,i
+GO:0042296,ISG15 transferase activity,0,0,i
+GO:0004357,glutamate-cysteine ligase activity,0,0,i
+GO:0047023,androsterone dehydrogenase activity,0,0,i
+GO:0043177,organic acid binding,0,0,i
+GO:0043530,adenosine 5'-monophosphoramidase activity,0,0,i
+GO:0032813,tumor necrosis factor receptor superfamily binding,0,0,i
+GO:0099589,serotonin receptor activity,0,0,i
+GO:0003846,2-acylglycerol O-acyltransferase activity,0,0,i
+GO:0004373,glycogen (starch) synthase activity,0,0,i
+GO:0000179,"rRNA (adenine-N6,N6-)-dimethyltransferase activity",0,0,i
+GO:0004165,delta(3)-delta(2)-enoyl-CoA isomerase activity,0,0,i
+GO:0140932,5'-(N(7)-methyl 5'-triphosphoguanosine)-[mRNA] diphosphatase activity,0,0,i
+GO:0004875,complement receptor activity,0,0,i
+GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups",0,0,i
+GO:0015311,monoamine:proton antiporter activity,0,0,i
+GO:0017050,D-erythro-sphingosine kinase activity,0,0,i
+GO:0004331,"fructose-2,6-bisphosphate 2-phosphatase activity",0,0,i
+GO:0050436,microfibril binding,0,0,i
+GO:0097643,amylin receptor activity,0,0,i
+GO:0140750,nucleosome array spacer activity,0,0,i
+GO:0034604,pyruvate dehydrogenase (NAD+) activity,0,0,i
+GO:1902945,metalloendopeptidase activity involved in amyloid precursor protein catabolic process,0,0,i
+GO:0031702,type 1 angiotensin receptor binding,0,0,i
+GO:0140947,histone H3K9me2 methyltransferase activity,0,0,i
+GO:0048403,brain-derived neurotrophic factor binding,0,0,i
+GO:0038085,vascular endothelial growth factor binding,0,0,i
+GO:0032137,guanine/thymine mispair binding,0,0,i
+GO:0042171,lysophosphatidic acid acyltransferase activity,0,0,i
+GO:0004719,protein-L-isoaspartate (D-aspartate) O-methyltransferase activity,0,0,i
+GO:0035173,histone kinase activity,0,0,i
+GO:0050080,malonyl-CoA decarboxylase activity,0,0,i
+GO:0141038,phosphatidylinositol 3-kinase activator activity,0,0,i
+GO:0016423,tRNA (guanine) methyltransferase activity,0,0,i
+GO:0019834,phospholipase A2 inhibitor activity,0,0,i
+GO:0140344,triglyceride transfer activity,0,0,i
+GO:0003990,acetylcholinesterase activity,0,1,g
+GO:0017020,myosin phosphatase regulator activity,0,0,i
+GO:1990239,steroid hormone binding,0,0,i
+GO:0004827,proline-tRNA ligase activity,0,0,i
+GO:0009374,biotin binding,0,0,i
+GO:1902098,calcitriol binding,0,0,i
+GO:0019158,mannokinase activity,0,0,i
+GO:0052901,spermine:oxygen oxidoreductase (spermidine-forming) activity,0,0,i
+GO:1990760,osmolarity-sensing monoatomic cation channel activity,0,0,i
+GO:0035877,death effector domain binding,0,0,i
+GO:0030545,signaling receptor regulator activity,0,0,i
+GO:0033823,procollagen glucosyltransferase activity,0,0,i
+GO:0030235,nitric-oxide synthase regulator activity,0,0,i
+GO:0140936,histone H2B deubiquitinase activity,0,0,i
+GO:0000295,adenine nucleotide transmembrane transporter activity,0,0,i
+GO:0019981,interleukin-6 binding,0,0,i
+GO:0004991,parathyroid hormone receptor activity,0,1,g
+GO:0000825,inositol tetrakisphosphate 6-kinase activity,0,0,i
+GO:0004772,sterol O-acyltransferase activity,0,0,i
+GO:0015149,hexose transmembrane transporter activity,0,0,i
+GO:0000250,lanosterol synthase activity,0,0,i
+GO:0070699,type II activin receptor binding,0,0,i
+GO:0052836,inositol 5-diphosphate pentakisphosphate 5-kinase activity,0,0,i
+GO:1990448,exon-exon junction complex binding,0,0,i
+GO:0001096,TFIIF-class transcription factor complex binding,0,1,g
+GO:0031073,cholesterol 26-hydroxylase activity,0,0,i
+GO:0047946,glutamine N-acyltransferase activity,0,0,i
+GO:0046538,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity",0,0,i
+GO:0044017,histone H3K27 acetyltransferase activity,0,0,i
+GO:0106006,cytoskeletal protein-membrane anchor activity,0,0,i
+GO:0005461,UDP-glucuronic acid transmembrane transporter activity,0,0,i
+GO:0047611,acetylspermidine deacetylase activity,0,0,i
+GO:0016432,tRNA-uridine aminocarboxypropyltransferase activity,0,0,i
+GO:0004510,tryptophan 5-monooxygenase activity,0,0,i
+GO:0050484,GMP 5'-nucleotidase activity,0,0,i
+GO:0141089,glucose sensor activity,0,0,i
+GO:0048256,flap endonuclease activity,0,0,i
+GO:0070990,snRNP binding,0,0,i
+GO:0005228,intracellular sodium-activated potassium channel activity,0,0,i
+GO:0016830,carbon-carbon lyase activity,0,0,i
+GO:0019768,high-affinity IgE receptor activity,0,0,i
+GO:0031696,alpha-2C adrenergic receptor binding,0,0,i
+GO:0090433,palmitoyl-CoA ligase activity,0,0,i
+GO:0150043,structural constituent of synapse-associated extracellular matrix,0,0,i
+GO:0098847,sequence-specific single stranded DNA binding,0,0,i
+GO:0047256,"lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase activity",0,0,i
+GO:0106137,IkappaB kinase complex binding,0,0,i
+GO:0047224,"acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase activity",0,0,i
+GO:0008469,histone arginine N-methyltransferase activity,0,0,i
+GO:0106335,tRNA (5-carboxymethyluridine(34)-5-O)-methyltransferase activity,0,0,i
+GO:0052630,UDP-N-acetylgalactosamine diphosphorylase activity,0,0,i
+GO:0052655,L-valine transaminase activity,0,0,i
+GO:0004512,inositol-3-phosphate synthase activity,0,0,i
+GO:0047349,D-ribitol-5-phosphate cytidylyltransferase activity,0,0,i
+GO:1990583,phospholipase D activator activity,0,0,i
+GO:1990698,palmitoleoyltransferase activity,0,0,i
+GO:0044016,histone H3K4 acetyltransferase activity,0,0,i
+GO:0004979,beta-endorphin receptor activity,0,0,i
+GO:0003963,RNA-3'-phosphate cyclase activity,0,1,g
+GO:0004729,oxygen-dependent protoporphyrinogen oxidase activity,0,0,i
+GO:0052848,"inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity",0,0,i
+GO:0070773,protein-N-terminal glutamine amidohydrolase activity,0,0,i
+GO:0052814,medium-chain fatty aldehyde dehydrogenase (NAD+) activity,0,0,i
+GO:0001641,group II metabotropic glutamate receptor activity,0,0,i
+GO:0004339,"glucan 1,4-alpha-glucosidase activity",0,0,i
+GO:0002114,interleukin-33 receptor activity,0,0,i
+GO:0071855,neuropeptide receptor binding,0,0,i
+GO:0003877,ATP:ADP adenylyltransferase activity,0,0,i
+GO:0050251,retinol isomerase activity,0,0,i
+GO:0030626,U12 snRNA binding,0,0,i
+GO:0000009,"alpha-1,6-mannosyltransferase activity",0,0,i
+GO:0061799,cyclic pyranopterin monophosphate synthase activity,0,0,i
+GO:0043136,glycerol-3-phosphatase activity,0,0,i
+GO:0004058,aromatic-L-amino-acid decarboxylase activity,0,0,i
+GO:0160102,tRNA (guanine(10)-N2)-methyltransferase activity,0,0,i
+GO:0102263,tRNA-dihydrouridine17 synthase activity,0,0,i
+GO:0016230,sphingomyelin phosphodiesterase activator activity,0,0,i
+GO:0047378,acetylalkylglycerol acetylhydrolase activity,0,0,i
+GO:0050337,thiosulfate-thiol sulfurtransferase activity,0,0,i
+GO:0008750,proton-translocating NAD(P)+ transhydrogenase activity,0,0,i
+GO:0042880,D-glucuronate transmembrane transporter activity,0,0,i
+GO:0140580,mitochondrion autophagosome adaptor activity,0,0,i
+GO:0003874,6-pyruvoyltetrahydropterin synthase activity,0,0,i
+GO:0005043,netrin receptor activity involved in chemorepulsion,0,0,i
+GO:0047058,vitamin-K-epoxide reductase (warfarin-insensitive) activity,0,0,i
+GO:0140483,kinetochore adaptor activity,0,0,i
+GO:0047805,cytidylate cyclase activity,0,0,i
+GO:0140893,"neutral amino acid, sodium:proton antiporter activity",0,0,i
+GO:0035381,ATP-gated ion channel activity,0,0,i
+GO:1904854,proteasome core complex binding,0,0,i
+GO:0005169,neurotrophin TRKB receptor binding,0,0,i
+GO:0030290,sphingolipid activator protein activity,0,0,i
+GO:0062037,D-loop DNA binding,0,0,i
+GO:1990856,methionyl-initiator methionine tRNA binding,0,0,i
+GO:0042947,glucoside transmembrane transporter activity,0,0,i
+GO:0003916,DNA topoisomerase activity,0,0,i
+GO:0141055,histone H3 ubiquitin ligase activity,0,0,i
+GO:0015450,protein-transporting ATPase activity,0,0,i
+GO:0030975,thiamine binding,0,0,i
+GO:0050135,NADP+ nucleosidase activity,0,0,i
+GO:0035715,chemokine (C-C motif) ligand 2 binding,0,0,i
+GO:0034590,L-hydroxyproline transmembrane transporter activity,0,0,i
+GO:0047995,hydroxyphenylpyruvate reductase activity,0,0,i
+GO:1990165,single-strand break-containing DNA binding,0,0,i
+GO:0102757,NADPH phosphatase activity,0,0,i
+GO:0034480,phosphatidylcholine phospholipase C activity,0,0,i
+GO:0086038,calcium:sodium antiporter activity involved in regulation of cardiac muscle cell membrane potential,0,0,i
+GO:0047536,2-aminoadipate transaminase activity,0,0,i
+GO:1990147,talin binding,0,0,i
+GO:0060182,apelin receptor activity,0,0,i
+GO:0031779,melanocortin receptor binding,0,0,i
+GO:0106237,arachidonate 12(R)-lipoxygenase activity,0,0,i
+GO:0004343,glucosamine 6-phosphate N-acetyltransferase activity,0,0,i

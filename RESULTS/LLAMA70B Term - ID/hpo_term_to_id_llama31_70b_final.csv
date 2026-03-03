@@ -1,0 +1,601 @@
+hpo_id,hpo_term,pmc_term_hits,hpo_annotation_count,pmc_hpo_id_hits,Match,Rank,Bin,predicted_hpo_id,pmatch
+HP:0000465,Webbed neck,1552,154,7,1,325,1,HP:0000245,0
+HP:0000470,Short neck,303727,542,19,1,65,1,HP:0000470,1
+HP:0000527,Long eyelashes,5037,159,13,1,139,1,HP:0009755,0
+HP:0000162,Glossoptosis,773,41,5,1,481,1,HP:0000162,1
+HP:0001258,Spastic paraplegia,38080,162,5,1,435,1,HP:0001258,1
+HP:0002027,Abdominal pain,408663,311,7,1,283,1,HP:0002027,1
+HP:0003124,Hypercholesterolemia,105173,86,4,1,509,1,HP:0003124,1
+HP:0001290,Generalized hypotonia,8655,725,34,1,24,1,HP:0001290,1
+HP:0002134,Abnormal basal ganglia morphology,24735,30,6,1,359,1,HP:0002510,0
+HP:0011042,Abnormal blood potassium concentration,47211,2,2,1,834,1,HP:0003078,0
+HP:0000718,Aggressive behavior,286928,344,18,1,74,1,HP:0000718,1
+HP:0004325,Decreased body weight,1905672,135,14,1,109,1,HP:0004325,1
+HP:0000375,Abnormal cochlea morphology,4605,7,7,1,321,1,HP:0000375,1
+HP:0010976,B lymphocytopenia,51679,57,2,1,827,1,HP:0001880,0
+HP:0002750,Delayed skeletal maturation,25617,391,3,1,669,1,HP:0003790,0
+HP:0002342,"Intellectual disability, moderate",51931,226,27,1,41,1,HP:0002342,1
+HP:0005407,Decreased proportion of CD4-positive helper T cells,1588,29,3,1,758,1,HP:0002728,0
+HP:0002120,Cerebral cortical atrophy,112618,280,9,1,217,1,HP:0002120,1
+HP:0000029,Testicular atrophy,12748,22,4,1,557,1,HP:0000026,0
+HP:0001279,Syncope,57832,111,7,1,296,1,HP:0001279,1
+HP:0001531,Failure to thrive in infancy,9168,94,7,1,316,1,HP:0001533,0
+HP:0001945,Fever,686134,384,11,1,160,1,HP:0001945,1
+HP:0006530,Abnormal pulmonary interstitial morphology,26140,48,4,1,538,1,HP:0006530,1
+HP:0002900,Hypokalemia,32401,84,4,1,529,1,HP:0002900,1
+HP:0000786,Primary amenorrhea,21307,122,8,1,263,1,HP:0000786,1
+HP:0000689,Dental malocclusion,16905,139,3,1,683,1,HP:0000689,1
+HP:0000272,Malar flattening,785,342,9,1,241,1,HP:0000274,0
+HP:0006829,Severe muscular hypotonia,15271,59,4,1,551,1,HP:0006829,1
+HP:0008944,Distal lower limb amyotrophy,10517,68,2,1,881,1,HP:0008944,1
+HP:0001387,Joint stiffness,107584,197,3,1,629,1,HP:0001389,0
+HP:0034364,Fibrofatty replacement of right ventricular myocardium,866,1,9,0,1681,2,HP:0006706,0
+HP:0008369,Abnormal tarsal ossification,780,1,1,1,1180,2,HP:0008136,0
+HP:0001596,Alopecia,46209,245,0,1,1272,2,HP:00000071,0
+HP:0003355,Aminoaciduria,2167,79,0,1,1424,2,HP:0002155,0
+HP:0002170,Intracranial hemorrhage,101792,65,1,1,996,2,HP:0002170,1
+HP:0001591,Bell-shaped thorax,594,42,0,1,1462,2,HP:0000929,0
+HP:0002586,Peritonitis,96503,34,1,1,997,2,HP:0005224,0
+HP:0004871,Perineal fistula,9055,5,13,0,1593,2,HP:0002562,0
+HP:0004493,Craniofacial hyperostosis,658,21,1,1,1186,2,HP:0004493,1
+HP:0000944,Abnormal metaphysis morphology,2104,82,1,1,1146,2,HP:0001374,0
+HP:0007477,Abnormal dermatoglyphics,606,66,2,1,953,2,HP:0002712,0
+HP:0000963,Thin skin,185592,100,0,1,1224,2,HP:0001025,0
+HP:0011001,Increased bone mineral density,111343,70,1,1,994,2,HP:0011001,1
+HP:0006520,Progressive pulmonary function impairment,86280,3,15,0,1567,2,HP:0006536,0
+HP:0007601,Midline facial capillary hemangioma,366,3,9,0,1684,2,HP:0001004,0
+HP:0002913,Myoglobinuria,3684,30,1,1,1125,2,HP:0003088,0
+HP:0001543,Gastroschisis,3694,14,0,1,1411,2,HP:0000078,0
+HP:0001525,Severe failure to thrive,24595,15,31,0,1520,2,HP:0001508,0
+HP:0005743,Avascular necrosis of the capital femoral epiphysis,2441,35,11,0,1631,2,HP:0006382,0
+HP:0000388,Otitis media,45409,43,1,1,1027,2,HP:0000388,1
+HP:0003075,Hypoproteinemia,9616,30,0,1,1344,2,HP:0003075,1
+HP:0000592,Blue sclerae,1288,152,0,1,1441,2,HP:0000593,0
+HP:0010295,Aplasia/Hypoplasia of the tongue,37,9,0,1,1489,2,HP:0000188,0
+HP:0000230,Gingivitis,22561,37,0,1,1299,2,HP:0000707,0
+HP:0000152,Abnormality of head or neck,801570,4,0,1,1213,2,HP:0000118,0
+HP:0001922,Vacuolated lymphocytes,5508,14,0,1,1376,2,HP:0001875,0
+HP:0003414,Atlantoaxial dislocation,1950,8,1,1,1150,2,HP:0003416,0
+HP:0001342,Cerebral hemorrhage,140677,56,0,1,1230,2,HP:0001347,0
+HP:0012260,Abnormal central microtubular pair morphology of respiratory motile cilia,0,2,0,1,1499,2,HP:0004703,0
+HP:0009791,Bifid sacrum,324,2,6,0,1855,2,HP:0008468,0
+HP:0005686,Patchy osteosclerosis,288,4,3,0,2556,3,HP:0005781,0
+HP:0000900,Thickened ribs,6221,9,4,0,2100,3,HP:0000922,0
+HP:0002821,Neuropathic arthropathy,2321,5,3,0,2461,3,HP:0009153,0
+HP:0004363,Abnormal circulating calcium concentration,35618,12,2,0,2783,3,HP:0003073,0
+HP:0000834,Abnormality of the adrenal glands,5519,13,4,0,2105,3,HP:0000814,0
+HP:0000188,Short upper lip,28689,9,4,0,2048,3,HP:0000183,0
+HP:0005374,Cellular immunodeficiency,297188,17,2,0,2645,3,HP:0002721,0
+HP:0000436,Abnormal nasal tip morphology,5721,1,5,0,1944,3,HP:0000463,0
+HP:0008670,Partial vaginal septum,2952,1,4,0,2124,3,HP:0002683,0
+HP:0000466,Limited neck range of motion,43219,5,3,0,2290,3,HP:0005909,0
+HP:0012020,Right aortic arch,77963,26,3,0,2264,3,HP:0011357,0
+HP:0005132,Pericardial constriction,5131,1,3,0,2416,3,HP:0001694,0
+HP:0005160,Total anomalous pulmonary venous return,3608,17,5,0,1954,3,HP:0005307,0
+HP:0004826,Folate-unresponsive megaloblastic anemia,0,2,3,0,2625,3,HP:0001889,0
+HP:0032355,Decreased peak expiratory flow,19749,1,5,0,1915,3,HP:0003119,0
+HP:0000071,Ureteral stenosis,8526,9,5,0,1934,3,HP:0000076,0
+HP:0001187,Hyperextensibility of the finger joints,370,29,3,0,2546,3,HP:0006230,0
+HP:0010562,Keloids,13998,24,3,0,2356,3,HP:0000767,0
+HP:0005537,Decreased mean platelet volume,92183,6,3,0,2254,3,HP:0004444,0
+HP:0001911,Abnormal granulocyte morphology,23476,3,4,0,2054,3,HP:0001881,0
+HP:0032553,Weak pulse,301067,2,2,0,2643,3,HP:0005092,0
+HP:0008305,Exercise-induced myoglobinuria,553,10,5,0,1979,3,HP:0003729,0
+HP:0000321,Square face,253806,20,2,0,2648,3,HP:0000274,0
+HP:0004639,Elevated amniotic fluid alpha-fetoprotein,893,5,3,0,2512,3,HP:0004990,0
+HP:0002518,Abnormal periventricular white matter morphology,6333,53,4,0,2098,3,HP:0002518,1
+HP:0003713,Muscle fiber necrosis,40498,20,3,0,2294,3,HP:0003746,0
+HP:0002266,Focal clonic seizure,39467,22,4,0,2034,3,HP:0002269,0
+HP:0001046,Intermittent jaundice,10104,14,3,0,2373,3,HP:0002907,0
+HP:0004523,Long eyebrows,8955,6,4,0,2089,3,HP:0002553,0
+HP:0012047,Hemeralopia,187427,12,3,0,2243,3,HP:0000521,0
+HP:0009875,Triangular shaped distal phalanges of the hand,227,2,2,0,3458,4,HP:0009834,0
+HP:0008357,Reduced factor XIII activity,10709,5,2,0,2960,4,HP:0001910,0
+HP:0031629,Impaired tandem gait,5462,13,2,0,3060,4,HP:0002141,0
+HP:0005386,Recurrent protozoan infections,7018,3,2,0,3021,4,HP:0002718,0
+HP:0020062,Decreased hemoglobin concentration,147482,5,1,0,3706,4,HP:0001903,0
+HP:0000913,Posterior rib fusion,5938,5,2,0,3045,4,HP:0004612,0
+HP:0033748,Hypoesthesia,11316,20,2,0,2951,4,HP:0001267,0
+HP:0006465,Periosteal thickening of long tubular bones,467,4,2,0,3385,4,HP:0006464,0
+HP:0010508,Metatarsus valgus,4270,11,2,0,3085,4,HP:0008236,0
+HP:0006779,Alveolar rhabdomyosarcoma,6775,2,2,0,3025,4,HP:0006739,0
+HP:0001869,Deep plantar creases,315,21,2,0,3427,4,HP:0001869,1
+HP:0020172,Adverse drug response,707949,2,1,0,3612,4,HP:0004298,0
+HP:0006394,Limited pronation/supination of forearm,771,13,2,0,3326,4,HP:0002993,0
+HP:0012705,Abnormal metabolic brain imaging by MRS,7889,3,2,0,3006,4,HP:0003449,0
+HP:0003131,Cystinuria,2048,10,2,0,3194,4,HP:0001974,0
+HP:0002979,Bowing of the legs,3571,54,2,0,3112,4,HP:0002817,0
+HP:0011947,Respiratory tract infection,528398,38,1,0,3617,4,HP:0002813,0
+HP:0004825,Increased hemoglobin oxygen affinity,24196,1,2,0,2829,4,HP:0008136,0
+HP:0007041,Chronic lymphocytic meningitis,14980,5,2,0,2905,4,HP:0002922,0
+HP:0032663,Focal motor status epilepticus,8132,5,2,0,2999,4,HP:0002197,0
+HP:0002140,Ischemic stroke,303324,26,1,0,3640,4,HP:0001297,0
+HP:0001912,Abnormal basophil morphology,4680,1,2,0,3079,4,HP:0004806,0
+HP:0006268,Fluctuating splenomegaly,771,2,2,0,3327,4,HP:0002591,0
+HP:0006665,Coat hanger sign of ribs,12,5,2,0,3570,4,HP:0006589,0
+HP:0004050,Absent hand,393557,10,1,0,3632,4,HP:0004059,0
+HP:0005291,Inflammatory arteriopathy,5146,2,2,0,3067,4,HP:0002634,0
+HP:0011822,Broad chin,18527,17,2,0,2871,4,HP:0000307,0
+HP:0000196,Lower lip pit,1784,6,2,0,3211,4,HP:0000189,0
+HP:0008499,High hypermetropia,9547,48,2,0,2979,4,HP:0003674,0
+HP:0040314,Blind vagina,10548,6,2,0,2963,4,HP:0000073,0
+HP:0007162,Diffuse demyelination of the cerebral white matter,12027,5,1,0,4361,5,HP:0007208,0
+HP:0007112,Temporal cortical atrophy,63693,8,1,0,3808,5,HP:0002121,0
+HP:0004385,Protracted diarrhea,9479,15,1,0,4474,5,HP:0002033,0
+HP:0032199,Abnormal prothrombin time,27684,2,1,0,4045,5,HP:0003151,0
+HP:0012137,Abnormal number of granulocyte precursors,9781,2,1,0,4457,5,HP:0001878,0
+HP:0010924,Posterior cortical cataract,7723,2,1,0,4552,5,HP:0007754,0
+HP:0012747,Abnormal brainstem MRI signal intensity,17208,13,1,0,4226,5,HP:0006889,0
+HP:0011152,Early onset absence seizures,86833,3,1,0,3765,5,HP:0002368,0
+HP:0007489,Diffuse telangiectasia,8324,3,1,0,4522,5,HP:0001004,0
+HP:0031962,Elevated serum anion gap,10997,7,1,0,4400,5,HP:0003262,0
+HP:0005523,Lymphoproliferative disorder,94122,21,1,0,3757,5,HP:0002729,0
+HP:0012163,Carotid artery dilatation,20867,8,1,0,4147,5,HP:0002625,0
+HP:0011966,Elevated plasma citrulline,9263,10,1,0,4484,5,HP:0003544,0
+HP:0011530,Retinal hole,17653,8,1,0,4214,5,HP:0007909,0
+HP:0005571,Increased renal tubular phosphate reabsorption,10543,1,1,0,4419,5,HP:0004847,0
+HP:0000867,Secondary hyperparathyroidism,22359,8,1,0,4124,5,HP:0008206,0
+HP:0011051,Agenesis of premolar,9299,4,1,0,4482,5,HP:0008070,0
+HP:0008555,Absent vestibular function,12707,4,1,0,4334,5,HP:0000119,0
+HP:0009902,Cleft helix,23453,1,1,0,4106,5,HP:0000407,0
+HP:0002356,Writer's cramp,10593,25,1,0,4416,5,HP:0002068,0
+HP:0005972,Respiratory acidosis,55042,2,1,0,3856,5,HP:0005977,0
+HP:0100324,Scleroderma,33705,20,1,0,3985,5,HP:0000767,0
+HP:0002203,Respiratory paralysis,54690,10,1,0,3858,5,HP:0002188,0
+HP:0007987,Progressive visual field defects,50020,9,1,0,3878,5,HP:0001130,0
+HP:0003324,Generalized muscle weakness,30473,99,1,0,4007,5,HP:0003322,0
+HP:0100630,Neoplasia of the nasopharynx,34496,2,1,0,3978,5,HP:0006759,0
+HP:0030724,Central nervous system cyst,28570,2,1,0,4034,5,HP:0002111,0
+HP:0020035,Lower limb dysmetria,11788,1,1,0,4371,5,HP:0002061,0
+HP:0032219,Increased proportion of CD4-positive T cells,10454,1,1,0,4424,5,HP:0002728,0
+HP:0008629,Pulsatile tinnitus,31532,9,1,0,3997,5,HP:0010731,0
+HP:0030786,Photopsia,1345,11,1,0,5269,6,HP:0000612,0
+HP:0012059,Lentigo maligna melanoma,2342,1,1,0,5072,6,HP:0006739,0
+HP:0011701,Multifocal atrial tachycardia,2258,1,1,0,5089,6,HP:0011705,0
+HP:0004582,Irregularity of vertebral bodies,2388,5,1,0,5060,6,HP:0003301,0
+HP:0011043,Abnormal circulating adrenocorticotropin concentration,2758,3,1,0,5012,6,HP:0011744,0
+HP:0002946,Supernumerary vertebrae,2297,3,1,0,5078,6,HP:0008434,0
+HP:0004729,Acute tubulointerstitial nephritis,1208,1,1,0,5310,6,HP:0001970,0
+HP:0030143,Hyperactive bowel sounds,1101,3,1,0,5341,6,HP:0002597,0
+HP:0008740,Longitudinal vaginal septum,1793,2,1,0,5165,6,HP:0000136,0
+HP:0012071,Abnormal circulating acylcarnitine concentration,929,4,1,0,5398,6,HP:0011024,0
+HP:0045059,Hyperkeratotic papule,599,17,1,0,5555,6,HP:0007483,0
+HP:0008231,Macronodular adrenal hyperplasia,731,3,1,0,5489,6,HP:0006704,0
+HP:0011470,Nasogastric tube feeding in infancy,1737,37,1,0,5179,6,HP:0011968,0
+HP:0032192,Hydatidiform mole,3440,4,1,0,4921,6,HP:0009721,0
+HP:0025392,Nodular pattern on pulmonary HRCT,1577,8,1,0,5210,6,HP:0012162,0
+HP:0006692,Short chordae tendineae of the tricuspid valve,933,2,1,0,5394,6,HP:0011664,0
+HP:0008467,Thoracic hemivertebrae,810,9,1,0,5451,6,HP:0008467,1
+HP:0009904,Prominent ear helix,2969,7,1,0,4974,6,HP:0009911,0
+HP:0002195,Dysgenesis of the cerebellar vermis,3732,8,1,0,4880,6,HP:0002197,0
+HP:0005241,Total intestinal aganglionosis,2385,2,1,0,5061,6,HP:0002255,0
+HP:0025162,Severe temper tantrums,1979,6,1,0,5130,6,HP:0000718,0
+HP:0009937,Facial hirsutism,4356,11,1,0,4820,6,HP:0002225,0
+HP:0001691,Muscular subvalvular aortic stenosis,844,1,1,0,5435,6,HP:0004444,0
+HP:0004859,Amegakaryocytic thrombocytopenia,713,4,1,0,5502,6,HP:0001902,0
+HP:0030503,Macular telangiectasia,3155,2,1,0,4947,6,HP:0001103,0
+HP:0031630,Abnormal subpleural morphology,1576,1,1,0,5211,6,HP:0004712,0
+HP:0003440,Horizontal sacrum,4481,4,1,0,4803,6,HP:0003280,0
+HP:0008110,Equinovarus deformity,5038,17,1,0,4746,6,HP:0001762,0
+HP:0004268,Osteoarthritis of the small joints of the hand,4454,4,1,0,4806,6,HP:0004205,0
+HP:0005368,Abnormality of humoral immunity,5267,6,1,0,4723,6,HP:0002717,0
+HP:0011940,Anterior wedging of T12,413,2,1,0,5700,7,HP:0008431,0
+HP:0030974,Cryptozoospermia,0,6,1,0,6489,7,HP:0007281,0
+HP:0008705,Ureteral triplication,83,1,1,0,6121,7,HP:0000076,0
+HP:0004458,Dilatated internal auditory canal,17,4,1,0,6319,7,HP:0008674,0
+HP:0006432,Trapezoidal distal femoral condyles,433,2,1,0,5683,7,HP:0006436,0
+HP:0025630,Argininosuccinic aciduria,510,2,1,0,5625,7,HP:0002159,0
+HP:0006406,Club-shaped proximal femur,127,2,1,0,6026,7,HP:0006383,0
+HP:0006378,Osteolysis of patellae,157,1,1,0,5979,7,HP:0005094,0
+HP:0011087,Talon cusp,315,10,1,0,5786,7,HP:0000689,0
+HP:0100266,Synostosis of carpals/tarsals,3,2,1,0,6445,7,HP:0001491,0
+HP:0005802,Coalescence of tarsal bones,76,2,1,0,6137,7,HP:0008081,0
+HP:0025572,Punctal stenosis,422,1,1,0,5696,7,HP:0000614,0
+HP:0025357,Erratic myoclonus,247,4,1,0,5857,7,HP:0002129,0
+HP:0009767,Aplasia/Hypoplasia of the phalanges of the hand,23,6,1,0,6288,7,HP:0001500,0
+HP:0030867,Vertical orbital dystopia,210,1,1,0,5903,7,HP:0000337,0
+HP:0010291,Prominent palatine ridges,519,6,1,0,5621,7,HP:0000194,0
+HP:0005463,Elongated sella turcica,404,1,1,0,5709,7,HP:0002684,0
+HP:0002552,Trichodysplasia,442,8,1,0,5674,7,HP:0002162,0
+HP:0009276,Contracture of the proximal interphalangeal joint of the 4th finger,173,6,1,0,5950,7,HP:0001208,0
+HP:0011599,Mesocardia,265,5,1,0,5836,7,HP:0004700,0
+HP:0003226,Rectilinear intracellular accumulation of autofluorescent lipopigment storage material,21,3,1,0,6299,7,HP:0002718,0
+HP:0002439,Frontolimbic dementia,459,2,1,0,5662,7,HP:0002355,0
+HP:0025492,Microcoria,176,5,1,0,5944,7,HP:0000614,0
+HP:0000675,Macrodontia of permanent maxillary central incisor,110,13,1,0,6058,7,HP:0001567,0
+HP:0100745,Abnormality of the humeroulnar joint,33,3,1,0,6255,7,HP:0006236,0
+HP:0007603,Freckles in sun-exposed areas,407,4,1,0,5704,7,HP:0001005,0
+HP:0006321,Multiple non-erupting secondary teeth,3,1,1,0,6448,7,HP:0006284,0
+HP:0012021,Persistent patent ductus venosus,141,2,1,0,6005,7,HP:0006551,0
+HP:0003411,Proximal femoral metaphyseal irregularity,322,7,1,0,5776,7,HP:0006361,0
+HP:0500182,Hypotaurinemia,9,1,1,0,6380,7,HP:0011972,0
+HP:0040307,Male sexual dysfunction,76921,8,0,0,7022,8,HP:0011948,0
+HP:0000802,Impotence,43474,44,0,0,7417,8,HP:0000805,0
+HP:0010818,Generalized tonic seizure,54809,53,0,0,7258,8,HP:0002069,0
+HP:0010931,Abnormal blood sodium concentration,122111,1,0,0,6823,8,HP:0003075,0
+HP:0010741,Pedal edema,44118,59,0,0,7410,8,HP:0004429,0
+HP:0034252,Absent corneal reflex,62812,3,0,0,7137,8,HP:0000647,0
+HP:0031035,Chronic infection,1270454,14,0,0,6537,8,HP:0004436,0
+HP:0100801,Pancreatic aplasia,125642,7,0,0,6816,8,HP:0001736,0
+HP:6000239,Elevated circulating tumor necrosis factor alpha concentration,70082,1,0,0,7072,8,HP:0003546,0
+HP:0011421,Death in adolescence,224637,22,0,0,6666,8,HP:0003826,0
+HP:0030886,Abnormal lymphocyte apoptosis,89850,1,0,0,6938,8,HP:0002854,0
+HP:0100790,Hernia,93375,60,0,0,6922,8,HP:0002091,0
+HP:0011876,Abnormal platelet volume,63949,2,0,0,7125,8,HP:0001873,0
+HP:0012142,Pancreatic squamous cell carcinoma,115189,2,0,0,6842,8,HP:0006691,0
+HP:0003454,Platelet antibody positive,218732,3,0,0,6671,8,HP:0004855,0
+HP:0001700,Myocardial necrosis,512129,3,0,0,6579,8,HP:0001654,0
+HP:0034308,Prolonged P wave,101115,2,0,0,6889,8,HP:0011708,0
+HP:0003305,Block vertebrae,61477,8,0,0,7158,8,HP:0003301,0
+HP:0011302,Long palm,71724,7,0,0,7058,8,HP:0001169,0
+HP:0040223,Pulmonary hemorrhage,196209,12,0,0,6695,8,HP:0002105,0
+HP:0040264,Jaw pain,43345,4,0,0,7419,8,HP:0000245,0
+HP:0033399,Persistent fever,138113,2,0,0,6784,8,HP:0001955,0
+HP:0012245,Sex reversal,76328,21,0,0,7026,8,HP:0012243,0
+HP:0008011,Peripheral opacification of the cornea,0,1,1,0,6506,8,HP:0007754,0
+HP:0033061,Increased factor IX activity,65270,1,0,0,7115,8,HP:0011901,0
+HP:0012584,Bilateral renal hypoplasia,51050,7,0,0,7308,8,HP:0008673,0
+HP:0040198,Non-medullary thyroid carcinoma,59092,5,0,0,7189,8,HP:0002891,0
+HP:0033253,Reduced circulating interferon gamma concentration,50225,1,0,0,7319,8,HP:0003128,0
+HP:0001009,Telangiectasia,47055,55,0,0,7370,8,HP:0001004,0
+HP:0100027,Recurrent pancreatitis,82385,9,0,0,6984,8,HP:0001735,0
+HP:0033247,Pulmonary amyloidosis,18508,1,0,0,8354,9,HP:0002092,0
+HP:0011106,Hypovolemia,23166,17,0,0,8035,9,HP:0001945,0
+HP:0011056,Agenesis of first permanent molar tooth,21606,1,0,0,8121,9,HP:0008070,0
+HP:0002343,Normal pressure hydrocephalus,22863,7,0,0,8057,9,HP:0002601,0
+HP:0032242,Cervical intraepithelial neoplasia,28356,1,0,0,7816,9,HP:0003011,0
+HP:0005186,Synovial lining hyperplasia,36738,3,0,0,7567,9,HP:0005926,0
+HP:0031086,Ectopic ovary,21659,1,0,0,8117,9,HP:0008674,0
+HP:0100954,Open operculum,18502,5,0,0,8355,9,HP:0002681,0
+HP:0005353,Recurrent herpes,36263,15,0,0,7581,9,HP:0001004,0
+HP:0011368,Epidermal thickening,25082,3,0,0,7944,9,HP:0001010,0
+HP:0100819,Intestinal fistula,30796,3,0,0,7730,9,HP:0002575,0
+HP:0100648,Neoplasm of the tongue,30912,6,0,0,7723,9,HP:0002721,0
+HP:0004387,Enterocolitis,39444,18,0,0,7493,9,HP:0002543,0
+HP:0100295,Muscle fiber atrophy,36419,23,0,0,7577,9,HP:0003560,0
+HP:0012158,Carotid artery dissection,34381,4,0,0,7624,9,HP:0002625,0
+HP:0100773,Cartilage destruction,41794,5,0,0,7444,9,HP:0000921,0
+HP:0034259,Hypoplasia of the midbrain,36267,1,0,0,7580,9,HP:0012089,0
+HP:0011935,Decreased urinary urate,19504,6,0,0,8279,9,HP:0003147,0
+HP:0012851,Colonic stenosis,25006,1,0,0,7947,9,HP:0002039,0
+HP:0012133,Erythroid hypoplasia,26083,15,0,0,7903,9,HP:0001909,0
+HP:0005187,Progressive joint destruction,28618,3,0,0,7803,9,HP:0009026,0
+HP:0040044,Hypoplasia of the diaphragm,26878,2,0,0,7876,9,HP:0006558,0
+HP:0410204,Increased intestinal transit time,36489,1,0,0,7575,9,HP:0002037,0
+HP:0031456,Ectopic pregnancy,38015,1,0,0,7534,9,HP:0006974,0
+HP:0032153,Joint subluxation,36960,12,0,0,7562,9,HP:0001384,0
+HP:0100679,Lack of skin elasticity,18661,23,0,0,8343,9,HP:0000963,0
+HP:0012250,ST segment depression,36133,8,0,0,7583,9,HP:0005173,0
+HP:0005207,Gastric hypertrophy,36058,1,0,0,7586,9,HP:0002591,0
+HP:0041068,Chronic decreased circulating IgG1,23163,1,0,0,8036,9,HP:0002728,0
+HP:0007394,Prominent superficial blood vessels,19233,6,0,0,8299,9,HP:0001028,0
+HP:0031817,Decreased circulating parathyroid hormone level,13637,10,0,0,8782,10,HP:0003155,0
+HP:0005235,Jejunal atresia,9994,14,0,0,9282,10,HP:0005238,0
+HP:0008715,Testicular dysgenesis,12115,7,0,0,8971,10,HP:0000026,0
+HP:0012621,Persistent cloaca,10218,2,0,0,9233,10,HP:0002566,0
+HP:0030848,Elevated jugular venous pressure,16327,12,0,0,8531,10,HP:0005911,0
+HP:0040134,Abnormal hepatic iron concentration,16636,1,0,0,8509,10,HP:0002363,0
+HP:0007980,Absent retinal pigment epithelium,11779,4,0,0,9010,10,HP:0008046,0
+HP:0012698,Cerebellar gliosis,16691,4,0,0,8507,10,HP:0002509,0
+HP:0011919,Pleural empyema,13092,8,0,0,8853,10,HP:0002204,0
+HP:0500233,Increased CSF alanine concentration,11009,3,0,0,9115,10,HP:0012161,0
+HP:0033310,Osmotic diarrhea,11969,1,0,0,8985,10,HP:0002032,0
+HP:0003733,Thigh hypertrophy,10044,3,0,0,9273,10,HP:0001489,0
+HP:0032670,Tonic status epilepticus,9987,1,0,0,9285,10,HP:0002197,0
+HP:0007924,Slow decrease in visual acuity,12288,15,0,0,8955,10,HP:0001130,0
+HP:0025148,Dark choroid,17929,1,0,0,8405,10,HP:0007908,0
+HP:0030499,Macular drusen,10389,6,0,0,9204,10,HP:0001091,0
+HP:0005222,Bowel diverticulosis,13607,1,0,0,8787,10,HP:0002258,0
+HP:0010909,Abnormal circulating arginine concentration,12574,2,0,0,8916,10,HP:0003238,0
+HP:0030409,Renal transitional cell carcinoma,14270,1,0,0,8705,10,HP:0006766,0
+HP:3000043,Abnormal facial vein morphology,10737,1,0,0,9159,10,HP:0002666,0
+HP:0030043,Hip subluxation,14883,30,0,0,8646,10,HP:0008803,0
+HP:0002406,Limb dysmetria,16265,13,0,0,8537,10,HP:0002063,0
+HP:0034588,Crypt hyperplasia,10743,1,0,0,9158,10,HP:0005151,0
+HP:0011830,Abnormal oral mucosa morphology,18291,15,0,0,8375,10,HP:0000163,0
+HP:0004345,Ganglioside accumulation,13272,4,0,0,8822,10,HP:0003330,0
+HP:0004394,Multiple gastric polyps,15997,11,0,0,8558,10,HP:0004394,1
+HP:0009050,Quadriceps muscle atrophy,13919,9,0,0,8731,10,HP:0003700,0
+HP:0030095,Reduced muscle collagen VI,17418,3,0,0,8460,10,HP:0011804,0
+HP:0009461,Short 3rd finger,16712,1,0,0,8503,10,HP:0004222,0
+HP:0012473,Tongue atrophy,16962,25,0,0,8487,10,HP:0000221,0
+HP:0005964,Intermittent hypothermia,8140,2,0,0,9618,11,HP:0003491,0
+HP:0006433,Radial dysplasia,9069,2,0,0,9439,11,HP:0009810,0
+HP:0010822,Scintillating scotoma,9872,2,0,0,9297,11,HP:0001123,0
+HP:0030816,Gingival recession,7220,6,0,0,9846,11,HP:0000168,0
+HP:0004510,Pancreatic islet-cell hyperplasia,9039,11,0,0,9442,11,HP:0008206,0
+HP:0030235,Extremely elevated creatine kinase,7432,3,0,0,9794,11,HP:0003238,0
+HP:0002530,Axial dystonia,6887,19,0,0,9932,11,HP:0002300,0
+HP:0008191,Thyroid agenesis,6000,7,0,0,10152,11,HP:0008206,0
+HP:0025416,Vaginal stricture,5905,2,0,0,10177,11,HP:0000143,0
+HP:0004931,Arteriosclerosis of small cerebral arteries,7275,2,0,0,9835,11,HP:0007203,0
+HP:0031468,Separation insecurity,9443,1,0,0,9367,11,HP:0100873,0
+HP:0030914,Abnormal peristalsis,9746,2,0,0,9318,11,HP:0002574,0
+HP:0012218,Alveolar soft part sarcoma,6085,1,0,0,10123,11,HP:0006739,0
+HP:0010676,Mechanical ileus,9108,1,0,0,9432,11,HP:0002594,0
+HP:0005950,Laryngeal web,9587,6,0,0,9346,11,HP:0001601,0
+HP:0003166,Increased urinary taurine,6602,5,0,0,9997,11,HP:0011972,0
+HP:0430074,Increased circulating beta-carotene concentration,5999,1,0,0,10153,11,HP:0011028,0
+HP:0012230,Rhegmatogenous retinal detachment,5923,7,0,0,10170,11,HP:0001148,0
+HP:0010997,Chromosomal breakage induced by ionizing radiation,5831,3,0,0,10200,11,HP:0001008,0
+HP:0030416,Vulvar neoplasm,7207,2,0,0,9854,11,HP:0003002,0
+HP:0031219,Reduced radioactive iodine uptake,9126,7,0,0,9425,11,HP:0000811,0
+HP:0100960,Lateral ventricular asymmetry,6141,3,0,0,10115,11,HP:0002359,0
+HP:0500253,Increased level of gamma-aminobutyric acid in urine,5843,1,0,0,10199,11,HP:0012003,0
+HP:0012787,Recurrent pyelonephritis,8955,1,0,0,9455,11,HP:0004747,0
+HP:0030410,Sebaceous gland carcinoma,6149,1,0,0,10111,11,HP:0001009,0
+HP:0025028,Abnormal enteric nervous system morphology,6181,1,0,0,10103,11,HP:0004331,0
+HP:0009714,Abnormal epididymis morphology,7165,2,0,0,9863,11,HP:0000073,0
+HP:0030584,Color vision test abnormality,7093,3,0,0,9878,11,HP:0000556,0
+HP:0025312,Esophoria,5816,8,0,0,10206,11,HP:0000486,0
+HP:0012551,Absent neutrophil specific granules,8141,2,0,0,9617,11,HP:0001881,0
+HP:0034681,Finger joint contracture,4106,5,0,0,10885,12,HP:0005974,0
+HP:0012150,Single lineage myelodysplasia,3995,2,0,0,10938,12,HP:0005513,0
+HP:0410400,Absent sebaceous glands,3962,1,0,0,10965,12,HP:0001018,0
+HP:0012113,Abnormal circulating creatine concentration,5403,2,0,0,10358,12,HP:0011026,0
+HP:0034288,Elevated circulating reverse T3 concentration,5364,2,0,0,10370,12,HP:0003451,0
+HP:0004231,Carpal bone aplasia,4865,5,0,0,10574,12,HP:0001495,0
+HP:0002139,Arrhinencephaly,4925,23,0,0,10542,12,HP:0002539,0
+HP:0010915,Abnormal circulating pyruvate family amino acid concentration,3937,1,0,0,10974,12,HP:0011028,0
+HP:0031939,Conus terminalis arteriovenous malformation,3970,1,0,0,10959,12,HP:0012721,0
+HP:0004732,Impaired renal uric acid clearance,5655,3,0,0,10250,12,HP:0004336,0
+HP:0002655,Spondyloepiphyseal dysplasia,5748,29,0,0,10223,12,HP:0002658,0
+HP:0025195,Central diaphragmatic hernia,5421,2,0,0,10343,12,HP:0000776,0
+HP:0100838,Recurrent cutaneous abscess formation,4237,15,0,0,10836,12,HP:0001057,0
+HP:0033117,Duodenitis,4995,3,0,0,10514,12,HP:0002593,0
+HP:0007886,Absent extraocular muscles,5105,1,0,0,10470,12,HP:0000645,0
+HP:0030338,Abnormal circulating gonadotropin concentration,5608,1,0,0,10271,12,HP:0000835,0
+HP:0008707,Absent scrotum,5439,4,0,0,10336,12,HP:0000060,0
+HP:0009473,Joint contracture of the hand,4055,81,0,0,10912,12,HP:0009473,1
+HP:0008390,Recurrent loss of toenails and fingernails,4035,3,0,0,10921,12,HP:0001809,0
+HP:0032724,Focal impaired awareness tonic seizure,5238,1,0,0,10413,12,HP:0002197,0
+HP:0030745,Dilatation of the ductus arteriosus,4886,6,0,0,10563,12,HP:0001643,0
+HP:0012148,Multiple lineage myelodysplasia,3966,3,0,0,10962,12,HP:0005518,0
+HP:0007504,Diffuse slow skin atrophy,5741,1,0,0,10226,12,HP:0007559,0
+HP:0011483,Anterior synechiae of the anterior chamber,4817,12,0,0,10593,12,HP:0007833,0
+HP:0012732,Anorectal anomaly,3734,14,0,0,11066,12,HP:0000057,0
+HP:0031372,Cold paresis,5027,3,0,0,10501,12,HP:0001288,0
+HP:0008132,Medial rotation of the medial malleolus,4029,1,0,0,10925,12,HP:0006466,0
+HP:0034985,Reduced cellular cobalamin uptake,4783,1,0,0,10604,12,HP:0011972,0
+HP:0031877,Elevated circulating hepcidin concentration,3766,4,0,0,11054,12,HP:0012167,0
+HP:0004704,Short fifth metatarsal,3663,11,0,0,11097,12,HP:0008195,0
+HP:0007628,Mandibular condyle hypoplasia,2326,5,0,0,11933,13,HP:0009711,0
+HP:0008461,Cervical vertebral facet hypoplasia,3028,1,0,0,11444,13,HP:0008433,0
+HP:0012016,EEG with occipital focal spikes,3192,2,0,0,11349,13,HP:0011167,0
+HP:0200049,Upper limb hypertonia,3343,7,0,0,11268,13,HP:0008904,0
+HP:0003183,Wide pubic symphysis,2555,7,0,0,11765,13,HP:0008853,0
+HP:0012872,Abnormal vas deferens morphology,2412,2,0,0,11876,13,HP:0000073,0
+HP:0007768,Central retinal vessel vascular tortuosity,3289,5,0,0,11295,13,HP:0001098,0
+HP:0004269,Subluxation of the small joints of the hand,2227,2,0,0,12016,13,HP:0009493,0
+HP:0031171,Femoral spur,2164,1,0,0,12068,13,HP:0006334,0
+HP:0001474,Sclerotic scapulae,2745,3,0,0,11643,13,HP:0009759,0
+HP:0011546,Abnormal atrioventricular connection,3321,1,0,0,11280,13,HP:0001571,0
+HP:0001070,Mottled pigmentation,2291,8,0,0,11958,13,HP:0005683,0
+HP:0000471,Gastrointestinal angiodysplasia,2211,9,0,0,12024,13,HP:0002593,0
+HP:6000139,Splinter hemorrhages,2240,1,0,0,12005,13,HP:0002204,0
+HP:0031504,Foamy urine,2935,3,0,0,11509,13,HP:0000124,0
+HP:0009077,Weakness of long finger extensor muscles,3467,10,0,0,11205,13,HP:0003387,0
+HP:0000145,Transverse vaginal septum,2160,4,0,0,12071,13,HP:0000819,0
+HP:0100040,Broad 2nd toe,2419,4,0,0,11871,13,HP:0001863,0
+HP:0009717,Cortical tubers,3079,4,0,0,11411,13,HP:0002121,0
+HP:0009722,Dental enamel pits,2618,11,0,0,11719,13,HP:0000682,0
+HP:6000483,Empty sella turcica,2211,1,0,0,12025,13,HP:0002679,0
+HP:0034324,Brachiocephalic artery aneurysm,3248,1,0,0,11324,13,HP:0005141,0
+HP:0034180,Fusion of the caudate and putamen,3566,1,0,0,11149,13,HP:0002331,0
+HP:0009085,Alveolar ridge overgrowth,3215,18,0,0,11341,13,HP:0000163,0
+HP:0012817,Noncompaction cardiomyopathy,3017,7,0,0,11449,13,HP:0006637,0
+HP:0025389,Pulmonary interstitial high-resolution computed tomography abnormality,2875,1,0,0,11547,13,HP:0012162,0
+HP:0005060,Limited elbow flexion/extension,2299,3,0,0,11953,13,HP:0002996,0
+HP:0001151,Impaired horizontal smooth pursuit,2188,8,0,0,12042,13,HP:0001158,0
+HP:0032025,Reduced circulating alpha-1-antitrypsin concentration,2835,2,0,0,11578,13,HP:0004856,0
+HP:0033812,Decreased circulating androstenedione concentration,3303,1,0,0,11286,13,HP:0011767,0
+HP:0100306,Muscle fiber hyaline bodies,1980,1,0,0,12231,14,HP:0003766,0
+HP:0400000,Tall chin,1783,7,0,0,12418,14,HP:0000331,0
+HP:0012259,Absent inner and outer dynein arms,1408,5,0,0,12835,14,HP:0002139,0
+HP:0045044,Decreased circulating complement C4b concentration,1518,1,0,0,12708,14,HP:0012166,0
+HP:0034773,Oscillopsia,1562,1,0,0,12663,14,HP:0001263,0
+HP:0009729,Cardiac rhabdomyoma,1351,6,0,0,12907,14,HP:0006709,0
+HP:0020074,Crystalluria,1552,3,0,0,12676,14,HP:0003142,0
+HP:0000227,Tongue telangiectasia,1813,4,0,0,12386,14,HP:0000196,0
+HP:0006149,Increased laxity of fingers,1662,3,0,0,12561,14,HP:0001199,0
+HP:0008336,Complex organic aciduria,1932,2,0,0,12280,14,HP:0003541,0
+HP:0100301,Muscle fiber tubular inclusions,1310,4,0,0,12959,14,HP:0003808,0
+HP:0034383,Elevated circulating biliverdin concentration,1413,1,0,0,12830,14,HP:0011973,0
+HP:0002991,Abnormal fibula morphology,2136,24,0,0,12095,14,HP:0002814,0
+HP:6000619,Reduced phosphoenolpyruvate carboxykinase activity in cultured fibroblasts,1609,1,0,0,12619,14,HP:0012455,0
+HP:0030736,Sacrococcygeal teratoma,1501,5,0,0,12730,14,HP:0009793,0
+HP:0007481,Hyperpigmented nevi,1362,6,0,0,12894,14,HP:0000997,0
+HP:0008422,Vertebral wedging,1977,16,0,0,12238,14,HP:0004564,0
+HP:0025403,Stooped posture,1401,10,0,0,12843,14,HP:0002808,0
+HP:6000334,Reduced hepatic ornithine transcarbamylase activity,1509,1,0,0,12719,14,HP:0004659,0
+HP:0012680,Abnormality of the pineal gland,1393,1,0,0,12853,14,HP:0002503,0
+HP:0200105,Absent fifth toenail,1700,2,0,0,12517,14,HP:0001814,0
+HP:0034703,Keratinocyte vacuolization,1726,1,0,0,12485,14,HP:0003714,0
+HP:0030428,Cutaneous myxoma,1430,3,0,0,12807,14,HP:0001008,0
+HP:0031549,Lymphocytoma cutis,1316,1,0,0,12948,14,HP:0001001,0
+HP:0002867,Abnormal ilium morphology,1276,9,0,0,12997,14,HP:0003357,0
+HP:0005210,Hypoplastic colon,1972,1,0,0,12245,14,HP:0002573,0
+HP:0003140,T-wave inversion in the right precordial leads,1950,2,0,0,12268,14,HP:0005153,0
+HP:0032592,Aplasia of the right hemidiaphragm,1518,2,0,0,12706,14,HP:0006703,0
+HP:0002786,Tracheobronchomalacia,1327,14,0,0,12941,14,HP:0002780,0
+HP:0006285,Enamel hypomineralization,1614,11,0,0,12606,14,HP:0006297,0
+HP:0007098,Paroxysmal choreoathetosis,820,4,0,0,13740,15,HP:0002071,0
+HP:0012033,Sacral lipoma,1214,5,0,0,13080,15,HP:0009719,0
+HP:0005059,Arthralgia/arthritis,783,4,0,0,13828,15,HP:0005764,0
+HP:0032161,Coccidioidal meningitis,792,1,0,0,13810,15,HP:0001288,0
+HP:0030044,Flexion contracture of digit,951,4,0,0,13498,15,HP:0005836,0
+HP:0011388,Enlarged cochlear aqueduct,1161,3,0,0,13162,15,HP:0008744,0
+HP:0005211,Midgut malrotation,1154,5,0,0,13179,15,HP:0005286,0
+HP:0009100,Thick anterior alveolar ridges,900,2,0,0,13602,15,HP:0000194,0
+HP:0004472,Mandibular hyperostosis,1097,1,0,0,13267,15,HP:0009153,0
+HP:0025552,Periorbital purpura,942,1,0,0,13523,15,HP:0007433,0
+HP:0034319,CNS vasculitis with reactivation of varicella-zoster virus,863,1,0,0,13660,15,HP:0031516,0
+HP:0007486,Cavernous hemangioma of the face,1134,4,0,0,13203,15,HP:0001008,0
+HP:0025677,Fetal chylothorax,742,1,0,0,13908,15,HP:0004705,0
+HP:0007979,Gaze-evoked horizontal nystagmus,1160,21,0,0,13165,15,HP:0000666,0
+HP:0011746,Secretory adrenocortical adenoma,793,2,0,0,13808,15,HP:0006739,0
+HP:0002545,Patchy demyelination of subcortical white matter,1120,4,0,0,13223,15,HP:0012753,0
+HP:4000165,Decreased circulating plasmalogen concentration,1106,1,0,0,13254,15,HP:0011001,0
+HP:0100856,Poorly ossified vertebrae,1158,3,0,0,13173,15,HP:0004582,0
+HP:0007841,Amyloid deposition in the vitreous humor,1082,1,0,0,13287,15,HP:0007809,0
+HP:0007937,Reticular pigmentary degeneration,846,4,0,0,13700,15,HP:0007892,0
+HP:0200068,Nonprogressive visual loss,1179,2,0,0,13134,15,HP:0001117,0
+HP:0031800,Elevated circulating apolipoprotein A-II concentration,777,2,0,0,13841,15,HP:0012168,0
+HP:0007545,Congenital palmoplantar hyperkeratosis,1041,3,0,0,13349,15,HP:0000983,0
+HP:0006308,Atrophy of alveolar ridges,910,6,0,0,13579,15,HP:0000225,0
+HP:0001102,Angioid streaks of the fundus,1226,11,0,0,13068,15,HP:0001100,0
+HP:0003538,Increased iduronate sulfatase level,787,4,0,0,13823,15,HP:0012165,0
+HP:0009602,Abnormality of thumb phalanx,913,2,0,0,13572,15,HP:0001164,0
+HP:0001495,Carpal osteolysis,1169,5,0,0,13146,15,HP:0006707,0
+HP:0004434,Decreased circulating complement C8 concentration,1138,2,0,0,13198,15,HP:0004859,0
+HP:0031512,Abnormal cutaneous collagen fibril morphology,746,1,0,0,13902,15,HP:0001009,0
+HP:0410395,"Increased proportion of effector memory CD8-positive, alpha-beta T cells",674,2,0,0,14073,16,HP:0031244,0
+HP:0100869,Palmar telangiectasia,596,6,0,0,14265,16,HP:0001050,0
+HP:0004699,Osteoporotic metatarsal,730,1,0,0,13936,16,HP:0005098,0
+HP:0025358,Uveal ectropion,565,6,0,0,14350,16,HP:0000612,0
+HP:0008001,Foveal hyperpigmentation,631,4,0,0,14173,16,HP:0001103,0
+HP:0025081,Darier's sign,415,4,0,0,14805,16,HP:0000777,0
+HP:0010593,Abnormal fibular epiphysis morphology,506,1,0,0,14502,16,HP:0006361,0
+HP:0034174,Reduced circulating interleukin 27 concentration,683,1,0,0,14054,16,HP:0012166,0
+HP:0410074,Increased level of xylitol in urine,674,1,0,0,14074,16,HP:0012166,0
+HP:0011454,Abnormal malleus morphology,456,2,0,0,14655,16,HP:0005282,0
+HP:0007737,Bone spicule pigmentation of the retina,718,84,0,0,13965,16,HP:0008042,0
+HP:0031136,Decreased acrosin in sperm head,406,1,0,0,14832,16,HP:0012035,0
+HP:0003570,Molybdenum cofactor deficiency,522,3,0,0,14469,16,HP:0003146,0
+HP:6000234,Elevated circulating dihydroxyphenylacetic acid concentration,524,1,0,0,14461,16,HP:0012168,0
+HP:0030465,Undetectable light-adapted electroretinogram,420,3,0,0,14784,16,HP:0000556,0
+HP:0011230,Laterally extended eyebrow,559,5,0,0,14368,16,HP:0002255,0
+HP:0100380,Aplasia of the distal phalanx of the 5th toe,415,3,0,0,14806,16,HP:0006206,0
+HP:0006106,Absent trapezoid bone,710,1,0,0,13985,16,HP:0009701,0
+HP:6000989,Slit-like lateral ventricle,594,1,0,0,14270,16,HP:0006959,0
+HP:0003744,Genetic anticipation with paternal anticipation bias,691,2,0,0,14035,16,HP:0003745,0
+HP:0004913,Intermittent lactic acidemia,614,3,0,0,14219,16,HP:0004853,0
+HP:0005592,Giant melanosomes in melanocytes,409,5,0,0,14822,16,HP:0007554,0
+HP:0031087,Absent pubertal growth spurt,708,6,0,0,13990,16,HP:0002650,0
+HP:0025239,Subhyaloid hemorrhage,681,1,0,0,14060,16,HP:0001098,0
+HP:0008345,Hypoplasia of the iris dilator muscle,399,1,0,0,14855,16,HP:0007754,0
+HP:0025115,Civatte bodies,403,1,0,0,14848,16,HP:0001051,0
+HP:0033976,Volar fingernail,685,1,0,0,14050,16,HP:0001804,0
+HP:0010037,Aplasia of the 2nd metacarpal,631,1,0,0,14174,16,HP:0001494,0
+HP:0010693,Pulverulent cataract,484,6,0,0,14566,16,HP:0007759,0
+HP:0200133,Lumbosacral meningocele,673,2,0,0,14079,16,HP:0002095,0
+HP:0033049,Globus pallidus hypointensity on susceptibility-weighted imaging,331,5,0,0,15105,17,HP:0012737,0
+HP:0030147,Truncal titubation,214,8,0,0,15677,17,HP:0002312,0
+HP:6000355,Reduced malonyl-CoA decarboxylase activity in cultured fibroblasts,251,1,0,0,15457,17,HP:0012429,0
+HP:0006108,Tapered metacarpals,352,1,0,0,15021,17,HP:0001231,0
+HP:0031447,Penile freckling,357,3,0,0,15007,17,HP:0000064,0
+HP:0009739,Hypoplasia of the antihelix,374,5,0,0,14934,17,HP:0009766,0
+HP:0007661,Abnormality of chorioretinal pigmentation,362,1,0,0,14982,17,HP:0007703,0
+HP:0030661,Vitreous snowballs,229,2,0,0,15582,17,HP:0007908,0
+HP:0008293,Long-chain dicarboxylic aciduria,340,1,0,0,15073,17,HP:0003544,0
+HP:0004002,Flattened radial epiphyses,271,1,0,0,15371,17,HP:0003087,0
+HP:0012425,Stercoral ulcer,344,2,0,0,15057,17,HP:0002596,0
+HP:0031293,Digital pitting scar,261,2,0,0,15411,17,HP:0001803,0
+HP:0002872,"Apneic episodes precipitated by illness, fatigue, stress",223,5,0,0,15623,17,HP:0002878,0
+HP:0025151,Ganglioneuromatosis,362,1,0,0,14983,17,HP:0002891,0
+HP:0012185,Constrictive median neuropathy,259,30,0,0,15421,17,HP:0003382,0
+HP:0004909,Hypokalemic hypochloremic metabolic alkalosis,247,3,0,0,15485,17,HP:0003425,0
+HP:4000031,Anti-type VII collagen antibody,312,2,0,0,15191,17,HP:0030056,0
+HP:0012068,Aspartylglucosaminuria,354,2,0,0,15015,17,HP:0002475,0
+HP:0003021,Metaphyseal cupping,377,23,0,0,14924,17,HP:0000948,0
+HP:0030026,Squared superior portion of helix,356,1,0,0,15011,17,HP:0000396,0
+HP:6000332,Elevated urinary indoleacetic acid level,200,1,0,0,15759,17,HP:0003544,0
+HP:0007655,Eversion of lateral third of lower eyelids,289,10,0,0,15291,17,HP:0000643,0
+HP:0033407,Elevated urine acetoacetic acid level,351,2,0,0,15025,17,HP:0011971,0
+HP:0500262,Atrichia,304,4,0,0,15230,17,HP:0002226,0
+HP:0010749,Blepharochalasis,212,8,0,0,15695,17,HP:0000486,0
+HP:0004423,Cranium bifidum occultum,298,5,0,0,15259,17,HP:0001708,0
+HP:6000720,Reduced tissue fatty aldehyde dehydrogenase activity,298,1,0,0,15261,17,HP:0004349,0
+HP:0040164,Lipomas of eyelids,372,2,0,0,14938,17,HP:0001003,0
+HP:0008117,Shortening of the talar neck,213,2,0,0,15687,17,HP:0008134,0
+HP:0001981,Schistocytosis,349,11,0,0,15037,17,HP:0001904,0
+HP:0008450,Narrow vertebral interpedicular distance,129,11,0,0,16266,18,HP:0003313,0
+HP:0009575,Triangular shaped middle phalanx of the 2nd finger,89,2,0,0,16670,18,HP:0009654,0
+HP:0011405,Childhood onset short-limb short stature,98,2,0,0,16561,18,HP:0008873,0
+HP:0030293,Fibular metaphyseal irregularity,157,1,0,0,16044,18,HP:0006361,0
+HP:0001060,Axillary pterygium,161,10,0,0,16019,18,HP:0001060,1
+HP:0004676,Prominent supraorbital arches in adult,177,1,0,0,15912,18,HP:0005474,0
+HP:0032909,Focal impaired awareness automatism seizure,151,1,0,0,16088,18,HP:0002197,0
+HP:0007456,Progressive reticulate hyperpigmentation,179,2,0,0,15891,18,HP:0007481,0
+HP:0034281,Phalangeal cone-shaped epiphyses,181,1,0,0,15881,18,HP:0006013,0
+HP:6000295,Persistent falcine venous sinus,135,1,0,0,16217,18,HP:0002653,0
+HP:0012899,Handgrip myotonia,116,11,0,0,16381,18,HP:0003706,0
+HP:0005722,Hyperextensible thumb,168,2,0,0,15977,18,HP:0001172,0
+HP:0034081,Anti-Th/To antibody positivity,170,1,0,0,15965,18,HP:0032224,0
+HP:0000636,Upper eyelid coloboma,125,12,0,0,16298,18,HP:0000498,0
+HP:0031174,Double-layered patella,96,2,0,0,16581,18,HP:0006434,0
+HP:0430029,Hyperplasia of the premaxilla,120,1,0,0,16348,18,HP:0001263,0
+HP:0010486,Abnormality of the hypothenar eminence,152,2,0,0,16081,18,HP:0001458,0
+HP:6000577,Reduced tissue 3-methylglutaconyl-CoA hydratase activity,91,1,0,0,16644,18,HP:0012169,0
+HP:0010455,Steep acetabular roof,100,3,0,0,16533,18,HP:0003182,0
+HP:6000516,Elevated circulating 21-deoxycortisol concentration,91,1,0,0,16643,18,HP:0011972,0
+HP:0011688,Supraventricular tachycardia with an accessory connection mediated pathway,166,3,0,0,15995,18,HP:0011708,0
+HP:4000163,Reduced phytanic acid oxidase activity in cultured fibroblasts,169,1,0,0,15970,18,HP:0003445,0
+HP:0200149,CSF lymphocytic pleiocytosis,181,15,0,0,15878,18,HP:0003448,0
+HP:0034155,Anti-sp100 antibody positivity,134,1,0,0,16224,18,HP:0030791,0
+HP:6000569,Midline notching of lower lip,132,1,0,0,16237,18,HP:0000197,0
+HP:0500046,Seborrhoeic blepharitis,150,2,0,0,16101,18,HP:0000503,0
+HP:0400002,Extra concha fold,174,1,0,0,15940,18,HP:0000451,0
+HP:0008785,Delayed ossification of pubic rami,131,2,0,0,16245,18,HP:0004598,0
+HP:0034273,Premature sagging cheeks,121,5,0,0,16338,18,HP:0007491,0
+HP:6000656,Papillary dermis eosinophilic hyaline material,176,1,0,0,15923,18,HP:0001036,0
+HP:0034006,Decreased urinary lysyl-pyridinoline-hydroxylysyl-pyridinoline ratio,78,1,0,0,16794,19,HP:0012166,0
+HP:0002335,Agenesis of cerebellar vermis,36,30,0,0,17398,19,HP:0002280,0
+HP:0100339,Abnormality of the os naviculare pedis,47,1,0,0,17187,19,HP:0008207,0
+HP:0007295,Chaotic rapid conjugate ocular movements,74,1,0,0,16852,19,HP:0000668,0
+HP:0010168,Ivory epiphyses of the toes,27,1,0,0,17596,19,HP:0006336,0
+HP:0010910,Hypervalinemia,35,5,0,0,17418,19,HP:0003158,0
+HP:0034687,Impaired cerebroside sulfate hydrolysis,41,1,0,0,17305,19,HP:0004331,0
+HP:0007462,Bitot spots of the conjunctiva,74,1,0,0,16851,19,HP:0000611,0
+HP:0034706,Reduced hepatic D-glycerate kinase activity,34,1,0,0,17450,19,HP:0004344,0
+HP:0034400,Circumferential skin creases on extremities,56,2,0,0,17062,19,HP:0000988,0
+HP:0011190,Uni- and bilateral multifocal epileptiform discharges,67,1,0,0,16934,19,HP:0011175,0
+HP:0032532,Elevated CSF 4-hydroxybutyric acid concentration,27,1,0,0,17594,19,HP:0012169,0
+HP:0004461,Congenital earlobe sinuses,32,1,0,0,17493,19,HP:0008607,0
+HP:0006450,Multicentric ossification of proximal femoral epiphyses,45,1,0,0,17219,19,HP:0006336,0
+HP:0100841,Microgastria,63,1,0,0,16980,19,HP:0001592,0
+HP:0004997,Multicentric ossification of proximal humeral epiphyses,27,1,0,0,17598,19,HP:0006334,0
+HP:0100811,Aplasia/Hypoplasia of the colon,33,1,0,0,17472,19,HP:0003019,0
+HP:0004241,Stippled calcification in carpal bones,47,2,0,0,17186,19,HP:0006706,0
+HP:0010940,Aplasia/Hypoplasia of the nasal bone,77,1,0,0,16813,19,HP:0000460,0
+HP:0011406,Infancy onset short-trunk short stature,71,3,0,0,16879,19,HP:0008878,0
+HP:6000426,Reduced Acyl-CoA:dihydroxyacetone phosphate acyltransferase activity in cultured fibroblasts,58,1,0,0,17040,19,HP:0003724,0
+HP:0032906,Focal head nodding automatism seizure,26,1,0,0,17618,19,HP:0002212,0
+HP:0100663,Synotia,42,2,0,0,17279,19,HP:0009761,0
+HP:6000602,Elevated urinary isovalerylglycine level,82,1,0,0,16744,19,HP:0003546,0
+HP:0025670,Syntelencephaly,54,1,0,0,17099,19,HP:0011307,0
+HP:0000893,Bulging of the costochondral junction,65,4,0,0,16958,19,HP:0000761,0
+HP:0033177,Elevated circulating suberic acid concentration,44,1,0,0,17238,19,HP:0012166,0
+HP:0031986,Polyminimyoclonus,60,1,0,0,17016,19,HP:0002129,0
+HP:0034354,Trichoschisis,45,1,0,0,17221,19,HP:0002162,0
+HP:0008160,3-hydroxydicarboxylic aciduria,62,3,0,0,16988,19,HP:0003541,0
+HP:0032351,Phenylalaninuria,1,1,0,0,18423,20,HP:0002159,0
+HP:6000240,Reduced circulating pyrimidine 5-prime-nucleotidase activity,0,1,0,0,18585,20,HP:0004334,0
+HP:0034069,Anti-parotid secretory protein antibody positivity,5,1,0,0,18170,20,HP:0030055,0
+HP:0100563,Diastomatomyelia,21,2,0,0,17713,20,HP:0002115,0
+HP:6000608,"Elevated urinary 3,4-Dihydroxybutyric acid level",1,1,0,0,18416,20,HP:0011972,0
+HP:0020117,Hypoplastic dermoepidermal hemidesmosomes,10,9,0,0,17965,20,HP:0003285,0
+HP:0007363,Aplasia/Hypoplasia of the pyramidal tract,15,1,0,0,17834,20,HP:0002510,0
+HP:0005019,Diaphyseal undertubulation,13,22,0,0,17882,20,HP:0003332,0
+HP:0003329,Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes,4,3,0,0,18237,20,HP:0002224,0
+HP:0010252,Ivory epiphyses of the distal phalanges of the hand,15,2,0,0,17829,20,HP:0006708,0
+HP:0033996,Microvillar PAS-positive secretory granules,20,1,0,0,17732,20,HP:0002825,0
+HP:6000603,Elevated urinary 2-methyl-3-hydroxybutyric acid level,20,1,0,0,17731,20,HP:0011972,0
+HP:0025734,Elevated urinary 5-hydroxyhexanoic acid level,21,1,0,0,17716,20,HP:0011972,0
+HP:0034026,Elevated circulating saccharopine concentration,0,1,0,0,18544,20,HP:0011972,0
+HP:0008436,Absent/hypoplastic coccyx,0,1,0,0,18528,20,HP:0008425,0
+HP:0007438,Mottled pigmentation of the trunk and proximal extremities,0,1,0,0,18572,20,HP:0007494,0
+HP:0100391,Short distal phalanx of the 5th toe,0,1,0,0,18588,20,HP:0008181,0
+HP:0002454,Eye of the tiger anomaly of globus pallidus,19,13,0,0,17742,20,HP:0007148,0
+HP:0006990,Myelin-dependent gliosis,15,1,0,0,17838,20,HP:0002161,0
+HP:0011320,Unilambdoid synostosis,17,1,0,0,17787,20,HP:0004446,0
+HP:0100958,Narrow foramen obturatorium,7,2,0,0,18068,20,HP:0000133,0
+HP:0005026,Mesomelic/rhizomelic limb shortening,1,6,0,0,18402,20,HP:0009819,0
+HP:6000622,Elevated urinary ureidoisobutyric acid level,9,1,0,0,17998,20,HP:0012166,0
+HP:0200053,Hemihypotrophy of lower limb,23,4,0,0,17666,20,HP:0003043,0
+HP:0010264,Pseudoepiphyses of the middle phalanges of the hand,17,1,0,0,17786,20,HP:0006206,0
+HP:0003267,Reduced orotidine 5-prime phosphate decarboxylase level,4,1,0,0,18252,20,HP:0012167,0
+HP:0005612,Arthrogryposis-like hand anomaly,5,3,0,0,18164,20,HP:0009772,0
+HP:6000185,Low tetrahydrocortisol (THF) plus 5-alpha-THF/tetrahydrocortisone (THE) ratio,0,1,0,0,18568,20,HP:0012458,0
+HP:0007406,Hyperpigmentation of eyelids,2,1,0,0,18358,20,HP:0001056,0
+HP:0001024,Skin dimple over apex of long bone angulation,12,4,0,0,17914,20,HP:0009739,0

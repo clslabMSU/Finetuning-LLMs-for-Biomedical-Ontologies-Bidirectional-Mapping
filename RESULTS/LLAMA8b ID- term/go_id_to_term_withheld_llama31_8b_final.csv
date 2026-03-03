@@ -1,0 +1,601 @@
+GO_ID,Count,GO_TERM,Aspect,go_id_pmc,go_term_pmc,Rank,Bin,predicted_go_term,pmatch,processing_time
+GO:0014069,301,postsynaptic density,cellular_component,81,20873,67,1,DNA replication,0,0.26
+GO:0005794,1889,Golgi apparatus,cellular_component,185,62651,17,1,endoplasmic reticulum membrane,0,1.14
+GO:0005764,463,lysosome,cellular_component,171,101710,46,1,lysosome membrane,0,0.68
+GO:0005929,475,cilium,cellular_component,66,19190,44,1,endoplasmic reticulum,0,0.3
+GO:0022625,214,cytosolic large ribosomal subunit,cellular_component,121,407,90,1,cellular component organization,0,0.24
+GO:0005741,491,mitochondrial outer membrane,cellular_component,53,25179,41,1,mitochondrial outer membrane,1,0.22
+GO:0005840,5624,ribosome,cellular_component,506,161615,7,1,ribosome,1,0.31
+GO:0005802,260,trans-Golgi network,cellular_component,14,25799,76,1,synaptic vesicle membrane,0,0.24
+GO:0005730,5461,nucleolus,cellular_component,208,40758,8,1,cytoplasm,0,0.16
+GO:0005615,2981,extracellular space,cellular_component,728,94259,12,1,extracellular space,1,0.53
+GO:1903561,163,extracellular vesicle,cellular_component,79,30046,118,2,positive regulation of protein kinase activity,0,0.18
+GO:0098793,194,presynapse,cellular_component,66,2608,97,2,cellular response to external stimulus,0,0.22
+GO:0043197,178,dendritic spine,cellular_component,37,33938,108,2,plasma membrane,0,0.22
+GO:0000932,159,P-body,cellular_component,32,5163,122,2,small nuclear ribonucleoprotein complex,0,0.23
+GO:0030659,143,cytoplasmic vesicle membrane,cellular_component,35,149,132,2,cellular response to nutrient levels,0,0.22
+GO:0000502,102,proteasome complex,cellular_component,124,4863,174,2,telomere capping,0,0.42
+GO:0045171,185,intercellular bridge,cellular_component,10,1180,104,2,plasma membrane,0,0.28
+GO:0033116,140,endoplasmic reticulum-Golgi intermediate compartment membrane,cellular_component,7,23,137,2,protein complex subunit organization,0,0.28
+GO:0005762,196,mitochondrial large ribosomal subunit,cellular_component,18,535,95,2,lysosome membrane,0,0.39
+GO:0005669,134,transcription factor TFIID complex,cellular_component,17,82,144,2,DNA replication complex,0,0.29
+GO:0090543,51,Flemming body,cellular_component,6,149,265,3,cellular response to nutrient levels,0,0.32
+GO:0031462,64,Cul2-RING ubiquitin ligase complex,cellular_component,1,2,231,3,protein complex,0,0.19
+GO:0045177,79,apical part of cell,cellular_component,88,394,195,3,phospholipid translocation,0,0.31
+GO:0016592,69,mediator complex,cellular_component,17,8391,219,3,nucleosome assembly,0,0.28
+GO:0000813,69,ESCRT I complex,cellular_component,4,765,216,3,phagocytic vesicle formation,0,0.34
+GO:0000307,60,cyclin-dependent protein kinase holoenzyme complex,cellular_component,43,215,245,3,DNA repair,0,0.22
+GO:0005879,76,axonemal microtubule,cellular_component,3,409,204,3,microtubule,0,0.42
+GO:0071944,61,cell periphery,cellular_component,226,21392,238,3,cellular response to nutrient levels,0,0.33
+GO:0097381,67,photoreceptor disc membrane,cellular_component,0,130,223,3,cellular response to external stimulus,0,0.3
+GO:0042645,59,mitochondrial nucleoid,cellular_component,10,1007,247,3,cell wall organization,0,0.45
+GO:0035102,36,PRC1 complex,cellular_component,6,1889,350,4,cellular response to nutrient levels,0,0.3
+GO:0000407,47,phagophore assembly site,cellular_component,14,998,281,4,phosphatidylinositol phosphatase activity,0,0.38
+GO:0008250,46,oligosaccharyltransferase complex,cellular_component,7,895,282,4,lipid biosynthetic process,0,0.36
+GO:0000794,46,condensed nuclear chromosome,cellular_component,24,143,284,4,nuclear pore,0,0.31
+GO:0005791,35,rough endoplasmic reticulum,cellular_component,16,16745,359,4,endoplasmic reticulum membrane,0,0.56
+GO:0034464,38,BBSome,cellular_component,5,1660,327,4,protein complex,0,0.28
+GO:0030016,39,myofibril,cellular_component,92,10697,321,4,cell junction,0,0.27
+GO:0032281,38,AMPA glutamate receptor complex,cellular_component,10,9,328,4,plasma membrane,0,0.24
+GO:0030014,38,CCR4-NOT complex,cellular_component,7,2209,324,4,cell junction,0,0.18
+GO:0072546,39,EMC complex,cellular_component,4,97,322,4,cellular response to nutrient levels,0,0.35
+GO:0017119,30,Golgi transport complex,cellular_component,7,150,396,5,ATP-dependent protein kinase activity,0,0.33
+GO:0030126,30,COPI vesicle coat,cellular_component,14,277,397,5,cell junction,0,0.26
+GO:0070578,30,RISC-loading complex,cellular_component,3,640,405,5,cellular response to nutrient levels,0,0.25
+GO:0000333,25,telomerase catalytic core complex,cellular_component,1,4,450,5,protein-DNA complex,0,0.29
+GO:0005761,27,mitochondrial ribosome,cellular_component,34,3534,429,5,endosome membrane,0,0.29
+GO:0032839,27,dendrite cytoplasm,cellular_component,6,5,430,5,protein complex subunit organization,0,0.29
+GO:0045259,31,proton-transporting ATP synthase complex,cellular_component,23,309,393,5,regulation of cellular process,0,0.38
+GO:0030122,26,AP-2 adaptor complex,cellular_component,5,581,440,5,cell junction,0,0.18
+GO:0005892,30,acetylcholine-gated channel complex,cellular_component,15,2,402,5,plasma membrane,0,0.16
+GO:0005955,29,calcineurin complex,cellular_component,4,149,407,5,protein complex,0,0.32
+GO:0016528,19,sarcoplasm,cellular_component,18,3657,526,6,phosphatase activity,0,0.33
+GO:0001527,23,microfibril,cellular_component,10,6701,462,6,angiogenesis,0,0.28
+GO:0033588,19,elongator holoenzyme complex,cellular_component,3,4,530,6,vesicle targeting,0,0.34
+GO:0099078,22,BORC complex,cellular_component,0,95,484,6,cellular response to starvation,0,0.31
+GO:0098574,19,cytoplasmic side of lysosomal membrane,cellular_component,0,0,519,6,positive regulation of protein kinase activity,0,0.28
+GO:1902554,21,serine/threonine protein kinase complex,cellular_component,21,204,493,6,positive regulation of protein kinase activity,0,0.24
+GO:0034709,19,methylosome,cellular_component,7,629,529,6,cellular response to nutrient levels,0,0.46
+GO:0031092,18,platelet alpha granule membrane,cellular_component,11,341,543,6,cellular response to nutrient levels,0,0.33
+GO:0042721,18,TIM22 mitochondrial import inner membrane insertion complex,cellular_component,1,0,544,6,cellular response to external stimulus,0,0.56
+GO:0031143,18,pseudopodium,cellular_component,5,1010,537,6,protein complex,0,0.22
+GO:1990072,14,TRAPPIII protein complex,cellular_component,1,0,629,7,positive regulation of protein kinase activity,0,0.27
+GO:0000812,16,Swr1 complex,cellular_component,7,781,582,7,vesicle targeting,0,0.31
+GO:1990391,14,DNA repair complex,cellular_component,12,1890,627,7,positive regulation of protein kinase activity,0,0.2
+GO:0140288,14,GBAF complex,cellular_component,0,12,631,7,protein targeting to membrane,0,0.17
+GO:0042589,17,zymogen granule membrane,cellular_component,3,356,557,7,embryonic development ending in birth,0,0.25
+GO:0031415,17,NatA complex,cellular_component,0,240,550,7,protein complex,0,0.35
+GO:0097440,16,apical dendrite,cellular_component,4,5167,577,7,cellular response to organic substance,0,0.45
+GO:0016586,16,RSC-type complex,cellular_component,1,0,598,7,protein kinase activity,0,0.53
+GO:1990316,17,Atg1/ULK1 kinase complex,cellular_component,3,0,554,7,protein targeting to mitochondrion,0,0.39
+GO:0008385,16,IkappaB kinase complex,cellular_component,2,4305,590,7,RNA 3'-phosphatase activity,0,0.34
+GO:0005584,12,collagen type I trimer,cellular_component,16,38,707,8,microtubule,0,0.29
+GO:0071006,13,U2-type catalytic step 1 spliceosome,cellular_component,5,0,674,8,cellular response to starvation,0,0.42
+GO:1904930,13,amphisome membrane,cellular_component,1,0,676,8,positive regulation of protein kinase activity,0,0.48
+GO:0000930,14,gamma-tubulin complex,cellular_component,0,1039,644,8,telomere maintenance,0,0.27
+GO:0032021,12,NELF complex,cellular_component,3,327,685,8,protein complex,0,0.24
+GO:0097169,13,AIM2 inflammasome complex,cellular_component,1,74,679,8,cellular response to external stimulus,0,0.26
+GO:0160112,13,axonemal B tubule inner sheath,cellular_component,0,0,668,8,protein targeting to ER,0,0.54
+GO:0044194,14,cytolytic granule,cellular_component,5,883,651,8,cellular response to starvation,0,0.2
+GO:0031436,12,BRCA1-BARD1 complex,cellular_component,2,518,697,8,protein complex,0,0.39
+GO:0097550,13,transcription preinitiation complex,cellular_component,0,954,673,8,cellular response to organic substance,0,0.27
+GO:0042641,11,actomyosin,cellular_component,17,29817,747,9,cell wall organization,0,0.3
+GO:0005915,10,zonula adherens,cellular_component,6,2162,779,9,adherens junction,0,0.17
+GO:1990229,11,iron-sulfur cluster assembly complex,cellular_component,3,117,762,9,positive regulation of protein kinase activity,0,0.29
+GO:0008352,10,katanin complex,cellular_component,0,61,802,9,protein targeting to ER,0,0.58
+GO:0030061,9,mitochondrial crista,cellular_component,0,692,817,9,cell junction,0,0.29
+GO:0120103,10,centriolar subdistal appendage,cellular_component,2,1,810,9,None,0,0.25
+GO:0030119,10,AP-type membrane coat adaptor complex,cellular_component,10,0,811,9,plasma membrane,0,0.23
+GO:0033565,10,ESCRT-0 complex,cellular_component,2,539,778,9,protein targeting to mitochondrion,0,0.33
+GO:0008541,10,"proteasome regulatory particle, lid subcomplex",cellular_component,4,0,784,9,lipid storage,0,0.28
+GO:0034363,11,intermediate-density lipoprotein particle,cellular_component,5,36,749,9,protein complex,0,0.27
+GO:0097450,8,astrocyte end-foot,cellular_component,3,51,893,10,positive regulation of protein kinase activity,0,0.25
+GO:0000811,9,GINS complex,cellular_component,1,1066,852,10,phagocytic vesicle formation,0,0.3
+GO:0072357,8,PTW/PP1 phosphatase complex,cellular_component,7,0,888,10,cellular response to external stimulus,0,0.58
+GO:0005740,9,mitochondrial envelope,cellular_component,88,585,829,10,mitochondrial outer membrane,0,0.41
+GO:0098666,9,G protein-coupled serotonin receptor complex,cellular_component,0,0,831,10,positive regulation of protein kinase activity,0,0.27
+GO:0034751,8,aryl hydrocarbon receptor complex,cellular_component,1,819,895,10,anchored to membrane,0,0.35
+GO:0090571,9,RNA polymerase II transcription repressor complex,cellular_component,2,0,847,10,cellular response to nutrient levels,0,0.27
+GO:0001940,9,male pronucleus,cellular_component,0,2001,823,10,cell junction,0,0.32
+GO:0071141,9,SMAD protein complex,cellular_component,4,156,838,10,cellular response to nutrient levels,0,0.47
+GO:0060201,9,clathrin-sculpted acetylcholine transport vesicle membrane,cellular_component,1,0,850,10,cellular response to starvation,0,0.21
+GO:0005954,6,calcium- and calmodulin-dependent protein kinase complex,cellular_component,6,8,993,11,protein complex,0,0.28
+GO:0044354,7,macropinosome,cellular_component,1,1232,953,11,cellular response to starvation,0,0.29
+GO:0071598,7,neuronal ribonucleoprotein granule,cellular_component,1,5,936,11,cellular response to nutrient levels,0,0.3
+GO:1990696,7,USH2 complex,cellular_component,0,57,955,11,positive regulation of protein kinase activity,0,0.4
+GO:1990604,7,IRE1-TRAF2-ASK1 complex,cellular_component,0,40,954,11,positive regulation of protein kinase activity,0,0.24
+GO:0098890,7,extrinsic component of postsynaptic membrane,cellular_component,0,0,924,11,positive regulation of protein localization,0,0.26
+GO:0070985,7,transcription factor TFIIK complex,cellular_component,2,0,933,11,cellular response to nutrient levels,0,0.35
+GO:0099617,7,matrix side of mitochondrial inner membrane,cellular_component,0,0,923,11,cell-cell adhesion,0,0.27
+GO:0034388,6,Pwp2p-containing subcomplex of 90S preribosome,cellular_component,3,0,992,11,endoplasmic reticulum,0,0.25
+GO:0005622,6,intracellular anatomical structure,cellular_component,479,194,995,11,intracellular,0,0.33
+GO:0140552,6,TEAD-YAP complex,cellular_component,1,825,1046,12,positive regulation of protein kinase activity,0,0.32
+GO:0071817,6,MMXD complex,cellular_component,0,3,1011,12,cellular response to nutrient levels,0,0.37
+GO:1990617,6,CHOP-ATF4 complex,cellular_component,0,0,1027,12,positive regulation of protein kinase activity,0,0.33
+GO:0048476,6,Holliday junction resolvase complex,cellular_component,1,17,1035,12,cellular response to starvation,0,0.28
+GO:0030526,5,granulocyte macrophage colony-stimulating factor receptor complex,cellular_component,0,23,1088,12,plasma membrane,0,0.22
+GO:0043293,6,apoptosome,cellular_component,0,10821,1008,12,protein complex,0,0.21
+GO:0017071,6,intracellular cyclic nucleotide activated cation channel complex,cellular_component,1,4,1034,12,RNA binding,0,0.51
+GO:0031213,5,RSF complex,cellular_component,0,122,1082,12,cellular response to nutrient levels,0,0.21
+GO:0031422,6,RecQ family helicase-topoisomerase III complex,cellular_component,0,0,1029,12,protein complex,0,0.39
+GO:0098635,6,protein complex involved in cell-cell adhesion,cellular_component,0,0,1049,12,cellular response to nutrient levels,0,0.56
+GO:0099147,5,extrinsic component of postsynaptic density membrane,cellular_component,0,0,1125,13,cellular response to starvation,0,0.29
+GO:0090733,4,tenascin complex,cellular_component,0,0,1160,13,cellular response to nutrient levels,0,0.37
+GO:0048788,5,cytoskeleton of presynaptic active zone,cellular_component,4,0,1113,13,cellular response to starvation,0,0.34
+GO:0016013,4,syntrophin complex,cellular_component,1,30,1162,13,vesicle targeting,0,0.16
+GO:0033165,5,interphotoreceptor matrix,cellular_component,1,1154,1142,13,protein complex,0,0.23
+GO:0097470,5,ribbon synapse,cellular_component,2,2856,1128,13,cellular response to external stimulus,0,0.2
+GO:0043259,5,laminin-10 complex,cellular_component,1,0,1106,13,regulation of protein kinase activity,0,0.22
+GO:0034518,4,RNA cap binding complex,cellular_component,1,39,1163,13,phosphatidylserine binding,0,0.19
+GO:0099512,5,supramolecular fiber,cellular_component,37,487,1094,13,cellular response to nutrient levels,0,0.75
+GO:0099738,4,cell cortex region,cellular_component,5,7,1174,13,cellular response to external stimulus,0,0.38
+GO:0097268,4,cytoophidium,cellular_component,0,156,1258,14,positive regulation of protein kinase activity,0,0.33
+GO:0097444,4,spine apparatus,cellular_component,1,785,1196,14,cellular response to nutrient levels,0,0.24
+GO:0072588,4,box H/ACA RNP complex,cellular_component,2,0,1223,14,cellular response to nutrient levels,0,0.22
+GO:0035632,4,mitochondrial prohibitin complex,cellular_component,0,127,1257,14,plasma membrane,0,0.26
+GO:0098888,4,extrinsic component of presynaptic membrane,cellular_component,0,0,1211,14,None,0,0.22
+GO:0032116,4,SMC loading complex,cellular_component,0,2,1259,14,phosphatidylserine binding,0,0.36
+GO:0097233,4,alveolar lamellar body membrane,cellular_component,1,0,1201,14,positive regulation of protein kinase activity,0,0.24
+GO:0016513,4,core-binding factor complex,cellular_component,0,32,1248,14,protein targeting,0,0.25
+GO:0035363,4,histone locus body,cellular_component,1,355,1200,14,cellular response to nutrient levels,0,0.19
+GO:0005927,4,muscle tendon junction,cellular_component,1,860,1192,14,cytoskeleton,0,0.32
+GO:0097135,3,cyclin E2-CDK2 complex,cellular_component,1,2,1326,15,cellular response to nutrient levels,0,0.28
+GO:0097129,3,cyclin D2-CDK4 complex,cellular_component,0,37,1359,15,positive regulation of protein kinase activity,0,0.27
+GO:0034456,3,UTP-C complex,cellular_component,0,6,1362,15,protein complex,0,0.2
+GO:0036195,3,muscle cell projection membrane,cellular_component,0,0,1336,15,phospholipid biosynthetic process,0,0.24
+GO:0120338,3,radial spoke head 3,cellular_component,0,1,1353,15,integral component of membrane,0,0.2
+GO:0042022,3,interleukin-12 receptor complex,cellular_component,0,169,1305,15,mitotic spindle organization,0,0.25
+GO:0072563,3,endothelial microparticle,cellular_component,0,990,1300,15,cellular response to nutrient levels,0,0.36
+GO:1990682,3,CSF1-CSF1R complex,cellular_component,0,4,1355,15,positive regulation of protein kinase activity,0,0.36
+GO:0036409,3,histone H3-K14 acetyltransferase complex,cellular_component,0,0,1339,15,sulfur compound metabolic process,0,0.29
+GO:0031523,3,Myb complex,cellular_component,1,118,1291,15,protein complex,0,0.24
+GO:0005608,3,laminin-3 complex,cellular_component,3,0,1378,16,plasma membrane,0,0.19
+GO:0034360,2,chylomicron remnant,cellular_component,0,961,1427,16,protein complex,0,0.22
+GO:0160074,2,non-canonical inflammasome complex,cellular_component,0,2,1452,16,protein targeting,0,0.29
+GO:0097128,2,cyclin D1-CDK4 complex,cellular_component,0,617,1431,16,cellular response to starvation,0,0.33
+GO:0005583,2,fibrillar collagen trimer,cellular_component,42,127,1421,16,microtubule,0,2.62
+GO:0070274,2,RES complex,cellular_component,0,130,1441,16,cellular response to nutrient levels,0,0.27
+GO:0036501,2,UFD1-NPL4 complex,cellular_component,0,95,1444,16,cellular response to starvation,0,0.28
+GO:0035985,3,senescence-associated heterochromatin focus,cellular_component,2,1,1384,16,phosphatidylinositol phospholipase C activity,0,0.34
+GO:1904974,2,heparanase complex,cellular_component,0,3,1449,16,positive regulation of protein localization,0,0.24
+GO:0097179,2,protease inhibitor complex,cellular_component,0,533,1432,16,positive regulation of protein kinase activity,0,0.23
+GO:1990724,2,galectin complex,cellular_component,1,3,1533,17,positive regulation of protein kinase activity,0,0.29
+GO:0043512,2,inhibin A complex,cellular_component,0,0,1513,17,cell projection organization,0,0.26
+GO:0160110,2,axonemal microtubule doublet inner sheath,cellular_component,0,0,1485,17,protein targeting to mitochondrion,0,0.39
+GO:0042709,2,succinate-CoA ligase complex,cellular_component,1,7,1539,17,cellular response to heat,0,0.25
+GO:1902937,2,inward rectifier potassium channel complex,cellular_component,0,0,1473,17,positive regulation of protein catabolic process,0,0.2
+GO:0035859,2,Seh1-associated complex,cellular_component,1,7,1538,17,protein complex,0,0.21
+GO:1990030,2,pericellular basket,cellular_component,1,48,1541,17,cellular response to external stimulus,0,0.26
+GO:0010370,2,perinucleolar chromocenter,cellular_component,1,1,1525,17,DNA replication,0,0.3
+GO:0150058,2,amylin receptor complex 3,cellular_component,0,0,1476,17,protein targeting to mitochondrion,0,0.3
+GO:0005848,2,mRNA cleavage stimulating factor complex,cellular_component,0,1,1471,17,ribosome,0,0.32
+GO:1990184,2,amino acid transport complex,cellular_component,2,2,1555,18,cellular response to external stimulus,0,0.19
+GO:0033291,1,eukaryotic 80S initiation complex,cellular_component,0,0,1591,18,plasma membrane,0,0.17
+GO:0061742,1,chaperone-mediated autophagy translocation complex,cellular_component,0,0,1630,18,positive regulation of cell growth,0,0.4
+GO:0036053,1,glomerular endothelium fenestra,cellular_component,0,0,1638,18,phosphatidylinositol phosphate biosynthetic process,0,0.34
+GO:0031205,1,endoplasmic reticulum Sec complex,cellular_component,0,0,1597,18,cellular response to starvation,0,0.28
+GO:0005599,1,collagen type X trimer,cellular_component,0,0,1608,18,ion channel activity,0,0.19
+GO:0071261,1,Ssh1 translocon complex,cellular_component,0,1,1599,18,cellular response to nutrient levels,0,0.25
+GO:1990150,1,VEGF-A complex,cellular_component,0,0,1632,18,cellular response to organic substance,0,0.32
+GO:0120003,1,hinge region between urothelial plaques of apical plasma membrane,cellular_component,0,0,1635,18,cellular component,0,0.2
+GO:0035693,1,NOS2-CD74 complex,cellular_component,0,0,1618,18,phosphatidylserine binding,0,0.2
+GO:0005898,1,interleukin-13 receptor complex,cellular_component,0,27,1676,19,plasma membrane,0,0.28
+GO:0097140,1,BIM-BCL-xl complex,cellular_component,0,3,1681,19,cellular response to nutrient levels,0,0.19
+GO:0090636,1,outer dense plaque of desmosome,cellular_component,1,0,1719,19,cellular response to external stimulus,0,0.34
+GO:1990231,1,STING complex,cellular_component,0,120,1659,19,positive regulation of protein kinase activity,0,0.24
+GO:1990435,1,upper tip-link density,cellular_component,0,135,1675,19,positive regulation of protein kinase activity,0,0.39
+GO:0005895,1,interleukin-5 receptor complex,cellular_component,0,1,1693,19,plasma membrane,0,0.19
+GO:0000112,1,nucleotide-excision repair factor 3 complex,cellular_component,0,2,1692,19,RNA polymerase II transcriptional preinitiation complex assembly,0,0.34
+GO:0044299,1,C-fiber,cellular_component,1,10221,1639,19,cellular response to starvation,0,0.42
+GO:0005582,1,collagen type XV trimer,cellular_component,1,0,1723,19,microtubule,0,0.21
+GO:0120220,1,basal body patch,cellular_component,0,10,1698,19,None,0,0.17
+GO:0070176,1,DRM complex,cellular_component,2,16,1743,20,cellular response to nutrient levels,0,0.24
+GO:0120234,1,stereocilium coat,cellular_component,0,0,1804,20,None,0,0.22
+GO:0097541,1,axonemal basal plate,cellular_component,1,1,1775,20,cellular response to nutrient levels,0,0.2
+GO:0005880,1,nuclear microtubule,cellular_component,2,181,1738,20,plasma membrane,0,0.2
+GO:0097462,1,Lewy neurite,cellular_component,1,697,1755,20,cellular response to organic substance,0,0.23
+GO:0098541,1,cytoplasmic side of trans-Golgi network transport vesicle membrane,cellular_component,0,0,1788,20,cellular response to nutrient levels,0,0.65
+GO:0002189,1,ribose phosphate diphosphokinase complex,cellular_component,0,0,1781,20,mitotic spindle organization,0,0.27
+GO:0008303,1,caspase complex,cellular_component,3,63,1827,20,cell junction organization,0,0.3
+GO:0000417,1,HIR complex,cellular_component,3,213,1826,20,protein targeting to ER,0,0.26
+GO:0031592,1,centrosomal corona,cellular_component,2,14,1744,20,protein complex subunit organization,0,0.18
+GO:0045600,60,positive regulation of fat cell differentiation,biological_process,,,517,1,cell-cell recognition,0,0.25
+GO:0043524,168,negative regulation of neuron apoptotic process,biological_process,,,122,1,cell-substrate adhesion,0,0.19
+GO:0033209,84,tumor necrosis factor-mediated signaling pathway,biological_process,,,315,1,protein complex,0,0.29
+GO:0008544,83,epidermis development,biological_process,,,320,1,lipid storage,0,0.26
+GO:0006298,60,mismatch repair,biological_process,,,516,1,mitotic spindle organization,0,0.36
+GO:0009952,93,anterior/posterior pattern specification,biological_process,,,277,1,shoot apical meristem development,0,0.32
+GO:0031640,293,killing of cells of another organism,biological_process,,,54,1,plasma membrane,0,0.23
+GO:0007264,97,small GTPase-mediated signal transduction,biological_process,,,260,1,cell-cell signaling,0,0.17
+GO:0006886,275,intracellular protein transport,biological_process,,,57,1,intracellular protein transport,1,0.17
+GO:0042981,226,regulation of apoptotic process,biological_process,,,79,1,focal adhesion,0,0.54
+GO:0031663,41,lipopolysaccharide-mediated signaling pathway,biological_process,,,828,2,positive regulation of cell proliferation,0,0.24
+GO:0051384,49,response to glucocorticoid,biological_process,,,656,2,protein targeting to ER,0,0.33
+GO:0048870,45,cell motility,biological_process,,,734,2,locomotory behavior,0,0.35
+GO:0070102,40,interleukin-6-mediated signaling pathway,biological_process,,,837,2,cellular response to nutrient levels,0,0.29
+GO:0001657,38,ureteric bud development,biological_process,,,900,2,cerebral cortex development,0,0.26
+GO:0009409,33,response to cold,biological_process,,,1077,2,response to cold,1,0.17
+GO:0048839,46,inner ear development,biological_process,,,714,2,cell wall organization,0,0.3
+GO:0031116,35,positive regulation of microtubule polymerization,biological_process,,,992,2,protein complex,0,0.28
+GO:2001238,50,positive regulation of extrinsic apoptotic signaling pathway,biological_process,,,642,2,None,0,0.27
+GO:0075523,34,viral translational frameshifting,biological_process,,,1035,2,cellular response to external stimulus,0,0.55
+GO:0019229,21,regulation of vasoconstriction,biological_process,,,1736,3,cellular respiration,0,0.26
+GO:0070213,22,protein auto-ADP-ribosylation,biological_process,,,1630,3,cellular response to nutrient levels,0,0.28
+GO:0006607,27,NLS-bearing protein import into nucleus,biological_process,,,1327,3,membrane,0,0.51
+GO:0016486,24,peptide hormone processing,biological_process,,,1495,3,protein targeting to membrane,0,0.36
+GO:0000375,25,"RNA splicing, via transesterification reactions",biological_process,,,1467,3,mRNA capping,0,0.22
+GO:0044546,21,NLRP3 inflammasome complex assembly,biological_process,,,1696,3,cellular response to organic substance,0,0.21
+GO:0036092,26,phosphatidylinositol-3-phosphate biosynthetic process,biological_process,,,1378,3,cellular response to starvation,0,0.22
+GO:0035338,22,long-chain fatty-acyl-CoA biosynthetic process,biological_process,,,1653,3,protein complex,0,0.24
+GO:0070327,23,thyroid hormone transport,biological_process,,,1567,3,cellular response to starvation,0,0.32
+GO:0021772,21,olfactory bulb development,biological_process,,,1731,3,cellular response to nutrient levels,0,0.35
+GO:0050848,16,regulation of calcium-mediated signaling,biological_process,,,2239,4,cell-cell recognition,0,0.33
+GO:0015755,19,fructose transmembrane transport,biological_process,,,1901,4,inorganic anion transport,0,0.24
+GO:0019370,19,leukotriene biosynthetic process,biological_process,,,1914,4,lipid biosynthetic process,0,0.3
+GO:0098712,18,L-glutamate import across plasma membrane,biological_process,,,1929,4,cellular response to external stimulus,0,0.6
+GO:0006665,17,sphingolipid metabolic process,biological_process,,,2183,4,phospholipid metabolic process,0,0.35
+GO:0086004,16,regulation of cardiac muscle cell contraction,biological_process,,,2231,4,mitotic spindle organization,0,0.23
+GO:0010887,16,negative regulation of cholesterol storage,biological_process,,,2194,4,regulation of phosphatase activity,0,0.34
+GO:0048388,16,endosomal lumen acidification,biological_process,,,2216,4,embryonic development ending in birth,0,0.28
+GO:0086009,16,membrane repolarization,biological_process,,,2247,4,mitotic spindle organization,0,0.55
+GO:0072520,16,seminiferous tubule development,biological_process,,,2190,4,cellular response to starvation,0,0.27
+GO:0008090,13,retrograde axonal transport,biological_process,,,2707,5,microtubule motor activity,0,0.3
+GO:0034975,13,protein folding in endoplasmic reticulum,biological_process,,,2706,5,positive regulation of protein kinase activity,0,0.18
+GO:0046621,12,negative regulation of organ growth,biological_process,,,2793,5,cell wall organization,0,0.29
+GO:0019852,14,L-ascorbic acid metabolic process,biological_process,,,2525,5,oxidation-reduction process,0,0.28
+GO:0046037,12,GMP metabolic process,biological_process,,,2903,5,cellular response to nutrient levels,0,0.23
+GO:2001214,12,positive regulation of vasculogenesis,biological_process,,,2953,5,positive regulation of protein kinase activity,0,0.23
+GO:1990108,13,protein linear deubiquitination,biological_process,,,2664,5,positive regulation of protein kinase activity,0,0.18
+GO:0099159,11,regulation of modification of postsynaptic structure,biological_process,,,3058,5,cellular response to nutrient levels,0,0.3
+GO:2000049,13,positive regulation of cell-cell adhesion mediated by cadherin,biological_process,,,2762,5,positive regulation of protein kinase activity,0,0.22
+GO:0032026,13,response to magnesium ion,biological_process,,,2745,5,protein complex,0,0.17
+GO:0051451,9,myoblast migration,biological_process,,,3622,6,cell migration,0,0.28
+GO:1903829,11,positive regulation of protein localization,biological_process,,,3128,6,positive regulation of protein localization,1,0.46
+GO:0000301,10,"retrograde transport, vesicle recycling within Golgi",biological_process,,,3279,6,DNA repair,0,0.27
+GO:0060296,10,regulation of cilium beat frequency involved in ciliary motility,biological_process,,,3296,6,cell wall organization,0,0.26
+GO:0008535,9,respiratory chain complex IV assembly,biological_process,,,3539,6,DNA replication,0,0.17
+GO:1902270,10,(R)-carnitine transmembrane transport,biological_process,,,3352,6,positive regulation of protein kinase activity,0,0.27
+GO:0045839,9,negative regulation of mitotic nuclear division,biological_process,,,3653,6,positive regulation of T cell mediated cytotoxicity,0,0.27
+GO:0061518,9,microglial cell proliferation,biological_process,,,3514,6,positive regulation of cell migration,0,0.35
+GO:2000052,9,positive regulation of non-canonical Wnt signaling pathway,biological_process,,,3559,6,positive regulation of protein kinase activity,0,0.62
+GO:0021516,9,dorsal spinal cord development,biological_process,,,3665,6,cell wall organization,0,0.21
+GO:0035340,9,inosine transport,biological_process,,,3742,7,positive regulation of cell proliferation,0,0.71
+GO:0043267,8,negative regulation of potassium ion transport,biological_process,,,3984,7,cellular response to nutrient levels,0,0.61
+GO:0010706,8,ganglioside biosynthetic process via lactosylceramide,biological_process,,,4084,7,protein targeting,0,0.19
+GO:2000020,8,positive regulation of male gonad development,biological_process,,,3944,7,cellular response to nutrient levels,0,0.36
+GO:2000177,9,regulation of neural precursor cell proliferation,biological_process,,,3775,7,positive regulation of protein localization,0,0.24
+GO:0071287,9,cellular response to manganese ion,biological_process,,,3716,7,cellular response to nutrient levels,0,0.31
+GO:0071076,8,RNA 3' uridylation,biological_process,,,3893,7,cellular response to nutrient levels,0,0.32
+GO:0061180,8,mammary gland epithelium development,biological_process,,,4072,7,cell-cell recognition,0,0.3
+GO:0050428,9,3'-phosphoadenosine 5'-phosphosulfate biosynthetic process,biological_process,,,3748,7,cell-cell recognition,0,0.32
+GO:0070234,8,positive regulation of T cell apoptotic process,biological_process,,,3993,7,cellular response to nutrient levels,0,0.31
+GO:0006650,6,glycerophospholipid metabolic process,biological_process,,,4877,8,fatty acid beta-oxidation,0,0.23
+GO:0032025,6,response to cobalt ion,biological_process,,,4573,8,cellular response to nutrient levels,0,0.31
+GO:0048755,6,branching morphogenesis of a nerve,biological_process,,,4599,8,cell wall organization,0,0.25
+GO:0051608,7,histamine transport,biological_process,,,4355,8,DNA replication,0,0.27
+GO:0141137,6,"positive regulation of gene expression, epigenetic",biological_process,,,4637,8,positive regulation of protein kinase activity,0,0.27
+GO:0050851,6,antigen receptor-mediated signaling pathway,biological_process,,,4595,8,cell-cell adhesion,0,0.29
+GO:0071731,6,response to nitric oxide,biological_process,,,4555,8,cellular response to starvation,0,0.31
+GO:0006172,7,ADP biosynthetic process,biological_process,,,4404,8,"7,8-dihydropteridine reductase activity",0,0.38
+GO:0000957,6,mitochondrial RNA catabolic process,biological_process,,,4775,8,mRNA processing,0,0.23
+GO:1903691,6,"positive regulation of wound healing, spreading of epidermal cells",biological_process,,,4594,8,positive regulation of protein kinase activity,0,0.24
+GO:0002724,5,regulation of T cell cytokine production,biological_process,,,5066,9,positive regulation of T cell mediated cytotoxicity,0,0.38
+GO:1901984,5,negative regulation of protein acetylation,biological_process,,,5293,9,positive regulation of protein kinase activity,0,0.33
+GO:0032946,5,positive regulation of mononuclear cell proliferation,biological_process,,,5149,9,protein complex,0,0.28
+GO:0006554,5,lysine catabolic process,biological_process,,,5486,9,amino acid transport,0,0.44
+GO:1901911,5,adenosine 5'-(hexahydrogen pentaphosphate) catabolic process,biological_process,,,5261,9,positive regulation of protein kinase activity,0,0.26
+GO:0050672,5,negative regulation of lymphocyte proliferation,biological_process,,,5513,9,cellular response to starvation,0,0.27
+GO:0051754,5,"meiotic sister chromatid cohesion, centromeric",biological_process,,,5477,9,protein targeting to mitochondria,0,0.19
+GO:0051900,5,regulation of mitochondrial depolarization,biological_process,,,5315,9,positive regulation of cell proliferation,0,0.23
+GO:0045794,5,negative regulation of cell volume,biological_process,,,5359,9,cellular response to nutrient levels,0,0.32
+GO:0060168,5,positive regulation of adenosine receptor signaling pathway,biological_process,,,5088,9,cell-cell recognition,0,0.33
+GO:0061724,4,lipophagy,biological_process,,,6075,10,endocytosis,0,0.3
+GO:0002328,4,pro-B cell differentiation,biological_process,,,5796,10,sensory perception of sound,0,0.32
+GO:0035910,4,ascending aorta morphogenesis,biological_process,,,6047,10,protein complex,0,0.2
+GO:0006907,5,pinocytosis,biological_process,,,5606,10,endocytosis,0,0.4
+GO:0055118,5,negative regulation of cardiac muscle contraction,biological_process,,,5627,10,oxidation-reduction process,0,0.26
+GO:1901185,4,negative regulation of ERBB signaling pathway,biological_process,,,6131,10,positive regulation of protein kinase activity,0,0.38
+GO:2000360,4,negative regulation of binding of sperm to zona pellucida,biological_process,,,5729,10,positive regulation of protein localization,0,0.32
+GO:0090118,5,receptor-mediated endocytosis involved in cholesterol transport,biological_process,,,5562,10,cell-cell adhesion,0,0.52
+GO:0072177,5,mesonephric duct development,biological_process,,,5671,10,cellular response to nutrient levels,0,0.34
+GO:0072107,4,positive regulation of ureteric bud formation,biological_process,,,5742,10,cellular response to nutrient levels,0,0.4
+GO:0018277,3,protein deamination,biological_process,,,6742,11,histone modification,0,0.29
+GO:0014034,4,neural crest cell fate commitment,biological_process,,,6455,11,protein complex,0,0.26
+GO:2001206,4,positive regulation of osteoclast development,biological_process,,,6338,11,positive regulation of protein kinase activity,0,0.23
+GO:1904723,4,negative regulation of Wnt-Frizzled-LRP5/6 complex assembly,biological_process,,,6510,11,positive regulation of protein kinase activity,0,0.24
+GO:0035815,4,positive regulation of renal sodium excretion,biological_process,,,6456,11,cell-cell recognition,0,0.25
+GO:0046058,4,cAMP metabolic process,biological_process,,,6258,11,positive regulation of apoptotic process,0,0.27
+GO:1901896,4,positive regulation of ATPase-coupled calcium transmembrane transporter activity,biological_process,,,6320,11,positive regulation of protein kinase activity,0,0.28
+GO:0030718,4,germ-line stem cell population maintenance,biological_process,,,6239,11,protein complex,0,0.31
+GO:0002904,3,positive regulation of B cell apoptotic process,biological_process,,,6755,11,protein complex assembly,0,0.31
+GO:0048483,3,autonomic nervous system development,biological_process,,,6724,11,cellular response to external stimulus,0,0.24
+GO:0000448,3,"cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",biological_process,,,7108,12,protein kinase C activity,0,0.3
+GO:0072752,3,cellular response to rapamycin,biological_process,,,6844,12,cellular response to nutrient levels,0,0.25
+GO:0030328,3,prenylcysteine catabolic process,biological_process,,,6948,12,plasma membrane,0,0.2
+GO:0050866,3,negative regulation of cell activation,biological_process,,,7026,12,regulation of cell cycle,0,0.33
+GO:0015786,3,UDP-glucose transmembrane transport,biological_process,,,7076,12,monosaccharide transport,0,0.23
+GO:0032430,3,positive regulation of phospholipase A2 activity,biological_process,,,6816,12,protein complex subunit organization,0,0.35
+GO:2000156,3,"regulation of retrograde vesicle-mediated transport, Golgi to ER",biological_process,,,7006,12,positive regulation of protein kinase activity,0,0.28
+GO:0042559,3,pteridine-containing compound biosynthetic process,biological_process,,,6814,12,cell wall organization,0,0.29
+GO:0051438,3,regulation of ubiquitin-protein transferase activity,biological_process,,,6958,12,cell wall organization,0,0.29
+GO:1903593,3,regulation of histamine secretion by mast cell,biological_process,,,7086,12,positive regulation of protein kinase activity,0,0.3
+GO:0045058,3,T cell selection,biological_process,,,7640,13,cell junction organization,0,0.47
+GO:0060255,2,regulation of macromolecule metabolic process,biological_process,,,7892,13,cell-cell recognition,0,0.36
+GO:0010641,3,positive regulation of platelet-derived growth factor receptor signaling pathway,biological_process,,,7523,13,response to oxidative stress,0,0.38
+GO:1904695,2,positive regulation of vascular associated smooth muscle contraction,biological_process,,,7867,13,positive regulation of protein secretion,0,0.22
+GO:0072683,3,T cell extravasation,biological_process,,,7762,13,cellular response to nutrient levels,0,0.31
+GO:0070487,3,monocyte aggregation,biological_process,,,7661,13,cellular response to starvation,0,0.29
+GO:0021965,3,spinal cord ventral commissure morphogenesis,biological_process,,,7489,13,cellular response to organic substance,0,0.19
+GO:1904780,2,negative regulation of protein localization to centrosome,biological_process,,,7886,13,positive regulation of protein kinase activity,0,0.28
+GO:1900106,3,positive regulation of hyaluranon cable assembly,biological_process,,,7391,13,positive regulation of cell proliferation,0,0.32
+GO:0032916,2,positive regulation of transforming growth factor beta3 production,biological_process,,,7783,13,protein complex,0,0.17
+GO:0043368,2,positive T cell selection,biological_process,,,8591,14,protein targeting to ER,0,0.46
+GO:2000017,2,positive regulation of determination of dorsal identity,biological_process,,,8085,14,positive regulation of protein kinase activity,0,0.2
+GO:0106354,2,tRNA surveillance,biological_process,,,8284,14,mitotic spindle organization,0,0.33
+GO:1904094,2,positive regulation of autophagic cell death,biological_process,,,8137,14,positive regulation of protein kinase activity,0,0.31
+GO:0090212,2,negative regulation of establishment of blood-brain barrier,biological_process,,,8186,14,cell division,0,0.17
+GO:0017126,2,nucleologenesis,biological_process,,,8574,14,phosphatidylinositol phospholipase C activity,0,0.3
+GO:0003350,2,pulmonary myocardium development,biological_process,,,8143,14,cell junction,0,0.28
+GO:0061890,2,positive regulation of astrocyte activation,biological_process,,,8501,14,positive regulation of protein kinase activity,0,0.32
+GO:0014889,2,muscle atrophy,biological_process,,,8113,14,calcium-dependent protein binding,0,0.23
+GO:0021941,2,negative regulation of cerebellar granule cell precursor proliferation,biological_process,,,8059,14,cellular response to starvation,0,0.57
+GO:2001037,2,positive regulation of tongue muscle cell differentiation,biological_process,,,9018,15,positive regulation of protein kinase activity,0,0.39
+GO:0010725,2,regulation of primitive erythrocyte differentiation,biological_process,,,9129,15,response to cytokine,0,0.18
+GO:1900078,2,positive regulation of cellular response to insulin stimulus,biological_process,,,8912,15,positive regulation of cell proliferation,0,0.31
+GO:0016999,2,antibiotic metabolic process,biological_process,,,9092,15,heme binding,0,2.91
+GO:1902548,2,negative regulation of cellular response to vascular endothelial growth factor stimulus,biological_process,,,9205,15,positive regulation of protein localization,0,0.38
+GO:2000671,2,regulation of motor neuron apoptotic process,biological_process,,,8866,15,positive regulation of protein kinase activity,0,0.36
+GO:0090218,2,positive regulation of lipid kinase activity,biological_process,,,8802,15,cellular response to organic substance,0,0.43
+GO:1903141,2,negative regulation of establishment of endothelial barrier,biological_process,,,9156,15,positive regulation of protein kinase activity,0,0.26
+GO:0035802,2,adrenal cortex formation,biological_process,,,9109,15,phagocytic vesicle formation,0,0.28
+GO:0016482,2,cytosolic transport,biological_process,,,8722,15,protein targeting,0,0.55
+GO:0009820,2,alkaloid metabolic process,biological_process,,,9308,16,photosynthesis,0,0.15
+GO:0090615,1,mitochondrial mRNA processing,biological_process,,,9707,16,cellular response to organic substance,0,0.47
+GO:0060280,1,negative regulation of ovulation,biological_process,,,9602,16,cell wall organization,0,0.61
+GO:0035282,1,segmentation,biological_process,,,9712,16,cellular response to nutrient levels,0,0.41
+GO:0021687,1,cerebellar molecular layer morphogenesis,biological_process,,,9617,16,plasma membrane,0,0.4
+GO:2000331,1,regulation of terminal button organization,biological_process,,,9734,16,positive regulation of protein kinase activity,0,0.21
+GO:0015723,1,bilirubin transport,biological_process,,,9817,16,ion transport,0,0.21
+GO:1902998,2,positive regulation of neurofibrillary tangle assembly,biological_process,,,9370,16,positive regulation of protein localization,0,0.24
+GO:0035932,1,aldosterone secretion,biological_process,,,9699,16,protein complex,0,0.26
+GO:0097639,1,L-lysine import across plasma membrane,biological_process,,,9777,16,positive regulation of protein kinase activity,0,0.56
+GO:0046603,1,negative regulation of mitotic centrosome separation,biological_process,,,10365,17,protein targeting to mitochondrion,0,0.3
+GO:1903963,1,arachidonate transport,biological_process,,,10257,17,positive regulation of protein kinase activity,0,0.44
+GO:0045338,1,farnesyl diphosphate metabolic process,biological_process,,,10441,17,protein complex,0,0.41
+GO:1901184,1,regulation of ERBB signaling pathway,biological_process,,,10420,17,positive regulation of protein localization to plasma membrane,0,0.28
+GO:0002691,1,regulation of cellular extravasation,biological_process,,,9979,17,positive regulation of T cell mediated immunity,0,0.6
+GO:0006014,1,D-ribose metabolic process,biological_process,,,10402,17,glycolysis,0,0.47
+GO:0090174,1,organelle membrane fusion,biological_process,,,10021,17,cell-cell adhesion,0,0.35
+GO:0002336,1,B-1 B cell lineage commitment,biological_process,,,10324,17,spermatogenesis,0,0.28
+GO:0002319,1,memory B cell differentiation,biological_process,,,9984,17,DNA replication,0,0.23
+GO:0006214,1,thymidine catabolic process,biological_process,,,9951,17,autophagy,0,0.37
+GO:0110119,1,positive regulation of very-low-density lipoprotein particle clearance,biological_process,,,10513,18,cellular response to nutrient levels,0,0.45
+GO:0048239,1,negative regulation of DNA recombination at telomere,biological_process,,,10812,18,cellular response to nutrient levels,0,0.37
+GO:0001100,1,negative regulation of exit from mitosis,biological_process,,,10833,18,None,0,0.22
+GO:1903165,1,response to polycyclic arene,biological_process,,,11046,18,positive regulation of protein localization to plasma membrane,0,0.36
+GO:0140438,1,protein stearoylation,biological_process,,,10827,18,protein targeting to ER,0,0.31
+GO:0140888,1,interferon-mediated signaling pathway,biological_process,,,10897,18,positive regulation of protein kinase activity,0,0.28
+GO:0072028,1,nephron morphogenesis,biological_process,,,10871,18,cellular response to nutrient levels,0,0.3
+GO:0090520,1,sphingolipid mediated signaling pathway,biological_process,,,10809,18,cell-cell adhesion,0,0.48
+GO:0022004,1,midbrain-hindbrain boundary maturation during brain development,biological_process,,,11028,18,cellular response to external stimulus,0,0.7
+GO:1905945,1,regulation of response to calcium ion,biological_process,,,11008,18,positive regulation of protein kinase activity,0,0.34
+GO:0090152,1,establishment of protein localization to mitochondrial membrane involved in mitochondrial fission,biological_process,,,11357,19,cell-cell adhesion,0,0.2
+GO:0045763,1,negative regulation of cellular amino acid metabolic process,biological_process,,,11409,19,positive regulation of cell migration,0,0.36
+GO:0009593,1,detection of chemical stimulus,biological_process,,,11387,19,response to radiation,0,0.69
+GO:0060268,1,negative regulation of respiratory burst,biological_process,,,11215,19,positive regulation of cell growth,0,0.34
+GO:0046092,1,deoxycytidine metabolic process,biological_process,,,11351,19,phospholipid biosynthetic process,0,0.33
+GO:1902999,1,negative regulation of phospholipid efflux,biological_process,,,11481,19,positive regulation of protein localization,0,0.35
+GO:0032261,1,purine nucleotide salvage,biological_process,,,11438,19,protein complex,0,0.38
+GO:1903906,1,regulation of plasma membrane raft polarization,biological_process,,,11075,19,positive regulation of protein kinase activity,0,0.61
+GO:1904550,1,response to arachidonic acid,biological_process,,,11643,19,positive regulation of protein kinase activity,0,0.29
+GO:0031109,1,microtubule polymerization or depolymerization,biological_process,,,11512,19,cellular response to nutrient levels,0,0.36
+GO:0001695,1,histamine catabolic process,biological_process,,,11765,20,neurotransmitter transport,0,0.19
+GO:0140962,1,multicellular organismal-level chemical homeostasis,biological_process,,,12169,20,positive regulation of protein kinase activity,0,0.29
+GO:1900450,1,negative regulation of glutamate receptor signaling pathway,biological_process,,,11957,20,positive regulation of protein kinase activity,0,0.48
+GO:2000794,1,regulation of epithelial cell proliferation involved in lung morphogenesis,biological_process,,,11739,20,positive regulation of protein kinase activity,0,0.31
+GO:0003185,1,sinoatrial valve morphogenesis,biological_process,,,11850,20,protein targeting to ER,0,0.32
+GO:0042749,1,regulation of circadian sleep/wake cycle,biological_process,,,12070,20,positive regulation of protein kinase activity,0,0.38
+GO:0014740,1,negative regulation of muscle hyperplasia,biological_process,,,12010,20,NAD+ transacetylase activity,0,0.3
+GO:0061325,1,cell proliferation involved in outflow tract morphogenesis,biological_process,,,11877,20,positive regulation of cell growth,0,0.31
+GO:0100001,1,regulation of skeletal muscle contraction by action potential,biological_process,,,12276,20,biological_process,0,0.25
+GO:0160145,1,negative regulation of GDF15-GFRAL signaling pathway,biological_process,,,11776,20,protein targeting to mitochondrion,0,0.85
+GO:0000987,72,cis-regulatory region sequence-specific DNA binding,molecular_function,,,187,1,DNA replication,0,0.28
+GO:0044877,355,protein-containing complex binding,molecular_function,,,45,1,protein complex binding,0,0.2
+GO:0004879,118,nuclear receptor activity,molecular_function,,,118,1,signal transduction activity,0,0.37
+GO:0035091,119,phosphatidylinositol binding,molecular_function,,,117,1,cellular response to nutrient levels,0,0.23
+GO:0035925,69,mRNA 3'-UTR AU-rich region binding,molecular_function,,,194,1,phosphatidylinositol 3-kinase complex,0,0.37
+GO:0003712,134,transcription coregulator activity,molecular_function,,,105,1,molecular_function_transducer_activity,0,0.22
+GO:0003700,734,DNA-binding transcription factor activity,molecular_function,,,19,1,DNA binding,0,0.26
+GO:0046983,153,protein dimerization activity,molecular_function,,,94,1,protein dimerization activity,1,0.42
+GO:0001228,655,"DNA-binding transcription activator activity, RNA polymerase II-specific",molecular_function,,,21,1,protein complex,0,0.31
+GO:0046982,527,protein heterodimerization activity,molecular_function,,,30,1,protein dimerization activity,0,0.56
+GO:0004860,45,protein kinase inhibitor activity,molecular_function,,,308,2,protein kinase activity,0,0.34
+GO:0001223,55,transcription coactivator binding,molecular_function,,,246,2,None,0,0.31
+GO:0030331,50,nuclear estrogen receptor binding,molecular_function,,,275,2,protein complex,0,0.33
+GO:0001221,44,transcription coregulator binding,molecular_function,,,313,2,protein complex,0,0.14
+GO:0034979,42,NAD-dependent protein lysine deacetylase activity,molecular_function,,,337,2,positive regulation of protein kinase activity,0,0.31
+GO:0016303,36,1-phosphatidylinositol-3-kinase activity,molecular_function,,,401,2,phosphatase activity,0,0.31
+GO:0003720,52,telomerase activity,molecular_function,,,267,2,RNA helicase activity,0,0.33
+GO:0005504,40,fatty acid binding,molecular_function,,,365,2,copper ion binding,0,0.29
+GO:0042056,56,chemoattractant activity,molecular_function,,,241,2,positive regulation of protein kinase activity,0,0.36
+GO:0003836,38,"beta-galactoside (CMP) alpha-2,3-sialyltransferase activity",molecular_function,,,382,2,ligand-gated ion channel activity,0,0.39
+GO:0004430,22,1-phosphatidylinositol 4-kinase activity,molecular_function,,,648,3,tyrosine phenol-lyase activity,0,0.41
+GO:0035242,24,protein-arginine omega-N asymmetric methyltransferase activity,molecular_function,,,605,3,plasma membrane,0,0.16
+GO:0004550,30,nucleoside diphosphate kinase activity,molecular_function,,,497,3,carbohydrate phosphatase activity,0,0.23
+GO:0043027,27,cysteine-type endopeptidase inhibitor activity involved in apoptotic process,molecular_function,,,560,3,cell junction,0,0.22
+GO:0043236,27,laminin binding,molecular_function,,,550,3,cytoskeleton,0,0.23
+GO:0035615,23,clathrin adaptor activity,molecular_function,,,633,3,protein targeting to ER,0,0.33
+GO:0070330,29,aromatase activity,molecular_function,,,518,3,cellular response to starvation,0,0.3
+GO:0016746,24,acyltransferase activity,molecular_function,,,616,3,transferase activity,0,0.24
+GO:0015106,25,bicarbonate transmembrane transporter activity,molecular_function,,,582,3,phospholipid translocation,0,0.43
+GO:0004620,23,phospholipase activity,molecular_function,,,643,3,cyclic nucleotide-gated channel activity,0,0.28
+GO:0051880,17,G-quadruplex DNA binding,molecular_function,,,836,4,positive regulation of protein kinase activity,0,0.27
+GO:0004300,20,enoyl-CoA hydratase activity,molecular_function,,,714,4,protein complex binding,0,0.19
+GO:0008568,20,microtubule severing ATPase activity,molecular_function,,,718,4,protein import,0,0.41
+GO:0140597,20,protein carrier chaperone,molecular_function,,,723,4,protein targeting to mitochondrion,0,0.28
+GO:0004931,17,extracellularly ATP-gated monoatomic cation channel activity,molecular_function,,,819,4,G-protein coupled receptor activity,0,0.22
+GO:0001091,15,RNA polymerase II general transcription initiation factor binding,molecular_function,,,917,4,DNA replication,0,0.37
+GO:0004862,17,cAMP-dependent protein kinase inhibitor activity,molecular_function,,,822,4,protein kinase activity,0,0.21
+GO:0015213,17,uridine transmembrane transporter activity,molecular_function,,,833,4,voltage-gated ion channel activity,0,0.33
+GO:0010485,17,histone H4 acetyltransferase activity,molecular_function,,,838,4,cell cycle arrest,0,0.23
+GO:0008517,17,folic acid transmembrane transporter activity,molecular_function,,,821,4,carbohydrate metabolic process,0,0.23
+GO:0047066,13,phospholipid-hydroperoxide glutathione peroxidase activity,molecular_function,,,1014,5,cell junction assembly,0,0.32
+GO:0008486,13,diphosphoinositol-polyphosphate diphosphatase activity,molecular_function,,,1013,5,tRNA aminoacylation,0,0.3
+GO:0004629,13,phospholipase C activity,molecular_function,,,1043,5,cyclic nucleotide-gated channel activity,0,0.19
+GO:0050146,14,nucleoside phosphotransferase activity,molecular_function,,,948,5,cell division,0,0.3
+GO:0061513,12,glucose 6-phosphate:phosphate antiporter activity,molecular_function,,,1090,5,positive regulation of cell growth,0,0.25
+GO:0035612,12,AP-2 adaptor complex binding,molecular_function,,,1104,5,protein complex,0,0.27
+GO:0019841,14,retinol binding,molecular_function,,,999,5,phosphatase activity,0,0.31
+GO:0008384,12,IkappaB kinase activity,molecular_function,,,1140,5,RNA 3'-phosphatase activity,0,0.23
+GO:0047024,13,"5alpha-androstane-3beta,17beta-diol dehydrogenase activity",molecular_function,,,1033,5,cellular response to starvation,0,0.35
+GO:0030298,13,receptor signaling protein tyrosine kinase activator activity,molecular_function,,,1031,5,plasma membrane,0,0.26
+GO:0004831,9,tyrosine-tRNA ligase activity,molecular_function,,,1354,6,adenylate cyclase activity,0,0.41
+GO:0140537,11,transcription regulator activator activity,molecular_function,,,1174,6,positive regulation of protein localization,0,0.28
+GO:0036041,9,long-chain fatty acid binding,molecular_function,,,1370,6,cell junction,0,0.21
+GO:0001181,10,RNA polymerase I general transcription initiation factor activity,molecular_function,,,1235,6,tyrosine kinase activity,0,0.18
+GO:0005298,9,proline:sodium symporter activity,molecular_function,,,1326,6,phospholipid translocase activity,0,0.25
+GO:0042806,10,fucose binding,molecular_function,,,1257,6,protein binding,0,0.19
+GO:0060228,9,phosphatidylcholine-sterol O-acyltransferase activator activity,molecular_function,,,1363,6,peptidyl-amidation,0,0.38
+GO:0004605,9,phosphatidate cytidylyltransferase activity,molecular_function,,,1319,6,Monooxygenase activity,0,0.29
+GO:0001635,9,calcitonin gene-related peptide receptor activity,molecular_function,,,1336,6,cell-cell recognition,0,0.18
+GO:0004478,9,methionine adenosyltransferase activity,molecular_function,,,1373,6,protein kinase activity,0,0.26
+GO:0003958,9,NADPH-hemoprotein reductase activity,molecular_function,,,1405,7,inorganic diphosphatase activity,0,0.23
+GO:0004559,8,alpha-mannosidase activity,molecular_function,,,1491,7,phospholipase A2 activity,0,0.28
+GO:0070891,8,lipoteichoic acid binding,molecular_function,,,1530,7,cellular response to nutrient levels,0,0.29
+GO:0050483,8,IMP 5'-nucleotidase activity,molecular_function,,,1480,7,cell-cell recognition,0,0.28
+GO:0005368,8,taurine transmembrane transporter activity,molecular_function,,,1417,7,transmembrane transporter activity,0,0.2
+GO:0030144,9,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity",molecular_function,,,1396,7,plasma membrane,0,0.15
+GO:0017064,8,fatty acid amide hydrolase activity,molecular_function,,,1463,7,RNA binding,0,0.2
+GO:0050544,8,arachidonic acid binding,molecular_function,,,1526,7,cell division,0,0.27
+GO:0044390,9,ubiquitin-like protein conjugating enzyme binding,molecular_function,,,1407,7,cellular response to starvation,0,0.23
+GO:0004111,8,creatine kinase activity,molecular_function,,,1500,7,ATPase activity,0,0.32
+GO:0008117,6,sphinganine-1-phosphate aldolase activity,molecular_function,,,1821,8,H2O dehydrogenase (accepting hydrogen) activity,0,1.03
+GO:0004174,7,electron-transferring-flavoprotein dehydrogenase activity,molecular_function,,,1716,8,iron-sulfur cluster binding,0,0.28
+GO:0004321,7,fatty-acyl-CoA synthase activity,molecular_function,,,1725,8,protein complex binding,0,0.3
+GO:0005334,7,norepinephrine:sodium symporter activity,molecular_function,,,1636,8,UDP-N-acetylglucosamine diphosphorylase activity,0,0.29
+GO:0003986,7,acetyl-CoA hydrolase activity,molecular_function,,,1741,8,DNA topoisomerase activity,0,0.46
+GO:0043262,6,ADP phosphatase activity,molecular_function,,,1845,8,cellular response to nutrient levels,0,0.32
+GO:0035250,7,UDP-galactosyltransferase activity,molecular_function,,,1707,8,cellular response to starvation,0,0.35
+GO:0141185,7,UFM1-modified protein reader activity,molecular_function,,,1654,8,protein targeting to mitochondrion,0,0.24
+GO:0071667,6,DNA/RNA hybrid binding,molecular_function,,,1787,8,cellular response to nutrient levels,0,0.2
+GO:0004489,7,methylenetetrahydrofolate reductase (NAD(P)H) activity,molecular_function,,,1721,8,phospholipid biosynthetic process,0,0.48
+GO:0140825,6,lactoperoxidase activity,molecular_function,,,1901,9,protein targeting to mitochondria,0,0.5
+GO:0008597,6,calcium-dependent protein serine/threonine phosphatase regulator activity,molecular_function,,,1985,9,embryonic development ending in birth,0,0.22
+GO:0046977,6,TAP binding,molecular_function,,,1934,9,integral component of membrane,0,0.23
+GO:0002046,5,opsin binding,molecular_function,,,2053,9,cytolysis,0,0.22
+GO:0008934,6,inositol monophosphate 1-phosphatase activity,molecular_function,,,1976,9,protein kinase C-activating phosphatase activity,0,0.4
+GO:0004333,5,fumarate hydratase activity,molecular_function,,,2067,9,inositol-3-phosphatase activity,0,0.36
+GO:0004967,5,glucagon receptor activity,molecular_function,,,2071,9,thrombin receptor activity,0,0.18
+GO:0001602,6,pancreatic polypeptide receptor activity,molecular_function,,,1990,9,mitotic spindle organization,0,0.33
+GO:0008761,5,UDP-N-acetylglucosamine 2-epimerase activity,molecular_function,,,2006,9,RNA secondary structure prediction,0,0.27
+GO:0005283,6,amino acid:sodium symporter activity,molecular_function,,,1908,9,ionotropic glutamate receptor activity,0,0.36
+GO:0000252,5,C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity,molecular_function,,,2277,10,cytoskeleton,0,0.26
+GO:0004631,5,phosphomevalonate kinase activity,molecular_function,,,2173,10,cell wall organization and biogenesis,0,0.25
+GO:0019797,5,procollagen-proline 3-dioxygenase activity,molecular_function,,,2266,10,cell wall organization,0,0.24
+GO:0044388,5,small protein activating enzyme binding,molecular_function,,,2106,10,protein targeting to membrane,0,0.21
+GO:0002951,5,leukotriene-C(4) hydrolase,molecular_function,,,2112,10,ficolin-1 binding,0,0.29
+GO:0003951,4,NAD+ kinase activity,molecular_function,,,2294,10,inorganic diphosphatase activity,0,0.21
+GO:0005094,5,Rho GDP-dissociation inhibitor activity,molecular_function,,,2152,10,GTPase activator activity,0,0.21
+GO:0120170,5,intraciliary transport particle B binding,molecular_function,,,2089,10,microtubule,0,0.17
+GO:1904768,5,all-trans-retinol binding,molecular_function,,,2129,10,positive regulation of protein kinase activity,0,0.27
+GO:0004775,5,succinate-CoA ligase (ADP-forming) activity,molecular_function,,,2157,10,DNA replication,0,0.22
+GO:0003983,4,UTP:glucose-1-phosphate uridylyltransferase activity,molecular_function,,,2529,11,DNA topoisomerase activity,0,0.43
+GO:0140563,4,"UDP-D-xylose:beta-D-glucoside alpha-1,3-D-xylosyltransferase activity",molecular_function,,,2423,11,positive regulation of protein kinase activity,0,0.65
+GO:0052839,4,inositol diphosphate tetrakisphosphate kinase activity,molecular_function,,,2379,11,regulation of protein kinase activity,0,0.17
+GO:1903981,4,enterobactin binding,molecular_function,,,2439,11,positive regulation of protein kinase activity,0,0.25
+GO:0071424,4,rRNA (cytosine-N4-)-methyltransferase activity,molecular_function,,,2424,11,cellular response to nutrient levels,0,0.19
+GO:0141106,4,tRNA methyltransferase activator activity,molecular_function,,,2349,11,positive regulation of protein kinase activity,0,0.33
+GO:0061711,4,N(6)-L-threonylcarbamoyladenine synthase activity,molecular_function,,,2372,11,positive regulation of protein secretion,0,0.19
+GO:0004572,4,"mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase activity",molecular_function,,,2343,11,DNA replication,0,0.3
+GO:0004505,4,phenylalanine 4-monooxygenase activity,molecular_function,,,2532,11,aldehyde dehydrogenase (NAD+) activity,0,0.4
+GO:0034875,4,caffeine oxidase activity,molecular_function,,,2525,11,vesicle docking,0,0.28
+GO:0015024,3,glucuronate-2-sulfatase activity,molecular_function,,,2666,12,cell-cell adhesion,0,0.26
+GO:0047939,4,L-glucuronate reductase activity,molecular_function,,,2570,12,cellular response to external stimulus,0,0.36
+GO:0050201,4,fucokinase activity,molecular_function,,,2609,12,cell wall organization,0,0.39
+GO:0003858,4,3-hydroxybutyrate dehydrogenase activity,molecular_function,,,2636,12,copper ion binding,0,0.4
+GO:0045029,3,G protein-coupled UDP receptor activity,molecular_function,,,2657,12,protein complex,0,0.2
+GO:0047800,4,cysteamine dioxygenase activity,molecular_function,,,2559,12,cell wall organization,0,0.55
+GO:0097003,4,adipokinetic hormone receptor activity,molecular_function,,,2630,12,cellular response to nutrient levels,0,0.33
+GO:0160107,3,tRNA (adenine(58)-N1)-methyltransferase activity,molecular_function,,,2762,12,protein targeting to mitochondrion,0,0.67
+GO:0060002,4,plus-end directed microfilament motor activity,molecular_function,,,2613,12,cell wall organization,0,0.41
+GO:0033749,3,histone H4R3 demethylase activity,molecular_function,,,2662,12,positive regulation of protein localization,0,0.19
+GO:0140486,3,zinc ion sequestering activity,molecular_function,,,2866,13,protein targeting to ER,0,0.2
+GO:0004641,3,phosphoribosylformylglycinamidine cyclo-ligase activity,molecular_function,,,2959,13,2-methyl-3-hydroxyphytanoyl-CoA lyase activity,0,0.33
+GO:0043185,3,vascular endothelial growth factor receptor 3 binding,molecular_function,,,2826,13,protein complex,0,0.59
+GO:0004648,3,O-phospho-L-serine:2-oxoglutarate aminotransferase activity,molecular_function,,,2953,13,deoxyhypusine hydroxylase activity,0,0.45
+GO:2001065,3,mannan binding,molecular_function,,,2911,13,positive regulation of protein kinase activity,0,0.36
+GO:0140355,3,cargo receptor ligand activity,molecular_function,,,2874,13,protein targeting to lysosome membrane,0,0.42
+GO:0052832,3,inositol monophosphate 3-phosphatase activity,molecular_function,,,2811,13,cell-cell adhesion,0,0.26
+GO:0005153,3,interleukin-8 receptor binding,molecular_function,,,2997,13,phospholipase C activity,0,0.74
+GO:0047506,3,(deoxy)adenylate kinase activity,molecular_function,,,2776,13,positive regulation of cell growth,0,0.62
+GO:0004337,3,geranyltranstransferase activity,molecular_function,,,2920,13,inositol-3-phosphatase activity,0,0.4
+GO:0106226,2,peptide 2-hydroxyisobutyryltransferase activity,molecular_function,,,3217,14,protein targeting to ER,0,0.48
+GO:0051903,3,S-(hydroxymethyl)glutathione dehydrogenase [NAD(P)+] activity,molecular_function,,,3037,14,positive regulation of cell proliferation,0,0.34
+GO:0004655,3,porphobilinogen synthase activity,molecular_function,,,3110,14,phospholipase A2 activity,0,0.54
+GO:0004057,3,arginyl-tRNA--protein transferase activity,molecular_function,,,3054,14,lipid biosynthetic process,0,0.37
+GO:0005175,3,CD27 receptor binding,molecular_function,,,3075,14,G protein-coupled receptor binding,0,0.87
+GO:0033703,2,3beta-hydroxy-5beta-steroid dehydrogenase activity,molecular_function,,,3214,14,positive regulation of protein localization,0,0.82
+GO:0004504,3,peptidylglycine monooxygenase activity,molecular_function,,,3056,14,aldehyde dehydrogenase (NAD+) activity,0,0.56
+GO:0106363,2,protein-cysteine methyltransferase activity,molecular_function,,,3186,14,mitotic spindle organization,0,0.23
+GO:0009032,3,thymidine phosphorylase activity,molecular_function,,,3047,14,lipid biosynthetic process,0,0.32
+GO:0035718,3,macrophage migration inhibitory factor binding,molecular_function,,,3027,14,protein complex,0,0.48
+GO:0140481,2,ABC-type iron-sulfur cluster transporter activity,molecular_function,,,3381,15,positive regulation of cell proliferation,0,0.27
+GO:0031741,2,type B gastrin/cholecystokinin receptor binding,molecular_function,,,3426,15,plasma membrane,0,0.38
+GO:0004790,2,thioether S-methyltransferase activity,molecular_function,,,3347,15,L-gulonate 3-dehydrogenase activity,0,0.71
+GO:0032143,2,single thymine insertion binding,molecular_function,,,3408,15,sulfur compound metabolic process,0,0.44
+GO:0042163,2,interleukin-12 beta subunit binding,molecular_function,,,3451,15,cell wall organization,0,0.44
+GO:0032038,2,myosin II heavy chain binding,molecular_function,,,3326,15,protein complex subunit organization,0,0.37
+GO:0141054,2,histone H2B ubiquitin ligase activity,molecular_function,,,3304,15,positive regulation of protein kinase activity,0,0.22
+GO:1990447,2,U2 snRNP binding,molecular_function,,,3439,15,positive regulation of protein localization,0,0.73
+GO:0002196,2,Ser-tRNA(Ala) hydrolase activity,molecular_function,,,3415,15,blood coagulation,0,0.42
+GO:0046970,2,NAD-dependent histone H4K16 deacetylase activity,molecular_function,,,3276,15,integral component of membrane,0,0.63
+GO:0004531,2,deoxyribonuclease II activity,molecular_function,,,3496,16,proteolysis involved in cellular protein catabolic process,0,0.62
+GO:0031732,2,CCR7 chemokine receptor binding,molecular_function,,,3639,16,protein complex subunit organization,0,0.98
+GO:0003904,2,deoxyribodipyrimidine photo-lyase activity,molecular_function,,,3605,16,protease inhibitor activity,0,0.83
+GO:0047783,2,corticosterone 18-monooxygenase activity,molecular_function,,,3644,16,cellular response to heat,0,0.53
+GO:0045550,2,geranylgeranyl reductase activity,molecular_function,,,3611,16,cell wall organization,0,0.54
+GO:0004939,2,beta-adrenergic receptor activity,molecular_function,,,3656,16,G-protein coupled receptor activity,0,0.23
+GO:0000773,2,phosphatidyl-N-methylethanolamine N-methyltransferase activity,molecular_function,,,3681,16,nucleosome,0,0.32
+GO:0047865,2,dimethylglycine dehydrogenase activity,molecular_function,,,3518,16,cellular response to nutrient levels,0,0.6
+GO:0004686,2,elongation factor-2 kinase activity,molecular_function,,,3640,16,protein serine/threonine kinase activity,0,0.45
+GO:0005185,2,neurohypophyseal hormone activity,molecular_function,,,3662,16,phospholipid scramblase activity,0,0.35
+GO:0141000,1,histone H4K91 ubiquitin ligase activity,molecular_function,,,3893,17,positive regulation of protein kinase activity,0,0.35
+GO:0042356,1,GDP-4-dehydro-D-rhamnose reductase activity,molecular_function,,,3849,17,protein complex,0,0.39
+GO:0160118,1,tRNA (guanine(7)-N2)-methyltransferase activity,molecular_function,,,3913,17,protein targeting to ER,0,0.34
+GO:0010308,1,acireductone dioxygenase (Ni2+-requiring) activity,molecular_function,,,3912,17,starch biosynthetic process,0,0.32
+GO:0001616,2,growth hormone secretagogue receptor activity,molecular_function,,,3746,17,cell-cell recognition,0,0.22
+GO:0016223,1,beta-alanine-pyruvate transaminase activity,molecular_function,,,3906,17,lipid biosynthetic process,0,0.43
+GO:0017096,2,acetylserotonin O-methyltransferase activity,molecular_function,,,3763,17,DNA-dependent RNA polymerase activity,0,0.5
+GO:0018729,1,propionate CoA-transferase activity,molecular_function,,,3876,17,cellular response to nutrient levels,0,0.27
+GO:0003972,2,RNA ligase (ATP) activity,molecular_function,,,3749,17,inosine monophosphate dehydrogenase activity,0,0.19
+GO:0003943,2,N-acetylgalactosamine-4-sulfatase activity,molecular_function,,,3737,17,UDP-N-acetylglucosamine diphosphorylase activity,0,0.28
+GO:0180017,1,K11-linked deubiquitinase activity,molecular_function,,,3949,18,protein targeting to ER,0,0.37
+GO:0102571,1,[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine/L-threonine O-N-acetyl-alpha-D-glucosaminase activity,molecular_function,,,4055,18,protein targeting to ER,0,0.51
+GO:0036458,1,hepatocyte growth factor binding,molecular_function,,,4066,18,integral component of membrane,0,0.32
+GO:0031812,1,P2Y1 nucleotide receptor binding,molecular_function,,,4149,18,protein complex,0,0.25
+GO:0062185,1,secalciferol 1-monooxygenase activity,molecular_function,,,4063,18,positive regulation of cell growth,0,0.33
+GO:0046623,1,sphingolipid floppase activity,molecular_function,,,4090,18,cellular response to nutrient levels,0,0.38
+GO:1990955,1,G-rich single-stranded DNA binding,molecular_function,,,4076,18,positive regulation of protein localization,0,0.53
+GO:0016232,1,HNK-1 sulfotransferase activity,molecular_function,,,4058,18,cytoplasmic part,0,0.44
+GO:0160134,1,protein-RNA sequence-specific adaptor activity,molecular_function,,,4141,18,protein targeting,0,0.54
+GO:0031840,1,type 2 neuromedin U receptor binding,molecular_function,,,4127,18,protein complex,0,0.41
+GO:0005140,1,interleukin-9 receptor binding,molecular_function,,,4262,19,adenylate or nucleotide kinase activity,0,0.49
+GO:0036470,1,tyrosine 3-monooxygenase activator activity,molecular_function,,,4280,19,membrane,0,0.41
+GO:0044603,1,protein adenylylhydrolase activity,molecular_function,,,4274,19,cell wall organization,0,0.24
+GO:0001847,1,opsonin receptor activity,molecular_function,,,4212,19,neuromuscular junction development,0,0.36
+GO:0008482,1,sulfite oxidase activity,molecular_function,,,4261,19,tRNA methyltransferase activity,0,0.44
+GO:0061690,1,lipoamidase activity,molecular_function,,,4308,19,positive regulation of cell growth,0,0.3
+GO:0008893,1,"guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity",molecular_function,,,4296,19,acetyl-CoA C-acetyltransferase activity,0,0.61
+GO:0008752,1,FMN reductase (NAD(P)H) activity,molecular_function,,,4160,19,UDP-N-acetylglucosamine diphosphorylase activity,0,0.39
+GO:0001010,1,RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity,molecular_function,,,4374,19,None,0,0.26
+GO:0033764,1,"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",molecular_function,,,4320,19,vesicle targeting,0,0.28
+GO:0106078,1,histone succinyltransferase activity,molecular_function,,,4420,20,mitotic spindle organization,0,0.32
+GO:0005221,1,intracellularly cyclic nucleotide-activated monoatomic cation channel activity,molecular_function,,,4568,20,voltage-gated sodium channel activity,0,0.21
+GO:0120509,1,hydroxypyruvate reductase (NADPH) activity,molecular_function,,,4492,20,microtubule,0,0.18
+GO:0002113,1,interleukin-33 binding,molecular_function,,,4410,20,Phototransduction,0,0.16
+GO:0042922,1,neuromedin U receptor binding,molecular_function,,,4450,20,cellular response to nutrient levels,0,0.3
+GO:0046980,1,tapasin binding,molecular_function,,,4530,20,protein dimerization activity,0,0.34
+GO:0032567,1,dGTP binding,molecular_function,,,4510,20,protein complex,0,0.48
+GO:1990362,1,butanol dehydrogenase (NAD+) activity,molecular_function,,,4617,20,positive regulation of protein kinase activity,0,0.31
+GO:0001512,1,dihydronicotinamide riboside quinone reductase activity,molecular_function,,,4611,20,brain development,0,0.34
+GO:0008892,1,guanine deaminase activity,molecular_function,,,4424,20,acetyltransferase activity,0,0.34

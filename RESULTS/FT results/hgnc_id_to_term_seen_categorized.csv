@@ -1,0 +1,601 @@
+ID,protein_name_ft,pmatch_orig,pmatch_ft,category
+PGH2_HUMAN,Prostaglandin G/H synthase 2 ,0,0,i
+RET_HUMAN,Extracellular cell-membrane anchored RET cadherin 120 kDa fragment ,0,0,i
+ACE2_HUMAN,Processed angiotensin-converting enzyme 2 ,0,0,i
+IGF1_HUMAN,Insulin-like growth factor I,0,0,i
+RENI_HUMAN,Renin ,0,0,i
+CXCR4_HUMAN,C-X-C chemokine receptor type 4,0,0,i
+ITCH_HUMAN,E3 ubiquitin-protein ligase Itchy homolog,0,0,i
+DESM_HUMAN,Desmin,0,0,i
+EGLN_HUMAN,Endoglin,0,0,i
+STAT3_HUMAN,Signal transducer and activator of transcription 3 ,0,0,i
+SP1_HUMAN,Transcription factor Sp1,0,0,i
+E2F1_HUMAN,Transcription factor E2F1 ,0,0,i
+SIR1_HUMAN,SirtT1 75 kDa fragment ,0,0,i
+TF65_HUMAN,Transcription factor p65,0,0,i
+APOE_HUMAN,Apolipoprotein E ,0,0,i
+CD4_HUMAN,T-cell surface glycoprotein CD4,0,0,i
+RAN_HUMAN,GTP-binding nuclear protein Ran,0,0,i
+ALBU_HUMAN,Albumin,0,0,i
+SDF1_HUMAN,SDF-1-alpha(3-67),0,0,i
+NANOG_HUMAN,Homeobox protein NANOG,0,0,i
+AKT1_HUMAN,RAC-alpha serine/threonine-protein kinase,0,0,i
+ARF_HUMAN,Tumor suppressor ARF ,0,0,i
+CD14_HUMAN,"Monocyte differentiation antigen CD14, membrane-bound form",0,0,i
+SODC_HUMAN,Superoxide dismutase [Cu-Zn] ,0,0,i
+NLRP3_HUMAN,"NACHT, LRR and PYD domains-containing protein 3 ",0,0,i
+CD28_HUMAN,T-cell-specific surface glycoprotein CD28,0,0,i
+GALA_HUMAN,Galanin message-associated peptide,0,0,i
+CDK1_HUMAN,Cyclin-dependent kinase 1,0,0,i
+GROA_HUMAN,GRO-alpha(6-73),0,0,i
+TIE2_HUMAN,Angiopoietin-1 receptor,0,0,i
+ESR1_HUMAN,Estrogen receptor,0,0,i
+COMT_HUMAN,Catechol O-methyltransferase ,0,0,i
+CRF_HUMAN,Corticoliberin,0,0,i
+NUMB_HUMAN,Protein numb homolog,0,0,i
+DMD_HUMAN,Dystrophin,0,0,i
+SRF_HUMAN,Serum response factor,0,0,i
+COLI_HUMAN,Met-enkephalin,0,0,i
+IL18_HUMAN,Interleukin-18 ,0,0,i
+FES_HUMAN,Tyrosine-protein kinase Fes/Fps,0,0,i
+CD24_HUMAN,Signal transducer CD24,0,0,i
+TGFB1_HUMAN,Transforming growth factor beta-1 ,0,0,i
+CP2C9_HUMAN,Cytochrome P450 2C9 ,0,0,i
+CTCF_HUMAN,Transcriptional repressor CTCF,0,0,i
+CDK5_HUMAN,Cyclin-dependent kinase 5 ,0,0,i
+LIPL_HUMAN,Lipoprotein lipase,0,0,i
+SECR_HUMAN,Secretin ,0,0,i
+IL2_HUMAN,Interleukin-2,0,0,i
+DUOX2_HUMAN,Dual oxidase 2,0,0,i
+IL15_HUMAN,Interleukin-15,0,0,i
+SMAD7_HUMAN,Mothers against decapentaplegic homolog 7,0,0,i
+MECP2_HUMAN,Methyl-CpG-binding protein 2,0,0,i
+TSC2_HUMAN,Tuberin ,0,0,i
+CBL_HUMAN,E3 ubiquitin-protein ligase CBL,0,0,i
+FINC_HUMAN,Ugl-Y3,0,0,i
+FUS_HUMAN,RNA-binding protein FUS,0,0,i
+MTAP2_HUMAN,Microtubule-associated protein 2,0,0,i
+CDK6_HUMAN,Cyclin-dependent kinase 6,0,0,i
+L1CAM_HUMAN,Neural cell adhesion molecule L1,0,0,i
+FGFR3_HUMAN,Fibroblast growth factor receptor 3,0,0,i
+LEG3_HUMAN,Galectin-3,0,0,i
+JUNB_HUMAN,Transcription factor JunB ,0,0,i
+ATRX_HUMAN,Transcriptional regulator ATRX,0,0,i
+BMAL1_HUMAN,Basic helix-loop-helix ARNT-like protein 1 ,0,0,i
+NOS3_HUMAN,Nitric oxide synthase 3 ,0,0,i
+STAT2_HUMAN,Signal transducer and activator of transcription 2,0,0,i
+TS101_HUMAN,Tumor susceptibility gene 101 protein,0,0,i
+CO3A1_HUMAN,Collagen alpha-1(III) chain,0,0,i
+TNFB_HUMAN,Lymphotoxin-alpha,0,0,i
+ACTA_HUMAN,"Actin, aortic smooth muscle, intermediate form",0,0,i
+RAD50_HUMAN,DNA repair protein RAD50,0,0,i
+GATA2_HUMAN,Endothelial transcription factor GATA-2,0,0,i
+TRAF3_HUMAN,TNF receptor-associated factor 3 ,0,0,i
+ARI1A_HUMAN,AT-rich interactive domain-containing protein 1A,0,0,i
+TRPV4_HUMAN,Transient receptor potential cation channel subfamily V member 4,0,0,i
+TREM2_HUMAN,Triggering receptor expressed on myeloid cells 2,0,0,i
+LEP_HUMAN,Leptin ,0,0,i
+CP2E1_HUMAN,Cytochrome P450 2E1 ,0,0,i
+MUSK_HUMAN,"Muscle, skeletal receptor tyrosine-protein kinase",0,0,i
+ID3_HUMAN,DNA-binding protein inhibitor ID-3,0,0,i
+HG2A_HUMAN,Class-II-associated invariant chain peptide ,0,0,i
+TSLP_HUMAN,Thymic stromal lymphopoietin,0,0,i
+APOA1_HUMAN,Truncated apolipoprotein A-I,0,0,i
+MAVS_HUMAN,Mitochondrial antiviral-signaling protein ,0,0,i
+NOX1_HUMAN,NADPH oxidase 1,0,0,i
+HLAC_HUMAN,"HLA class I histocompatibility antigen, C alpha chain",0,0,i
+HPRT_HUMAN,Hypoxanthine-guanine phosphoribosyltransferase,0,0,i
+JAK3_HUMAN,Tyrosine-protein kinase JAK3 ,0,0,i
+OPTN_HUMAN,Optineurin,0,0,i
+BMP7_HUMAN,Bone morphogenetic protein 7,0,0,i
+TLR8_HUMAN,Toll-like receptor 8 ,0,0,i
+MMP7_HUMAN,Matrilysin,0,0,i
+MEN1_HUMAN,Menin,0,0,i
+CPT1A_HUMAN,"Carnitine O-palmitoyltransferase 1, liver isoform",0,0,i
+SFRP1_HUMAN,Secreted frizzled-related protein 1,0,0,i
+P85A_HUMAN,Phosphatidylinositol 3-kinase regulatory subunit alpha,0,0,i
+A16L1_HUMAN,Autophagy-related protein 16-1 ,0,0,i
+TOP2A_HUMAN,DNA topoisomerase 2-alpha,0,0,i
+HXK1_HUMAN,Hexokinase-1 ,0,0,i
+IKKB_HUMAN,Inhibitor of nuclear factor kappa-B kinase subunit beta,0,0,i
+BAP1_HUMAN,Ubiquitin carboxyl-terminal hydrolase BAP1 ,0,0,i
+PAX2_HUMAN,Paired box protein Pax-2,0,0,i
+SC6A4_HUMAN,Sodium-dependent serotonin transporter,0,0,i
+DAF_HUMAN,Complement decay-accelerating factor,0,0,i
+PRDM1_HUMAN,PR domain zinc finger protein 1,0,0,i
+BTC_HUMAN,Betacellulin,0,0,i
+NRP1_HUMAN,Neuropilin-1 ,0,0,i
+MVP_HUMAN,Major vault protein,0,0,i
+PROX1_HUMAN,Prospero homeobox protein 1,0,0,i
+UD11_HUMAN,UDP-glucuronosyltransferase 1A1 ,0,0,i
+MYF5_HUMAN,Myogenic factor 5,0,0,i
+NR4A1_HUMAN,Nuclear receptor subfamily 4immunitygroup A member 1,0,0,i
+ANPRA_HUMAN,Atrial natriuretic peptide receptor 1 ,0,0,i
+NRATCYTDLS,Delta-like protein 4,0,0,i
+QFYFSNTFDL,Oxygen-regulated protein 1,0,0,i
+MCM2_HUMAN,DNA replication licensing factor MCM2 ,0,0,i
+GNAS2_HUMAN,Guanine nucleotide-binding protein G(s) subunit alpha isoforms short,0,0,i
+GATA6_HUMAN,Transcription factor GATA-6,0,0,i
+PERF_HUMAN,Perforin-1,0,0,i
+KLF5_HUMAN,Krueppel-like factor 5,0,0,i
+PLF4_HUMAN,"Platelet factor 4, short form",0,0,i
+PBX1_HUMAN,Pre-B-cell leukemia transcription factor 1,0,0,i
+HEY1_HUMAN,Hairy/enhancer-of-split related with YRPW motif protein 1,0,0,i
+BIN1_HUMAN,Myc box-dependent-interacting protein 1,0,0,i
+HS71A_HUMAN,Heat shock 70 kDa protein 1A ,0,0,i
+XRP2_HUMAN,Protein XRP2,0,0,i
+CSF2_HUMAN,Granulocyte-macrophage colony-stimulating factor,0,0,i
+HNF1A_HUMAN,Hepatocyte nuclear factor 1-alpha,0,0,i
+SNP25_HUMAN,Synaptosomal-associated protein 25,0,0,i
+NOS1_HUMAN,Nitric oxide synthase 1 ,0,0,i
+BARD1_HUMAN,BRCA1-associated RING domain protein 1,0,0,i
+1433Z_HUMAN,14-3-3 protein zeta/delta,0,0,i
+DRD4_HUMAN,D(4) dopamine receptor,0,0,i
+CDK7_HUMAN,Cyclin-dependent kinase 7,0,0,i
+LATS2_HUMAN,Serine/threonine-protein kinase LATS2,0,0,i
+ALKB5_HUMAN,RNA demethylase ALKBH5 ,0,0,i
+TGFB2_HUMAN,Transforming growth factor beta-2,0,0,i
+DLL1_HUMAN,Delta-like protein 1 ,0,0,i
+HMR1_HUMAN,Major histocompatibility complex class I-related gene protein,0,0,i
+CHK1_HUMAN,Serine/threonine-protein kinase Chk1,0,0,i
+SCN1A_HUMAN,Sodium channel protein type 1 subunit alpha,0,0,i
+MFF_HUMAN,Mitochondrial fission factor,0,0,i
+DQA1_HUMAN,"HLA class II histocompatibility antigen, DQ alpha 1 chain",0,0,i
+RPE65_HUMAN,Retinoid isomerohydrolase ,0,0,i
+IL23R_HUMAN,Interleukin-23 receptor,0,0,i
+PKHD1_HUMAN,Fibrocystin ,0,0,i
+IL2RG_HUMAN,Cytokine receptor common subunit gamma,0,0,i
+TBX5_HUMAN,T-box transcription factor TBX5,0,0,i
+IFIH1_HUMAN,Interferon-induced helicase C domain-containing protein 1 ,0,0,i
+SIX1_HUMAN,Homeobox protein SIX1,0,0,i
+ELK1_HUMAN,ETS domain-containing protein Elk-1,0,0,i
+NDRG1_HUMAN,Protein NDRG1,0,0,i
+MLP3B_HUMAN,Microtubule-associated proteins 1A/1B light chain 3B ,0,0,i
+HDAC9_HUMAN,Histone deacetylase 9,0,0,i
+ATS5_HUMAN,A disintegrin and metalloproteinase with thrombospondin motifs 5,0,0,i
+MYOG_HUMAN,Myogenin,0,0,i
+HRG_HUMAN,Histidine-rich glycoprotein,0,0,i
+DHH_HUMAN,Desert hedgehog protein N-product,0,0,i
+FOXC2_HUMAN,Forkhead box protein C2,0,0,i
+ETS2_HUMAN,Protein C-ets-2,0,0,i
+IF16_HUMAN,Gamma-interferon-inducible protein 16 ,0,0,i
+GNAQ_HUMAN,Guanine nucleotide-binding protein G(q) subunit alpha,0,0,i
+K2C8_HUMAN,"Keratin, type II cytoskeletal 8",0,0,i
+BIRC3_HUMAN,Baculoviral IAP repeat-containing protein 3,0,0,i
+ATF1_HUMAN,Cyclic AMP-dependent transcription factor ATF-1,0,0,i
+MIB1_HUMAN,E3 ubiquitin-protein ligase MIB1,0,0,i
+MSX2_HUMAN,Homeobox protein MSX-2,0,0,i
+YBOX1_HUMAN,Y-box-binding protein 1 ,0,0,i
+MFNNACTYNE,Protein polybromo-1,0,0,i
+SAMH1_HUMAN,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 ,0,0,i
+APOC3_HUMAN,Apolipoprotein C-III,0,0,i
+CCN1_HUMAN,CCN family member 1 ,0,0,i
+BATF_HUMAN,Basic leucine zipper transcriptional factor ATF-like,0,0,i
+PLPL3_HUMAN,1-acylglycerol-3-phosphate O-acyltransferase PNPLA3 ,0,0,i
+SMN_HUMAN,Survival motor neuron protein,0,0,i
+CH3L1_HUMAN,Chitinase-3-like protein 1,0,0,i
+KCNH2_HUMAN,Potassium voltage-gated channel subfamily H member 2,0,0,i
+TIRAP_HUMAN,Toll/interleukin-1 receptor domain-containing adapter protein,0,0,i
+VLDLR_HUMAN,Very low-density lipoprotein receptor,0,0,i
+TRI25_HUMAN,E3 ubiquitin/ISG15 ligase TRIM25,0,0,i
+UCP3_HUMAN,Putative mitochondrial transporter UCP3 ,0,0,i
+GPNMB_HUMAN,Transmembrane glycoprotein NMB,0,0,i
+CSF3_HUMAN,Granulocyte colony-stimulating factor,0,0,i
+RAB5A_HUMAN,Ras-related protein Rab-5A,0,0,i
+LYAM2_HUMAN,E-selectin,0,0,i
+SDC1_HUMAN,Syndecan-1 ,0,0,i
+EDNRB_HUMAN,Endothelin receptor type B ,0,0,i
+CCND3_HUMAN,G1/S-specific cyclin-D3 ,0,0,i
+KPCA_HUMAN,Protein kinase C alpha type,0,0,i
+ACSL1_HUMAN,Long-chain-fatty-acid--CoA ligase 1 ,0,0,i
+NMDE1_HUMAN,"Glutamate receptor ionotropic, NMDA 2A ",0,0,i
+HEY2_HUMAN,Hairy/enhancer-of-split related with YRPW motif protein 2,0,0,i
+TNR1B_HUMAN,Tumor necrosis factor-binding protein 2,0,0,i
+HIPK2_HUMAN,Homeodomain-interacting protein kinase 2,0,0,i
+SYT1_HUMAN,Synaptotagmin-1 ,0,0,i
+FOSL1_HUMAN,Fos-related antigen 1,0,0,i
+AAAT_HUMAN,Neutral amino acid transporter B(0),0,0,i
+ATP7A_HUMAN,Copper-transporting ATPase 1,0,0,i
+LHX2_HUMAN,LIM/homeobox protein Lhx2,0,0,i
+P2RX7_HUMAN,P2X purinoceptor 7,0,0,i
+ARI1B_HUMAN,AT-rich interactive domain-containing protein 1B ,0,0,i
+EMX1_HUMAN,Homeobox protein EMX1 ,0,0,i
+UVRAG_HUMAN,UV radiation resistance-associated gene protein,0,0,i
+TAP2_HUMAN,Antigen peptide transporter 2,0,0,i
+MK_HUMAN,Midkine ,0,0,i
+FOXL2_HUMAN,Forkhead box protein L2,0,0,i
+HBEGF_HUMAN,Heparin-binding EGF-like growth factor,0,0,i
+HDAC7_HUMAN,Histone deacetylase 7,0,0,i
+KCNJ2_HUMAN,Inward rectifier potassium channel 2,0,0,i
+NRX1A_HUMAN,Neurexin-1,0,0,i
+HXA11_HUMAN,Homeobox protein Hox-A11,0,0,i
+CATC_HUMAN,Dipeptidyl peptidase 1 light chain,0,0,i
+USF1_HUMAN,Upstream stimulatory factor 1,0,0,i
+RB27B_HUMAN,Ras-related protein Rab-27B,0,0,i
+GIT1_HUMAN,ARF GTPase-activating protein GIT1,0,0,i
+BMP1_HUMAN,Bone morphogenetic protein 1,0,0,i
+BBC3_HUMAN,"Bcl-2-binding component 3, isoforms 1/2",0,0,i
+APOC1_HUMAN,Truncated apolipoprotein C-I,0,1,g
+CSPG4_HUMAN,Chondroitin sulfate proteoglycan 4,0,0,i
+TRPC5_HUMAN,Short transient receptor potential channel 5,0,0,i
+NSD1_HUMAN,"Histone-lysine N-methyltransferase, H3 lysine-36 specific",0,0,i
+VMLQPFDYDP,Vesicle-associated membrane protein-associated protein B/C ,0,0,i
+LGR4_HUMAN,Leucine-rich repeat-containing G-protein coupled receptor 4,0,0,i
+VAV2_HUMAN,Guanine nucleotide exchange factor VAV2,0,0,i
+LTK_HUMAN,Leukocyte tyrosine kinase receptor ,0,0,i
+VGF_HUMAN,Antimicrobial peptide VGF[554-577],0,0,i
+RL5_HUMAN,Large ribosomal subunit protein uL18 ,0,0,i
+LOX15_HUMAN,Polyunsaturated fatty acid lipoxygenase ALOX15 ,0,0,i
+SEC13_HUMAN,Protein SEC13 homolog ,0,0,i
+SMCA2_HUMAN,Probable global transcription activator SNF2L2,0,0,i
+DRD3_HUMAN,D(3) dopamine receptor ,0,0,i
+CH60_HUMAN,"60 kDa heat shock protein, mitochondrial",0,0,i
+BMR1B_HUMAN,Bone morphogenetic protein receptor type-1B,0,0,i
+GREM1_HUMAN,Gremlin-1,0,0,i
+DMRT1_HUMAN,Doublesex- and mab-3-related transcription factor 1,0,0,i
+PLK4_HUMAN,Serine/threonine-protein kinase PLK4 ,0,0,i
+KIF3A_HUMAN,Kinesin-like protein KIF3A,0,0,i
+CMGA_HUMAN,p-Glu serpinin precursor,0,0,i
+MRP3_HUMAN,ATP-binding cassette sub-family C member 3,0,0,i
+PRDX2_HUMAN,Peroxiredoxin-2,0,0,i
+ENPP1_HUMAN,"Ectonucleotide pyrophosphatase/phosphodiesterase family member 1, secreted form ",0,0,i
+HIP1_HUMAN,Huntingtin-interacting protein 1,0,0,i
+ASCL2_HUMAN,Achaete-scute homolog 2,0,0,i
+PHB2_HUMAN,Prohibitin-2,0,0,i
+SDC4_HUMAN,Syndecan-4 ,0,0,i
+OSR1_HUMAN,Protein odd-skipped-related 1,0,0,i
+LAMC1_HUMAN,Laminin subunit gamma-1,0,0,i
+IFT88_HUMAN,Intraflagellar transport protein 88 homolog,0,0,i
+CLD4_HUMAN,Claudin-4 ,0,0,i
+MP2K2_HUMAN,Dual specificity mitogen-activated protein kinase kinase 2,0,0,i
+DYN1_HUMAN,Dynamin-1 ,0,0,i
+CP26B_HUMAN,Cytochrome P450 26B1,0,0,i
+FRS2_HUMAN,Fibroblast growth factor receptor substrate 2,0,0,i
+TIE1_HUMAN,Tyrosine-protein kinase receptor Tie-1,0,0,i
+KKKQEEEVST,Max-like protein X,0,0,i
+LLQSEENKNL,Poly(A)-specific ribonuclease PARN,0,0,i
+TRIB3_HUMAN,Tribbles homolog 3,0,0,i
+ITPR1_HUMAN,"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1 ",0,0,i
+CHD8_HUMAN,Chromodomain-helicase-DNA-binding protein 8 ,0,0,i
+QDLQGEVEYY,Usherin,0,0,i
+PPA5_HUMAN,Tartrate-resistant acid phosphatase type 5,0,0,i
+ANXA5_HUMAN,Annexin A5,0,0,i
+CLC7A_HUMAN,C-type lectin domain family 7 member A,0,0,i
+IRAK2_HUMAN,Interleukin-1 receptor-associated kinase-like 2,0,0,i
+NECD_HUMAN,Necdin,0,0,i
+WNT6_HUMAN,Protein Wnt-6,0,0,i
+MOT1_HUMAN,Monocarboxylate transporter 1 ,0,0,i
+ZIC1_HUMAN,Zinc finger protein ZIC 1,0,0,i
+BHE40_HUMAN,Class E basic helix-loop-helix protein 40,0,0,i
+GBRA1_HUMAN,Gamma-aminobutyric acid receptor subunit alpha-1,0,0,i
+ZP3_HUMAN,Processed zona pellucida sperm-binding protein 3,0,0,i
+PLPL2_HUMAN,Patatin-like phospholipase domain-containing protein 2 ,0,0,i
+PROF1_HUMAN,Profilin-1,0,0,i
+BIRC2_HUMAN,Baculoviral IAP repeat-containing protein 2,0,0,i
+LPPRC_HUMAN,"Leucine-rich PPR motif-containing protein, mitochondrial",0,0,i
+CAD23_HUMAN,Cadherin-23 ,0,0,i
+SOX8_HUMAN,Transcription factor SOX-8,0,0,i
+KCNQ3_HUMAN,Potassium voltage-gated channel subfamily KQT member 3 ,0,0,i
+RS5_HUMAN,"Small ribosomal subunit protein uS7, N-terminally processed",0,0,i
+CY24A_HUMAN,Cytochrome b-245 light chain,0,0,i
+SCF_HUMAN,Soluble KIT ligand,0,0,i
+GFRA1_HUMAN,GDNF family receptor alpha-1,0,0,i
+HXD13_HUMAN,Homeobox protein Hox-D13,0,1,g
+HDGF_HUMAN,Hepatoma-derived growth factor,0,0,i
+RNF4_HUMAN,E3 ubiquitin-protein ligase RNF4 ,0,0,i
+DKC1_HUMAN,H/ACA ribonucleoprotein complex subunit DKC1,0,0,i
+YES_HUMAN,Tyrosine-protein kinase Yes,0,0,i
+BLNK_HUMAN,B-cell linker protein,0,0,i
+SEM4D_HUMAN,Semaphorin-4D,0,0,i
+PTK7_HUMAN,Inactive tyrosine-protein kinase 7,0,0,i
+CBLB_HUMAN,E3 ubiquitin-protein ligase CBL-B,0,0,i
+NEK7_HUMAN,Serine/threonine-protein kinase Nek7 ,0,0,i
+CP2J2_HUMAN,Cytochrome P450 2J2,0,0,i
+ISG20_HUMAN,Interferon-stimulated gene 20 kDa protein,0,0,i
+HXA7_HUMAN,Homeobox protein Hox-A7,0,0,i
+PDIA1_HUMAN,Protein disulfide-isomerase,0,0,i
+GPER1_HUMAN,G-protein coupled estrogen receptor 1 ,0,0,i
+DNJB1_HUMAN,DnaJ homolog subfamily B member 1,0,0,i
+SIAH2_HUMAN,E3 ubiquitin-protein ligase SIAH2,0,0,i
+LRAT_HUMAN,Lecithin retinol acyltransferase ,0,0,i
+TBA1A_HUMAN,Detyrosinated tubulin alpha-1A chain,0,0,i
+CALX_HUMAN,Calnexin,0,0,i
+SARM1_HUMAN,NAD(+) hydrolase SARM1 ,0,0,i
+RING2_HUMAN,E3 ubiquitin-protein ligase RING2,0,0,i
+PFKAM_HUMAN,"ATP-dependent 6-phosphofructokinase, muscle type ",0,0,i
+NGN3_HUMAN,Neurogenin-3,0,0,i
+FUT8_HUMAN,"Alpha-(1,6)-fucosyltransferase",0,0,i
+RS9_HUMAN,Small ribosomal subunit protein uS4 ,0,0,i
+DYN2_HUMAN,Dynamin-2 ,0,0,i
+SSXT_HUMAN,Protein SSXT,0,0,i
+UBP2_HUMAN,Ubiquitin carboxyl-terminal hydrolase 2,0,0,i
+RBBP4_HUMAN,Histone-binding protein RBBP4,0,0,i
+NLS1_HUMAN,Sodium-dependent lysophosphatidylcholine symporter 1 ,0,0,i
+KCNA1_HUMAN,Potassium voltage-gated channel subfamily A member 1 ,0,0,i
+BBS1_HUMAN,Bardet-Biedl syndrome 1 protein,0,0,i
+MKKS_HUMAN,Molecular chaperone MKKS ,0,0,i
+FZD2_HUMAN,Frizzled-2,0,0,i
+MRP5_HUMAN,ATP-binding cassette sub-family C member 5,0,0,i
+ZFHX3_HUMAN,Zinc finger homeobox protein 3,0,0,i
+KAT5_HUMAN,Histone acetyltransferase KAT5 ,0,0,i
+FOXK1_HUMAN,Forkhead box protein K1 ,0,0,i
+RAMP1_HUMAN,Receptor activity-modifying protein 1,0,0,i
+LDB1_HUMAN,LIM domain-binding protein 1,0,0,i
+KDM2B_HUMAN,Lysine-specific demethylase 2B,0,0,i
+DDX17_HUMAN,Probable ATP-dependent RNA helicase DDX17,0,0,i
+RILP_HUMAN,Rab-interacting lysosomal protein,0,0,i
+EIF3A_HUMAN,Eukaryotic translation initiation factor 3 subunit A ,0,0,i
+K1C10_HUMAN,"Keratin, type I cytoskeletal 10",0,0,i
+TP53B_HUMAN,TP53-binding protein 1 ,0,0,i
+PEX5_HUMAN,Peroxisomal targeting signal 1 receptor ,0,0,i
+OSBP1_HUMAN,Oxysterol-binding protein 1 ,0,0,i
+AF9_HUMAN,Protein AF-9 ,0,0,i
+ACTN3_HUMAN,Alpha-actinin-3,0,0,i
+NR0B1_HUMAN,Nuclear receptor subfamily 0 group B member 1,0,0,i
+MP2K6_HUMAN,Dual specificity mitogen-activated protein kinase kinase 6,0,0,i
+HSP76_HUMAN,Heat shock 70 kDa protein 6,0,0,i
+CXB6_HUMAN,Gap junction beta-6 protein,0,0,i
+DVL3_HUMAN,Segment polarity protein dishevelled homolog DVL-3,0,0,i
+LMO4_HUMAN,LIM domain transcription factor LMO4,0,0,i
+RBMX_HUMAN,"RNA-binding motif protein, X chromosome, N-terminally processed",0,0,i
+SMCA5_HUMAN,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5,0,0,i
+KIF1B_HUMAN,Kinesin-like protein KIF1B ,0,0,i
+CER1_HUMAN,Cerberus,0,0,i
+DNLI3_HUMAN,DNA ligase 3,0,0,i
+SUV92_HUMAN,Histone-lysine N-methyltransferase SUV39H2,0,0,i
+DINTKPKKEN,Solute carrier family 12 member 2,0,0,i
+VEGFD_HUMAN,Vascular endothelial growth factor D ,0,0,i
+RARG_HUMAN,Retinoic acid receptor gamma,0,0,i
+ANXA3_HUMAN,Annexin A3,0,0,i
+ASPH_HUMAN,Aspartyl/asparaginyl beta-hydroxylase,0,0,i
+FBW1A_HUMAN,F-box/WD repeat-containing protein 1A,0,0,i
+IF6_HUMAN,Eukaryotic translation initiation factor 6 ,0,0,i
+CATG_HUMAN,"Cathepsin G, C-terminal truncated form ",0,0,i
+S5A2_HUMAN,3-oxo-5-alpha-steroid 4-dehydrogenase 2,0,0,i
+MUL1_HUMAN,Mitochondrial ubiquitin ligase activator of NFKB 1,0,0,i
+PGRC1_HUMAN,Membrane-associated progesterone receptor component 1,0,0,i
+CML1_HUMAN,Chemerin-like receptor 1 ,0,0,i
+CIB1_HUMAN,Calcium and integrin-binding protein 1,0,0,i
+TELT_HUMAN,Telethonin,0,0,i
+SHAN1_HUMAN,SH3 and multiple ankyrin repeat domains protein 1,0,0,i
+GRIK2_HUMAN,"Glutamate receptor ionotropic, kainate 2",0,0,i
+CLIC4_HUMAN,Chloride intracellular channel protein 4,0,0,i
+HNRPQ_HUMAN,Heterogeneous nuclear ribonucleoprotein Q,0,0,i
+CREB3_HUMAN,Processed cyclic AMP-responsive element-binding protein 3,0,0,i
+FTM_HUMAN,Protein fantom,0,0,i
+SMRC1_HUMAN,SWI/SNF complex subunit SMARCC1 ,0,0,i
+APOH_HUMAN,Beta-2-glycoprotein 1,0,0,i
+LLSAEFGKHL,"Spectrin beta chain, erythrocytic",0,0,i
+GIIVFSYTSQ,Vesicular inhibitory amino acid transporter ,0,0,i
+SGRKLRRRTL,Histone-lysine N-methyltransferase ASH1L,0,0,i
+FLOT1_HUMAN,Flotillin-1,0,0,i
+SEM7A_HUMAN,Semaphorin-7A,0,0,i
+IMB1_HUMAN,Importin subunit beta-1,0,0,i
+PCLO_HUMAN,Protein piccolo,0,0,i
+1433G_HUMAN,"14-3-3 protein gamma, N-terminally processed",0,0,i
+FOXH1_HUMAN,Forkhead box protein H1,0,0,i
+CR3L1_HUMAN,Processed cyclic AMP-responsive element-binding protein 3-like protein 1,0,0,i
+RGS9_HUMAN,Regulator of G-protein signaling 9,0,0,i
+DHB4_HUMAN,Enoyl-CoA hydratase 2,0,0,i
+ARRB2_HUMAN,Beta-arrestin-2,0,0,i
+RL26_HUMAN,Large ribosomal subunit protein uL24 ,0,0,i
+LONM_HUMAN,"Lon protease homolog, mitochondrial ",0,0,i
+ZO2_HUMAN,Tight junction protein ZO-2,0,0,i
+GLR_HUMAN,Glucagon receptor,0,0,i
+GABR1_HUMAN,Gamma-aminobutyric acid type B receptor subunit 1,0,0,i
+AHI1_HUMAN,Jouberin,0,0,i
+RIR2B_HUMAN,Ribonucleoside-diphosphate reductase subunit M2 B,0,0,i
+SNAT_HUMAN,Serotonin N-acetyltransferase,0,0,i
+CHD5_HUMAN,Chromodomain-helicase-DNA-binding protein 5,0,0,i
+CTC1_HUMAN,CST complex subunit CTC1,0,0,i
+S39AE_HUMAN,Metal cation symporter ZIP14 ,0,0,i
+NSMA2_HUMAN,Sphingomyelin phosphodiesterase 3 ,0,0,i
+OXLA_HUMAN,L-amino-acid oxidase ,0,0,i
+KS6A1_HUMAN,Ribosomal protein S6 kinase alpha-1,0,0,i
+STK3_HUMAN,Serine/threonine-protein kinase 3 20kDa subunit,0,0,i
+AMFR_HUMAN,E3 ubiquitin-protein ligase AMFR,0,0,i
+COPT1_HUMAN,Truncated CTR1 form ,0,0,i
+RBBP7_HUMAN,Histone-binding protein RBBP7,0,0,i
+UB2L3_HUMAN,Ubiquitin-conjugating enzyme E2 L3,0,0,i
+HDBP1_HUMAN,Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1,0,0,i
+KCNJ8_HUMAN,ATP-sensitive inward rectifier potassium channel 8,0,0,i
+KC1A_HUMAN,Casein kinase I isoform alpha,0,0,i
+BKRB2_HUMAN,B2 bradykinin receptor,0,0,i
+PTK6_HUMAN,Protein-tyrosine kinase 6,0,0,i
+CYFP2_HUMAN,Cytoplasmic FMR1-interacting protein 2,0,0,i
+RAB21_HUMAN,Ras-related protein Rab-21,0,0,i
+AT2A1_HUMAN,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1 ,0,0,i
+ANXA6_HUMAN,Annexin A6,0,0,i
+KAT8_HUMAN,Histone acetyltransferase KAT8 ,0,0,i
+SFTPD_HUMAN,Pulmonary surfactant-associated protein D,0,0,i
+SCNNB_HUMAN,Amiloride-sensitive sodium channel subunit beta,0,0,i
+S26A6_HUMAN,Solute carrier family 26 member 6,0,0,i
+IREB2_HUMAN,Iron-responsive element-binding protein 2,0,0,i
+ADA15_HUMAN,Disintegrin and metalloproteinase domain-containing protein 15,0,0,i
+AL3A2_HUMAN,Aldehyde dehydrogenase family 3 member A2,0,0,i
+FAF1_HUMAN,FAS-associated factor 1,0,0,i
+TISD_HUMAN,mRNA decay activator protein ZFP36L2 ,0,0,i
+PARP9_HUMAN,Protein mono-ADP-ribosyltransferase PARP9 ,0,0,i
+PTPRK_HUMAN,Receptor-type tyrosine-protein phosphatase kappa,0,0,i
+CSRP3_HUMAN,Cysteine and glycine-rich protein 3,0,0,i
+SNAPN_HUMAN,SNARE-associated protein Snapin,0,0,i
+DQA2_HUMAN,"HLA class II histocompatibility antigen, DQ alpha 2 chain",0,0,i
+DYL1_HUMAN,"Dynein light chain 1, cytoplasmic",0,0,i
+FA2H_HUMAN,Fatty acid 2-hydroxylase ,0,0,i
+UD17_HUMAN,UDP-glucuronosyltransferase 1A7 ,0,0,i
+NPT2A_HUMAN,Sodium-dependent phosphate transport protein 2A,0,0,i
+PRIC1_HUMAN,Prickle-like protein 1,0,0,i
+IF172_HUMAN,Intraflagellar transport protein 172 homolog,0,0,i
+ACHA_HUMAN,Acetylcholine receptor subunit alpha ,0,0,i
+SDCB1_HUMAN,Syntenin-1,0,0,i
+CALRL_HUMAN,Calcitonin gene-related peptide type 1 receptor ,0,0,i
+GRM2_HUMAN,Metabotropic glutamate receptor 2,0,0,i
+VTI1A_HUMAN,Vesicle transport through interaction with t-SNAREs homolog 1A,0,0,i
+HCFC1_HUMAN,HCF C-terminal chain 6 ,0,0,i
+PLXD1_HUMAN,Plexin-D1,0,0,i
+HAX1_HUMAN,HCLS1-associated protein X-1,0,0,i
+FKRP_HUMAN,Ribitol 5-phosphate transferase FKRP ,0,0,i
+STSDYKDNFG,Cyclin-dependent kinase 13,0,0,i
+RAB38_HUMAN,Ras-related protein Rab-38,0,0,i
+ABCA2_HUMAN,ATP-binding cassette sub-family A member 2 ,0,0,i
+S47A1_HUMAN,Multidrug and toxin extrusion protein 1 ,0,0,i
+GUC2D_HUMAN,Retinal guanylyl cyclase 1,0,0,i
+PEX19_HUMAN,Peroxisomal biogenesis factor 19 ,0,0,i
+S22A6_HUMAN,Solute carrier family 22 member 6 ,0,0,i
+SRGP2_HUMAN,SLIT-ROBO Rho GTPase-activating protein 2 ,0,0,i
+S27A1_HUMAN,Long-chain fatty acid transport protein 1 ,0,0,i
+PSDE_HUMAN,26S proteasome non-ATPase regulatory subunit 14,0,0,i
+BAAT_HUMAN,Bile acid-CoA:amino acid N-acyltransferase ,0,0,i
+NCK2_HUMAN,Cytoplasmic protein NCK2,0,0,i
+ANM2_HUMAN,Protein arginine N-methyltransferase 2,0,0,i
+HXD3_HUMAN,Homeobox protein Hox-D3,0,0,i
+TAF4_HUMAN,Transcription initiation factor TFIID subunit 4,0,0,i
+DHSO_HUMAN,Sorbitol dehydrogenase ,0,0,i
+PP1G_HUMAN,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit,0,0,i
+RAB17_HUMAN,Ras-related protein Rab-17,0,0,i
+SIA4C_HUMAN,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 4",0,0,i
+SCNBA_HUMAN,Sodium channel protein type 11 subunit alpha ,0,0,i
+RASF2_HUMAN,Ras association domain-containing protein 2,0,0,i
+IATQGPLAET,Receptor-type tyrosine-protein phosphatase S,0,0,i
+SNX5_HUMAN,Sorting nexin-5,0,0,i
+TESCTDSGAE,Ubiquitin carboxyl-terminal hydrolase 47,0,0,i
+TRI37_HUMAN,E3 ubiquitin-protein ligase TRIM37 ,0,0,i
+PTPRM_HUMAN,Receptor-type tyrosine-protein phosphatase mu,0,0,i
+AMPE_HUMAN,Glutamyl aminopeptidase,0,0,i
+RPGF3_HUMAN,Rap guanine nucleotide exchange factor 3,0,0,i
+CNBP1_HUMAN,Beta-catenin-interacting protein 1,0,0,i
+HOIL1_HUMAN,RanBP-type and C3HC4-type zinc finger-containing protein 1,0,0,i
+GBRB1_HUMAN,Gamma-aminobutyric acid receptor subunit beta-1,0,0,i
+DLG5_HUMAN,Disks large homolog 5,0,0,i
+NKX32_HUMAN,Homeobox protein Nkx-3.2,0,0,i
+NR2E1_HUMAN,Nuclear receptor subfamily 2 group E member 1,0,0,i
+RB6I2_HUMAN,ELKS/Rab6-interacting/CAST family member 1,0,0,i
+TAF9_HUMAN,Transcription initiation factor TFIID subunit 9,0,0,i
+CMA1_HUMAN,Chymase,0,0,i
+PRKX_HUMAN,cAMP-dependent protein kinase catalytic subunit PRKX,0,0,i
+NMDE4_HUMAN,"Glutamate receptor ionotropic, NMDA 2D",0,0,i
+GDIA_HUMAN,Rab GDP dissociation inhibitor alpha,0,0,i
+CAPZB_HUMAN,F-actin-capping protein subunit beta,0,0,i
+ADA2C_HUMAN,Alpha-2C adrenergic receptor,0,0,i
+TOPRS_HUMAN,E3 ubiquitin-protein ligase Topors,0,0,i
+RS4X_HUMAN,"Small ribosomal subunit protein eS4, X isoform ",0,0,i
+BIRC7_HUMAN,Baculoviral IAP repeat-containing protein 7 30kDa subunit,0,0,i
+GDF7_HUMAN,Growth/differentiation factor 7,0,0,i
+VAX1_HUMAN,Ventral anterior homeobox 1,0,0,i
+BAF_HUMAN,"Barrier-to-autointegration factor, N-terminally processed ",0,0,i
+BBS7_HUMAN,Bardet-Biedl syndrome 7 protein,0,0,i
+RBBP6_HUMAN,E3 ubiquitin-protein ligase RBBP6,0,0,i
+PLXB2_HUMAN,Plexin-B2,0,0,i
+UBP36_HUMAN,Ubiquitin carboxyl-terminal hydrolase 36 ,0,0,i
+NLGNX_HUMAN,"Neuroligin-4, X-linked",0,0,i
+ERCC8_HUMAN,DNA excision repair protein ERCC-8,0,0,i
+PLOD3_HUMAN,Procollagen glycosyltransferase,0,0,i
+KCNC3_HUMAN,Voltage-gated potassium channel KCNC3 ,0,0,i
+MYCB2_HUMAN,E3 ubiquitin-protein ligase MYCBP2 ,0,0,i
+KI18B_HUMAN,Kinesin-like protein KIF18B,0,0,i
+AT1B2_HUMAN,Sodium/potassium-transporting ATPase subunit beta-2,0,0,i
+DLG3_HUMAN,Disks large homolog 3,0,0,i
+LMAN1_HUMAN,Protein ERGIC-53,0,0,i
+S15A4_HUMAN,Solute carrier family 15 member 4 ,0,0,i
+HUNIN_HUMAN,Humanin ,0,0,i
+M3K11_HUMAN,Mitogen-activated protein kinase kinase kinase 11,0,0,i
+DEAF1_HUMAN,Deformed epidermal autoregulatory factor 1 homolog,0,0,i
+MAEA_HUMAN,E3 ubiquitin-protein transferase MAEA,0,0,i
+AGRG1_HUMAN,ADGRG1 C-terminal fragment,0,0,i
+B2L10_HUMAN,Bcl-2-like protein 10 ,0,0,i
+TNKS2_HUMAN,Poly [ADP-ribose] polymerase tankyrase-2 ,0,0,i
+DNJC5_HUMAN,DnaJ homolog subfamily C member 5 ,0,0,i
+S4A11_HUMAN,Solute carrier family 4 member 11,0,0,i
+ATN1_HUMAN,Atrophin-1,0,0,i
+ADDB_HUMAN,Beta-adducin,0,0,i
+UBE2B_HUMAN,Ubiquitin-conjugating enzyme E2 B ,0,0,i
+GDIB_HUMAN,Rab GDP dissociation inhibitor beta,0,0,i
+SC16A_HUMAN,Protein transport protein Sec16A,0,0,i
+S6A13_HUMAN,Sodium- and chloride-dependent GABA transporter 2,0,0,i
+LNNDTKLCKD,"NACHT, LRR and PYD domains-containing protein 5",0,0,i
+PI51C_HUMAN,Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma ,0,0,i
+VPP4_HUMAN,V-type proton ATPase 116 kDa subunit a 4,0,0,i
+SAC2_HUMAN,Phosphatidylinositide phosphatase SAC2 ,0,0,i
+IKQETREKEN,Coiled-coil domain-containing protein 39 ,0,0,i
+E2AK1_HUMAN,Eukaryotic translation initiation factor 2-alpha kinase 1 ,0,0,i
+M3K12_HUMAN,Mitogen-activated protein kinase kinase kinase 12,0,0,i
+CP2S1_HUMAN,Cytochrome P450 2S1 ,0,0,i
+DYLT1_HUMAN,Dynein light chain Tctex-type 1,0,0,i
+HVCN1_HUMAN,Voltage-gated hydrogen channel 1,0,0,i
+BAP31_HUMAN,B-cell receptor-associated protein 31,0,0,i
+TULP3_HUMAN,Tubby-related protein 3 ,0,0,i
+AOC1_HUMAN,Diamine oxidase [copper-containing] ,0,0,i
+CHMP5_HUMAN,Charged multivesicular body protein 5,0,0,i
+HPS4_HUMAN,BLOC-3 complex member HPS4 ,0,0,i
+DIC_HUMAN,Mitochondrial dicarboxylate carrier ,0,0,i
+GRHL1_HUMAN,Grainyhead-like protein 1 homolog ,0,0,i
+DRC4_HUMAN,Dynein regulatory complex subunit 4 ,0,0,i
+MED17_HUMAN,Mediator of RNA polymerase II transcription subunit 17,0,0,i
+S26A5_HUMAN,Prestin ,0,0,i
+ERO1A_HUMAN,ERO1-like protein alpha,0,0,i
+BAG4_HUMAN,BAG family molecular chaperone regulator 4,0,0,i
+NTF4_HUMAN,Neurotrophin-4,0,0,i
+FUT9_HUMAN,4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase 9 ,0,0,i
+AAKG1_HUMAN,5'-AMP-activated protein kinase subunit gamma-1,0,0,i
+SIA8B_HUMAN,"Alpha-2,8-sialyltransferase 8B ",0,0,i
+PLCB3_HUMAN,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3 ",0,0,i
+HEN2_HUMAN,Helix-loop-helix protein 2,0,0,i
+IGHE_HUMAN,Immunoglobulin heavy constant epsilon ,0,0,i
+RUXE_HUMAN,Small nuclear ribonucleoprotein E,0,0,i
+ZDHC3_HUMAN,Palmitoyltransferase ZDHHC3 ,0,0,i
+MTPN_HUMAN,Myotrophin,0,0,i
+NUDT3_HUMAN,Diphosphoinositol polyphosphate phosphohydrolase 1 ,0,0,i
+RP3A_HUMAN,Rabphilin-3A,0,0,i
+EGLKFLFDSV,Importin-5,0,0,i
+EXOC4_HUMAN,Exocyst complex component 4,0,0,i
+PCID2_HUMAN,PCI domain-containing protein 2,0,0,i
+COL11_HUMAN,Collectin-11,0,0,i
+CAMP3_HUMAN,Calmodulin-regulated spectrin-associated protein 3 ,0,0,i
+UN13B_HUMAN,Protein unc-13 homolog B ,0,0,i
+NPT4_HUMAN,Sodium-dependent phosphate transport protein 4,0,0,i
+DZIP1_HUMAN,Cilium assembly protein DZIP1 ,0,0,i
+BRSK2_HUMAN,Serine/threonine-protein kinase BRSK2,0,0,i
+DP13B_HUMAN,DCC-interacting protein 13-beta ,0,0,i
+ELA_HUMAN,Apelin receptor early endogenous ligand ,0,0,i
+PJA2_HUMAN,E3 ubiquitin-protein ligase Praja-2,0,0,i
+RC3H1_HUMAN,Roquin-1 ,0,0,i
+S29A2_HUMAN,Equilibrative nucleoside transporter 2 ,0,0,i
+ZNT2_HUMAN,Proton-coupled zinc antiporter SLC30A2 ,0,0,i
+TMED2_HUMAN,Transmembrane emp24 domain-containing protein 2,0,0,i
+SMD2_HUMAN,Small nuclear ribonucleoprotein Sm D2,0,0,i
+KI16B_HUMAN,Kinesin-like protein KIF16B,0,0,i
+BHA15_HUMAN,Class A basic helix-loop-helix protein 15,0,0,i
+SMD1_HUMAN,Small nuclear ribonucleoprotein Sm D1,0,0,i
+UN13C_HUMAN,Protein unc-13 homolog C,0,0,i
+NECT3_HUMAN,Nectin-3,0,0,i
+MK15_HUMAN,Mitogen-activated protein kinase 15 ,0,0,i
+ARP8_HUMAN,Actin-related protein 8,0,0,i
+THAP7_HUMAN,THAP domain-containing protein 7,0,0,i
+INP5K_HUMAN,Inositol polyphosphate 5-phosphatase K ,0,0,i
+SEPT2_HUMAN,Septin-2,0,0,i
+RABX5_HUMAN,Rab5 GDP/GTP exchange factor,0,0,i
+CD5R2_HUMAN,Cyclin-dependent kinase 5 activator 2,0,0,i
+SYEP_HUMAN,Proline--tRNA ligase ,0,0,i
+KLH22_HUMAN,Kelch-like protein 22 ,0,0,i
+ZC3H8_HUMAN,Zinc finger CCCH domain-containing protein 8,0,0,i
+PLXB3_HUMAN,Plexin-B3,0,0,i
+CCG7_HUMAN,Voltage-dependent calcium channel gamma-7 subunit,0,0,i
+PITM1_HUMAN,Membrane-associated phosphatidylinositol transfer protein 1,0,0,i
+PAG15_HUMAN,Lysosomal phospholipase A and acyltransferase,0,0,i
+ARFP2_HUMAN,Arfaptin-2 ,0,0,i
+SH2B2_HUMAN,SH2B adapter protein 2,0,0,i
+CNOT9_HUMAN,CCR4-NOT transcription complex subunit 9 ,0,0,i
+H2B1J_HUMAN,Histone H2B type 1-J,0,0,i
+WASC5_HUMAN,WASH complex subunit 5 ,0,0,i
+3BP1_HUMAN,SH3 domain-binding protein 1 ,0,0,i
+VATF_HUMAN,V-type proton ATPase subunit F,0,0,i
+HINFP_HUMAN,Histone H4 transcription factor,0,0,i
+CROCC_HUMAN,Rootletin,0,0,i
+FUT10_HUMAN,"Alpha-(1,3)-fucosyltransferase 10",0,0,i
+SCIMP_HUMAN,SLP adapter and CSK-interacting membrane protein,0,0,i
+ARL8A_HUMAN,ADP-ribosylation factor-like protein 8A,0,0,i
+TPC1_HUMAN,Two pore channel protein 1 ,0,0,i
+TMIG1_HUMAN,Transmembrane and immunoglobulin domain-containing protein 1,0,0,i
+SLF1_HUMAN,SMC5-SMC6 complex localization factor protein 1 ,0,0,i
+STXB3_HUMAN,Syntaxin-binding protein 3,0,0,i
+RN139_HUMAN,E3 ubiquitin-protein ligase RNF139,0,0,i

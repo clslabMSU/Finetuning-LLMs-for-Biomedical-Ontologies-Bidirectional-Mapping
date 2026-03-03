@@ -1,0 +1,601 @@
+ID,AC,GN,protein_name,GO_F Count,GO_P Count,GO_C Count,all_go_counts,bin,normalized_protein,normalized_gene_name,MATCH,PMC_ID,Rank,PMC_PROTEIN,HGNC_symbol,HGNC_id,HGNC_name,Bin,predicted_hgnc_id,pmatch
+GLUC_HUMAN,P01275,GCG,Glucagon-like peptide 2,4,18,5,27,bin_5,Glucagon-like peptide 2,GCG,1,51972,120,2697,GCG,HGNC:4191,glucagon,1,HGNC:4191,1
+CCR5_HUMAN,Q9UPA4,CCR5,C-C chemokine receptor type 5 ,9,18,5,32,bin_5,C-C chemokine receptor type 5,CCR5,1,49646,125,45917,CCR5,HGNC:1606,C-C motif chemokine receptor 5,1,HGNC:1606,1
+IL6_HUMAN,P05231,IL6,Interleukin-6 ,3,88,4,95,bin_5,Interleukin-6,IL6,1,82871,74,264238,IL6,HGNC:6018,interleukin 6,1,HGNC:6018,1
+RHOA_HUMAN,P61586,RHOA,Transforming protein RhoA ,5,73,21,99,bin_5,Transforming protein RhoA,RHOA,1,70107,96,17392,RHOA,HGNC:667,ras homolog family member A,1,HGNC:9770,0
+OPSD_HUMAN,P08100,RHO,Rhodopsin,4,15,15,34,bin_5,Rhodopsin,RHO,1,359949,16,32914,RHO,HGNC:10012,rhodopsin,1,HGNC:9861,0
+CD40L_HUMAN,P29965,CD40LG,"CD40 ligand, soluble form ",5,17,6,28,bin_5,"CD40 ligand, soluble form",CD40LG,1,49643,126,16132,CD40LG,HGNC:11935,CD40 ligand,1,HGNC:1676,0
+CO1A1_HUMAN,Q15201,COL1A1,Collagen alpha-1(I) chain,5,45,6,56,bin_5,Collagen alpha-1(I) chain,COL1A1,1,31141,194,20543,COL1A1,HGNC:2197,collagen type I alpha 1 chain,1,HGNC:2202,0
+MAX_HUMAN,P61244,MAX,Protein max ,9,4,9,22,bin_5,protein,MAX,1,653872,6,320082,MAX,HGNC:6913,MYC associated transcriptional regulator X,1,HGNC:7396,0
+CGAS_HUMAN,Q8N884,CGAS,Cyclic GMP-AMP synthase ,12,20,7,39,bin_5,Cyclic GMP-AMP synthase,MB21D1,0,36036,172,7870,CGAS,HGNC:21367,cyclic GMP-AMP synthase,1,HGNC:2454,0
+CBPE_HUMAN,P16870,CPE,Carboxypeptidase E,5,10,6,21,bin_5,Carboxypeptidase E,CPE,1,35293,176,2094,CPE,HGNC:2303,carboxypeptidase E,1,HGNC:1673,0
+SOX2_HUMAN,P48431,SOX2,Transcription factor SOX-2,8,31,7,46,bin_5,Transcription factor SOX-2,SOX2,1,64739,105,6691,SOX2,HGNC:11195,SRY-box transcription factor 2,1,HGNC:11104,0
+MDM2_HUMAN,Q53XW0,MDM2,E3 ubiquitin-protein ligase Mdm2,17,63,9,89,bin_5,E3 ubiquitin-protein ligase Mdm2,MDM2,1,54896,115,14829,MDM2,HGNC:6973,MDM2 proto-oncogene,1,HGNC:7151,0
+MMP2_HUMAN,P08253,MMP2,PEX,6,45,7,58,bin_5,peroxisomal biogenesis factor,PEX,0,37986,162,6908,MMP2,HGNC:7166,matrix metallopeptidase 2,1,HGNC:6841,0
+EGFR_HUMAN,Q9H2C9,EGFR,Epidermal growth factor receptor ,23,85,25,133,bin_5,Epidermal growth factor receptor,EGFR,1,330536,17,338787,EGFR,HGNC:3236,epidermal growth factor receptor,1,HGNC:3320,0
+ANGT_HUMAN,P01019,AGT,Angiotensin 1-4,5,48,6,59,bin_5,Angiotensin 1-4,XXXX,0,57750,112,68541,AGT,HGNC:333,angiotensinogen,1,HGNC:310,0
+CDK2_HUMAN,P24941,CDK2,Cyclin-dependent kinase 2,8,31,19,58,bin_5,Cyclin-dependent kinase 2,CDK2,1,41982,151,9315,CDK2,HGNC:1771,cyclin dependent kinase 2,1,HGNC:1772,0
+H2AX_HUMAN,P16104,H2AX,Histone H2AX,8,15,11,34,bin_5,Histone H2AX,H2AFX,0,31393,192,23310,H2AX,HGNC:4739,H2A.X variant histone,1,HGNC:14664,0
+SMS_HUMAN,P61278,SST,Neuronostatin ,1,17,5,23,bin_5,Neuronostatin,NTS,0,32353,188,110,SST,HGNC:11329,somatostatin,1,HGNC:11224,0
+CLOCK_HUMAN,O15516,CLOCK,Circadian locomoter output cycles protein kaput,11,22,8,41,bin_5,Circadian locomoter output cycles protein kaput,CLOCK,1,165932,36,123,CLOCK,HGNC:2082,clock circadian regulator,1,HGNC:1854,0
+LIF_HUMAN,P15018,LIF,Leukemia inhibitory factor,4,40,3,47,bin_5,Leukemia inhibitory factor,LIF,1,39336,159,152259,LIF,HGNC:6596,LIF interleukin 6 family cytokine,1,HGNC:6506,0
+TERT_HUMAN,O14746,TERT,Telomerase reverse transcriptase,15,32,14,61,bin_5,Telomerase reverse transcriptase,TERT,1,108023,61,66097,TERT,HGNC:11730,telomerase reverse transcriptase,1,HGNC:11664,0
+CCL5_HUMAN,P13501,CCL5,RANTES(4-68),14,58,3,75,bin_5,RANTES(4-68),CCL5,1,42899,148,320,CCL5,HGNC:10632,C-C motif chemokine ligand 5,1,HGNC:2632,0
+SMAD4_HUMAN,Q13485,SMAD4,Mothers against decapentaplegic homolog 4,18,80,10,108,bin_5,Mothers against decapentaplegic homolog 4,SMAD4,1,37729,163,73239,SMAD4,HGNC:6770,SMAD family member 4,1,HGNC:11918,0
+CBS_HUMAN,P35520,CBS,Cystathionine beta-synthase ,14,22,3,39,bin_5,Cystathionine beta-synthase,CBS,1,55267,114,11072,CBS,HGNC:1550,cystathionine beta-synthase,1,HGNC:2739,0
+TRFE_HUMAN,P02787,TF,Serotransferrin ,4,14,22,40,bin_5,Serotransferrin,TF,1,173499,31,110565,TF,HGNC:11740,transferrin,1,HGNC:11818,0
+EMD_HUMAN,P50402,EMD,Emerin,3,9,12,24,bin_5,Emerin,EMD,1,100019,67,3518,EMD,HGNC:3331,emerin,1,HGNC:3321,0
+LYOX_HUMAN,P28300,LOX,"Protein-lysine 6-oxidase, short form ",5,29,4,38,bin_5,protein,LOX,1,54645,116,186,LOX,HGNC:6664,lysyl oxidase,1,HGNC:6771,0
+MYB_HUMAN,P78526,MYB,Transcriptional activator Myb,3,26,4,33,bin_5,Transcriptional activator Myb,MYB,1,53261,118,15389,MYB,HGNC:7545,"MYB proto-oncogene, transcription factor",1,HGNC:7371,0
+KLOT_HUMAN,Q9UEF7,KL,Klotho peptide,6,12,6,24,bin_5,Klotho peptide,KL,1,142790,43,7357,KL,HGNC:6344,klotho,1,HGNC:6214,0
+MYC_HUMAN,P01106,MYC,Myc proto-oncogene protein,14,42,7,63,bin_5,Myc proto-oncogene protein,MYC,1,275977,20,50828,MYC,HGNC:7553,"MYC proto-oncogene, bHLH transcription factor",1,HGNC:7370,0
+FGFR2_HUMAN,Q9UQH7,FGFR2,Fibroblast growth factor receptor 2,7,96,11,114,bin_5,Fibroblast growth factor receptor 2,FGFR2,1,19773,318,5945,FGFR2,HGNC:3689,fibroblast growth factor receptor 2,2,HGNC:3690,0
+FER_HUMAN,P16591,FER,Tyrosine-protein kinase Fer,6,38,10,54,bin_5,Tyrosine-protein kinase Fer,FER,1,19584,323,2725,FER,HGNC:3655,FER tyrosine kinase,2,HGNC:3623,0
+FTO_HUMAN,Q9C0B1,FTO,Alpha-ketoglutarate-dependent dioxygenase FTO ,6,11,7,24,bin_5,Alpha-ketoglutarate-dependent dioxygenase FTO,FTO,1,23116,272,1988,FTO,HGNC:24678,FTO alpha-ketoglutarate dependent dioxygenase,2,HGNC:13764,0
+PAX6_HUMAN,P26367,PAX6,Paired box protein Pax-6,19,75,5,99,bin_5,Paired box protein Pax-6,PAX6,1,21335,294,17279,PAX6,HGNC:8620,paired box 6,2,HGNC:8663,0
+BMP4_HUMAN,P12644,BMP4,Bone morphogenetic protein 4 ,6,137,3,146,bin_5,Bone morphogenetic protein 4,BMP4,1,28112,214,10299,BMP4,HGNC:1071,bone morphogenetic protein 4,2,HGNC:1074,0
+NOX4_HUMAN,Q86V92,NOX4,NADPH oxidase 4,11,17,11,39,bin_5,NADPH oxidase 4,NOX4,1,19577,324,7407,NOX4,HGNC:7891,NADPH oxidase 4,2,HGNC:7674,0
+TRAF2_HUMAN,Q12933,TRAF2,TNF receptor-associated factor 2,17,28,12,57,bin_5,TNF receptor-associated factor 2,TRAF2,1,15852,392,3031,TRAF2,HGNC:12032,TNF receptor associated factor 2,2,HGNC:11911,0
+VIME_HUMAN,Q96ML2,VIM,Vimentin,8,12,14,34,bin_5,Vimentin,VIM,1,29413,204,98292,VIM,HGNC:12692,vimentin,2,HGNC:12052,0
+TYY1_HUMAN,P25490,YY1,Transcriptional repressor protein YY1,15,31,8,54,bin_5,Transcriptional repressor protein YY1,YY1,1,16340,370,14891,YY1,HGNC:12856,YY1 transcription factor,2,HGNC:12564,0
+IRF7_HUMAN,Q92985,IRF7,Interferon regulatory factor 7,4,25,6,35,bin_5,Interferon regulatory factor 7,IRF7,1,16249,374,5963,IRF7,HGNC:6122,interferon regulatory factor 7,2,HGNC:6181,0
+MSH2_HUMAN,P43246,MSH2,DNA mismatch repair protein Msh2,10,27,6,43,bin_5,DNA mismatch repair protein Msh2,MSH2,1,20706,303,13780,MSH2,HGNC:7325,mutS homolog 2,2,HGNC:7373,0
+LCK_HUMAN,Q9NYT8,LCK,Tyrosine-protein kinase Lck,17,24,6,47,bin_5,Tyrosine-protein kinase Lck,LCK,1,19965,313,12773,LCK,HGNC:6524,"LCK proto-oncogene, Src family tyrosine kinase",2,HGNC:6501,0
+TRPM2_HUMAN,O94759,TRPM2,Transient receptor potential cation channel subfamily M member 2,8,19,9,36,bin_5,Transient receptor potential cation channel subfamily M member 2,TRPM2,1,17338,360,10416,TRPM2,HGNC:12339,transient receptor potential cation channel subfamily M member 2,2,HGNC:11900,0
+DNM3A_HUMAN,Q9Y6K1,DNMT3A,DNA (cytosine-5)-methyltransferase 3A,11,23,9,43,bin_5,DNA (cytosine-5)-methyltransferase 3A,DNMT3A,1,28060,215,1535,DNMT3A,HGNC:2978,DNA methyltransferase 3 alpha,2,HGNC:2869,0
+SKI_HUMAN,P12755,SKI,Ski oncogene,11,31,9,51,bin_5,Ski oncogene,SKI,1,20168,310,3167,SKI,HGNC:10896,SKI proto-oncogene,2,HGNC:11311,0
+G6PD_HUMAN,P11413,G6PD,Glucose-6-phosphate 1-dehydrogenase,5,23,7,35,bin_5,Glucose-6-phosphate 1-dehydrogenase,G6PD,1,18181,349,1109,G6PD,HGNC:4057,glucose-6-phosphate dehydrogenase,2,HGNC:4290,0
+CCR6_HUMAN,P51684,CCR6,C-C chemokine receptor type 6,4,19,7,30,bin_5,C-C chemokine receptor type 6,CCR6,1,15856,390,45595,CCR6,HGNC:1607,C-C motif chemokine receptor 6,2,HGNC:1627,0
+DYR_HUMAN,P00374,DHFR,Dihydrofolate reductase,7,11,2,20,bin_5,Dihydrofolate reductase,DHFR,1,16012,386,29615,DHFR,HGNC:2861,dihydrofolate reductase,2,HGNC:3020,0
+VHL_HUMAN,P40337,VHL,von Hippel-Lindau disease tumor suppressor,7,22,6,35,bin_5,von Hippel-Lindau disease tumor suppressor,VHL,1,26340,234,11897,VHL,HGNC:12687,von Hippel-Lindau tumor suppressor,2,HGNC:12620,0
+BTK_HUMAN,Q06187,BTK,Tyrosine-protein kinase BTK,8,40,7,55,bin_5,Tyrosine-protein kinase BTK,BTK,1,17647,357,11516,BTK,HGNC:1133,Bruton tyrosine kinase,2,HGNC:1041,0
+FYN_HUMAN,P06241,FYN,Tyrosine-protein kinase Fyn,18,57,14,89,bin_5,Tyrosine-protein kinase Fyn,FYN,1,24111,259,16725,FYN,HGNC:4037,"FYN proto-oncogene, Src family tyrosine kinase",2,HGNC:4024,0
+DUOX1_HUMAN,Q9NRD9,DUOX1,Dual oxidase 1,8,12,6,26,bin_5,Dual oxidase 1,DUOX1,1,18357,346,17177,DUOX1,HGNC:3062,dual oxidase 1,2,HGNC:2922,0
+GPX4_HUMAN,P36969,GPX4,Phospholipid hydroperoxide glutathione peroxidase GPX4 ,4,11,5,20,bin_5,Phospholipid hydroperoxide glutathione peroxidase GPX4,GPX4,1,17310,361,4830,GPX4,HGNC:4556,glutathione peroxidase 4,2,HGNC:4491,0
+ATG7_HUMAN,O95352,ATG7,Ubiquitin-like modifier-activating enzyme ATG7 ,3,17,7,27,bin_5,Ubiquitin-like modifier-activating enzyme ATG7,ATG7,1,20097,312,1750,ATG7,HGNC:16935,autophagy related 7,2,HGNC:17088,0
+SODM_HUMAN,Q96EE6,SOD2,"Superoxide dismutase [Mn], mitochondrial",6,57,4,67,bin_5,"Superoxide dismutase [Mn], mitochondrial",SOD2,1,26540,229,101615,SOD2,HGNC:11180,superoxide dismutase 2,2,HGNC:11152,0
+MIF_HUMAN,P14174,MIF,Macrophage migration inhibitory factor ,7,34,11,52,bin_5,Macrophage migration inhibitory factor,MIF,1,23682,265,100596,MIF,HGNC:7097,macrophage migration inhibitory factor,2,HGNC:6741,0
+ABCA1_HUMAN,O95477,ABCA1,Phospholipid-transporting ATPase ABCA1 ,21,35,12,68,bin_5,Phospholipid-transporting ATPase ABCA1,ABCA1,1,19918,314,73,ABCA1,HGNC:29,ATP binding cassette subfamily A member 1,2,HGNC:42,0
+NOS2_HUMAN,P35228,NOS2,"Nitric oxide synthase, inducible ",10,31,8,49,bin_5,"Nitric oxide synthase, inducible",NOS2,1,19808,316,109648,NOS2,HGNC:7873,nitric oxide synthase 2,2,HGNC:7871,0
+ATF4_HUMAN,P18848,ATF4,Cyclic AMP-dependent transcription factor ATF-4 ,17,45,16,78,bin_5,Cyclic AMP-dependent transcription factor ATF-4,ATF4,1,25664,241,84,ATF4,HGNC:786,activating transcription factor 4,2,HGNC:739,0
+CCL3_HUMAN,P10147,CCL3,MIP-1-alpha(4-69),9,50,4,63,bin_5,CCL3,CCL3,1,27959,218,18,CCL3,HGNC:10627,C-C motif chemokine ligand 3,2,HGNC:1626,0
+PDX1_HUMAN,P52945,PDX1,Pancreas/duodenum homeobox protein 1,5,37,5,47,bin_5,Pancreas/duodenum homeobox protein 1,PDX1,1,11515,516,124,PDX1,HGNC:6107,pancreatic and duodenal homeobox 1,3,HGNC:8661,0
+TERA_HUMAN,P55072,VCP,Transitional endoplasmic reticulum ATPase,17,47,23,87,bin_5,Transitional endoplasmic reticulum ATPase,VCP,1,11404,521,1897,VCP,HGNC:12666,valosin containing protein,3,HGNC:7531,0
+ONCM_HUMAN,P13725,OSM,Oncostatin-M,3,16,2,21,bin_5,Oncostatin-M,OSM,1,12837,470,11745,OSM,HGNC:8506,oncostatin M,3,HGNC:8081,0
+CD3E_HUMAN,P07766,CD3E,T-cell surface glycoprotein CD3 epsilon chain,6,34,11,51,bin_5,T-cell surface glycoprotein CD3 epsilon chain,CD3E,1,12139,492,3945,CD3E,HGNC:1674,CD3 epsilon subunit of T-cell receptor complex,3,HGNC:1666,0
+WNT1_HUMAN,P04628,WNT1,Proto-oncogene Wnt-1,5,51,9,65,bin_5,Proto-oncogene Wnt-1,WNT1,1,14997,412,1483,WNT1,HGNC:12774,Wnt family member 1,3,HGNC:12664,0
+CEBPA_HUMAN,P49715,CEBPA,CCAAT/enhancer-binding protein alpha ,13,45,8,66,bin_5,CCAAT/enhancer-binding protein alpha,CEBPA,1,11377,522,18782,CEBPA,HGNC:1833,CCAAT enhancer binding protein alpha,3,HGNC:1394,0
+PSN1_HUMAN,P49768,PSEN1,Presenilin-1 CTF12,9,89,35,133,bin_5,Presenilin-1 CTF12,PSEN1,1,9990,590,3,PSEN1,HGNC:9508,presenilin 1,3,HGNC:8860,0
+CDD_HUMAN,P32320,CDA,Cytidine deaminase ,6,9,5,20,bin_5,Cytidine deaminase,CDA,1,15498,402,17002,CDA,HGNC:1712,cytidine deaminase,3,HGNC:2534,0
+AIRE_HUMAN,O43918,AIRE,Autoimmune regulator,6,12,5,23,bin_5,Autoimmune regulator,AIRE,1,10431,568,109838,AIRE,HGNC:360,autoimmune regulator,3,HGNC:808,0
+GATA1_HUMAN,P15976,GATA1,Erythroid transcription factor,16,41,6,63,bin_5,Erythroid transcription factor,GATA1,1,10353,572,66328,GATA1,HGNC:4170,GATA binding protein 1,3,HGNC:4180,0
+CSF1_HUMAN,P09603,CSF1,Macrophage colony-stimulating factor 1 43 kDa subunit ,5,41,8,54,bin_5,Macrophage colony-stimulating factor 1 43 kDa subunit,CSF1,1,11805,501,2279,CSF1,HGNC:2432,colony stimulating factor 1,3,HGNC:2201,0
+HMOX1_HUMAN,P09601,HMOX1,Heme oxygenase 1 soluble form ,7,35,9,51,bin_5,Heme oxygenase 1,HMOX1,1,11583,511,11306,HMOX1,HGNC:5013,heme oxygenase 1,3,HGNC:4861,0
+RIPK1_HUMAN,Q13546,RIPK1,Receptor-interacting serine/threonine-protein kinase 1,12,48,8,68,bin_5,Receptor-interacting serine/threonine-protein kinase 1,RIPK1,1,10711,558,3127,RIPK1,HGNC:10019,receptor interacting serine/threonine kinase 1,3,HGNC:9882,0
+MITF_HUMAN,O75030,MITF,Microphthalmia-associated transcription factor,7,20,6,33,bin_5,Microphthalmia-associated transcription factor,MITF,1,14961,413,9539,MITF,HGNC:7105,melanocyte inducing transcription factor,3,HGNC:7041,0
+ATG12_HUMAN,O94817,ATG12,Ubiquitin-like protein ATG12 ,0,10,10,20,bin_5,Ubiquitin-like protein ATG12,ATG12,1,11620,508,7091,ATG12,HGNC:588,autophagy related 12,3,HGNC:17088,0
+CCL19_HUMAN,Q99731,CCL19,C-C motif chemokine 19,5,43,2,50,bin_5,C-C motif chemokine 19,CCL19,1,10848,547,144,CCL19,HGNC:10617,C-C motif chemokine ligand 19,3,HGNC:1624,0
+CP19A_HUMAN,P11511,CYP19A1,Aromatase ,7,15,3,25,bin_5,Aromatase,CYP19A1,1,10028,588,47227,CYP19A1,HGNC:2594,cytochrome P450 family 19 subfamily A member 1,3,HGNC:2583,0
+FGF8_HUMAN,P55075,FGF8,Fibroblast growth factor 8,4,70,4,78,bin_5,Fibroblast growth factor 8,FGF8,1,10104,584,1954,FGF8,HGNC:3686,fibroblast growth factor 8,3,HGNC:3695,0
+MMP3_HUMAN,P08254,MMP3,Stromelysin-1,6,17,6,29,bin_5,Stromelysin-1,MMP3,1,14104,432,12121,MMP3,HGNC:7173,matrix metallopeptidase 3,3,HGNC:6841,0
+INHA_HUMAN,P05111,INHA,Inhibin alpha chain,6,18,8,32,bin_5,Inhibin alpha chain,INHA,1,10733,555,659,INHA,HGNC:6065,inhibin subunit alpha,3,HGNC:5421,0
+S100B_HUMAN,P04271,S100B,Protein S100-B,8,11,10,29,bin_5,Protein S100-B,S100B,1,13362,457,582,S100B,HGNC:10500,S100 calcium binding protein B,3,HGNC:6020,0
+PDCD4_HUMAN,Q53EL6,PDCD4,Programmed cell death protein 4,1,19,1,21,bin_5,Programmed cell death protein 4,PDCD4,1,10926,544,633971,PDCD4,HGNC:8763,programmed cell death 4,3,HGNC:8861,0
+SNAI1_HUMAN,O95863,SNAI1,Zinc finger protein SNAI1,7,24,7,38,bin_5,Zinc finger protein SNAI1,SNAI1,1,10703,559,3501,SNAI1,HGNC:11128,snail family transcriptional repressor 1,3,HGNC:11011,0
+MFN2_HUMAN,O95140,MFN2,Mitofusin-2 ,3,16,4,23,bin_5,Mitofusin-2,MFN2,1,11606,510,8675,MFN2,HGNC:16877,mitofusin 2,3,HGNC:7041,0
+NNTM_HUMAN,Q13423,NNT,"NAD(P) transhydrogenase, mitochondrial",4,12,4,20,bin_5,"NAD(P) transhydrogenase, mitochondrial",NNT,1,14395,427,1582,NNT,HGNC:7863,nicotinamide nucleotide transhydrogenase,3,HGNC:7801,0
+TLR1_HUMAN,Q15399,TLR1,Toll-like receptor 1,6,12,7,25,bin_5,Toll-like receptor 1,TLR1,1,13242,463,2817,TLR1,HGNC:11847,toll like receptor 1,3,HGNC:11911,0
+AURKA_HUMAN,O14965,AURKA,Aurora kinase A ,10,32,24,66,bin_5,Aurora kinase A,AURKA,1,11558,512,6301,AURKA,HGNC:11393,aurora kinase A,3,HGNC:809,0
+GRN_HUMAN,Q9BWE7,GRN,Granulin-7,4,23,13,40,bin_5,Granulin-7,GRN,1,11520,514,787,GRN,HGNC:4601,granulin precursor,3,HGNC:4291,0
+NOTC2_HUMAN,Q04721,NOTCH2,Notch 2 intracellular domain,6,47,10,63,bin_5,NOTCH2,NOTCH2,1,13901,439,53349,NOTCH2,HGNC:7882,notch receptor 2,3,HGNC:8000,0
+S10A9_HUMAN,P06702,S100A9,Protein S100-A9,8,29,12,49,bin_5,Protein S100-A9,S100A9,1,14887,416,874,S100A9,HGNC:10499,S100 calcium binding protein A9,3,HGNC:10686,0
+CRY2_HUMAN,Q49AN0,CRY2,Cryptochrome-2,9,18,7,34,bin_5,Cryptochrome-2,CRY2,1,7963,714,2166,CRY2,HGNC:2385,cryptochrome circadian regulator 2,4,HGNC:2344,0
+PELO_HUMAN,Q9BRX2,PELO,Protein pelota homolog ,3,14,3,20,bin_5,protein pelota homolog,PELO,1,7875,719,266,PELO,HGNC:8829,pelota mRNA surveillance and ribosome rescue factor,4,HGNC:17100,0
+SOX17_HUMAN,Q9H6I2,SOX17,Transcription factor SOX-17,6,46,4,56,bin_5,Transcription factor SOX-17,SOX17,1,8608,668,255,SOX17,HGNC:18122,SRY-box transcription factor 17,4,HGNC:11104,0
+VFLMNFKDPK,RRTRRQDIRN,SEMA3A,Semaphorin-3A,3,25,6,34,bin_5,Semaphorin-3A,SEMA3A,1,8285,690,6243,SEMA3A,HGNC:10723,semaphorin 3A,4,HGNC:10764,0
+PTC1_HUMAN,Q86XG7,PTCH1,Protein patched homolog 1,8,55,10,73,bin_5,protein,PTCH1,1,9633,610,3256,PTCH1,HGNC:9585,patched 1,4,HGNC:8661,0
+ASXL1_HUMAN,Q8IXJ9,ASXL1,Polycomb group protein ASXL1,6,16,2,24,bin_5,Polycomb group protein ASXL1,ASXL1,1,7873,720,1169,ASXL1,HGNC:18318,ASXL transcriptional regulator 1,4,HGNC:171,0
+MK14_HUMAN,Q16539,MAPK14,Mitogen-activated protein kinase 14 ,9,65,11,85,bin_5,Mitogen-activated protein kinase 14,MAPK14,1,6827,788,1722,MAPK14,HGNC:6876,mitogen-activated protein kinase 14,4,HGNC:6841,0
+EOMES_HUMAN,O95936,EOMES,Eomesodermin homolog,7,26,3,36,bin_5,Eomesodermin homolog,EOMES,1,9856,600,895,EOMES,HGNC:3372,eomesodermin,4,HGNC:3054,0
+LATS1_HUMAN,O95835,LATS1,Serine/threonine-protein kinase LATS1,6,23,7,36,bin_5,Serine/threonine-protein kinase LATS1,LATS1,1,7139,766,435,LATS1,HGNC:6514,large tumor suppressor kinase 1,4,HGNC:6552,0
+DSRAD_HUMAN,P55265,ADAR,Double-stranded RNA-specific adenosine deaminase,6,25,7,38,bin_5,Double-stranded RNA-specific adenosine deaminase,ADAR,1,7068,770,1224,ADAR,HGNC:225,adenosine deaminase RNA specific,4,HGNC:170,0
+CDC6_HUMAN,Q99741,CDC6,Cell division control protein 6 homolog,4,14,8,26,bin_5,Cell division control protein 6 homolog,CDC6,1,8160,699,96994,CDC6,HGNC:1744,cell division cycle 6,4,HGNC:1773,0
+GLI3_HUMAN,P10071,GLI3,Transcriptional repressor GLI3R,11,71,13,95,bin_5,Transcriptional repressor GLI3R,GLI3,1,8038,709,519,GLI3,HGNC:4319,GLI family zinc finger 3,4,HGNC:4261,0
+TRFL_HUMAN,Q16789,LTF,Lactoferroxin-C,8,32,14,54,bin_5,Lactoferroxin-C,no appropriate match,0,7319,756,9,LTF,HGNC:6720,lactotransferrin,4,HGNC:6553,0
+STA5A_HUMAN,P42229,STAT5A,Signal transducer and activator of transcription 5A,4,21,6,31,bin_5,Signal transducer and activator of transcription 5A,STAT5A,1,9612,611,31159,STAT5A,HGNC:11366,signal transducer and activator of transcription 5A,4,HGNC:11311,0
+TSP1_HUMAN,P07996,THBS1,Thrombospondin-1,16,68,14,98,bin_5,Thrombospondin-1,THBS1,1,8057,706,19511,THBS1,HGNC:11785,thrombospondin 1,4,HGNC:11764,0
+TFE2_HUMAN,P15923,TCF3,Transcription factor E2-alpha,15,14,8,37,bin_5,Transcription factor E2-alpha,TCF3,1,7454,745,106658,TCF3,HGNC:11633,transcription factor 3,4,HGNC:11771,0
+CYLD_HUMAN,Q9NQC7,CYLD,Ubiquitin carboxyl-terminal hydrolase CYLD,7,30,8,45,bin_5,Ubiquitin carboxyl-terminal hydrolase CYLD,CYLD,1,6848,786,394,CYLD,HGNC:2584,CYLD lysine 63 deubiquitinase,4,HGNC:2138,0
+SYPH_HUMAN,P08247,SYP,Synaptophysin,3,10,10,23,bin_5,Synaptophysin,SYP,1,6919,782,34259,SYP,HGNC:11506,synaptophysin,4,HGNC:11215,0
+HFE_HUMAN,Q96KU8,HFE,Hereditary hemochromatosis protein,4,30,11,45,bin_5,Hereditary hemochromatosis protein,HFE,1,9302,630,12894,HFE,HGNC:4886,homeostatic iron regulator,4,HGNC:17064,0
+DAXX_HUMAN,Q9BWI3,DAXX,Death domain-associated protein 6,14,20,7,41,bin_5,Death domain-associated protein 6,DAXX,1,7369,753,3217,DAXX,HGNC:2681,death domain associated protein,4,HGNC:2774,0
+PAI1_HUMAN,P05121,SERPINE1,Plasminogen activator inhibitor 1,3,27,8,38,bin_5,Plasminogen activator inhibitor 1,SERPINE1,1,8865,655,27877,SERPINE1,HGNC:8583,serpin family E member 1,4,HGNC:11214,0
+GDF15_HUMAN,Q99988,GDF15,Growth/differentiation factor 15 ,4,17,6,27,bin_5,Growth/differentiation factor 15,GDF15,1,7498,742,2875,GDF15,HGNC:30142,growth differentiation factor 15,4,HGNC:4469,0
+SQRVRFTKEI,Q9UL18,AGO1,Protein argonaute-1,6,10,8,24,bin_5,protein,AGO1,1,7286,757,1973,AGO1,HGNC:3262,argonaute RISC component 1,4,HGNC:17088,0
+CETP_HUMAN,P11597,CETP,Cholesteryl ester transfer protein ,6,18,5,29,bin_5,Cholesteryl ester transfer protein,CETP,1,8045,708,24068,CETP,HGNC:1869,cholesteryl ester transfer protein,4,HGNC:2094,0
+XRCC1_HUMAN,P18887,XRCC1,DNA repair protein XRCC1 ,5,16,7,28,bin_5,DNA repair protein XRCC1,XRCC1,1,9400,625,8148,XRCC1,HGNC:12828,X-ray repair cross complementing 1,4,HGNC:12542,0
+IL1A_HUMAN,P01583,IL1A,Interleukin-1 alpha,3,43,5,51,bin_5,Interleukin-1 alpha,IL1A,1,8726,661,17729,IL1A,HGNC:5991,interleukin 1 alpha,4,HGNC:6019,0
+MRP1_HUMAN,Q9UQA0,ABCC1,Multidrug resistance-associated protein 1 ,14,22,7,43,bin_5,Multidrug resistance-associated protein 1,ABCC1,1,8021,710,3326,ABCC1,HGNC:51,ATP binding cassette subfamily C member 1 (ABCC1 blood group),4,HGNC:8,0
+SF3B1_HUMAN,O75533,SF3B1,Splicing factor 3B subunit 1,3,9,13,25,bin_5,Splicing factor 3B subunit 1,SF3B1,1,7982,712,7991,SF3B1,HGNC:10768,splicing factor 3b subunit 1,4,HGNC:11164,0
+NKX25_HUMAN,P52952,NKX2-5,Homeobox protein Nkx-2.5,12,65,9,86,bin_5,Homeobox protein Nkx-2.5,NKX2-5,1,9208,637,781,NKX2-5,HGNC:2488,NK2 homeobox 5,4,HGNC:7611,0
+GLI2_HUMAN,P10070,GLI2,Zinc finger protein GLI2 ,7,37,8,52,bin_5,Zinc finger protein GLI2,GLI2,1,9570,614,3231,GLI2,HGNC:4318,GLI family zinc finger 2,4,HGNC:4113,0
+PTN_HUMAN,P21246,PTN,Pleiotrophin ,8,34,6,48,bin_5,Pleiotrophin,PTN,1,5776,912,4262,PTN,HGNC:9630,pleiotrophin,5,HGNC:8970,0
+PRIO_HUMAN,Q9UP19,PRNP,Major prion protein,20,39,16,75,bin_5,Major prion protein,PRNP,1,5730,917,46192,PRNP,HGNC:9449,prion protein (Kanno blood group),5,HGNC:8545,0
+HXK4_HUMAN,P35557,GCK,Hexokinase-4 ,6,19,3,28,bin_5,Hexokinase-4,GCK,1,6228,866,264,GCK,HGNC:4195,glucokinase,5,HGNC:4180,0
+KMT2A_HUMAN,Q9UD94,KMT2A,MLL cleavage product C180,11,24,5,40,bin_5,MLL cleavage product C180,KMT2A,1,6014,888,6,KMT2A,HGNC:7132,lysine methyltransferase 2A,5,HGNC:13664,0
+ITAM_HUMAN,P11215,ITGAM,Integrin alpha-M,6,28,10,44,bin_5,Integrin alpha-M,ITGAM,1,6678,808,68272,ITGAM,HGNC:6149,integrin subunit alpha M,5,HGNC:5234,0
+PTN22_HUMAN,Q8WVM1,PTPN22,Tyrosine-protein phosphatase non-receptor type 22,6,31,5,42,bin_5,Tyrosine-protein phosphatase non-receptor type 22,PTPN22,1,5730,918,49427,PTPN22,HGNC:9652,protein tyrosine phosphatase non-receptor type 22,5,HGNC:9241,0
+NUP98_HUMAN,Q9Y6J5,NUP98,Nuclear pore complex protein Nup96,8,11,11,30,bin_5,Nuclear pore complex protein Nup96,NUP98,1,5248,986,554,NUP98,HGNC:8068,nucleoporin 98 and 96 precursor,5,HGNC:8002,0
+SPI1_HUMAN,P17947,SPI1,Transcription factor PU.1 ,17,28,4,49,bin_5,Transcription factor PU.1,SPI1,1,6756,798,3916,SPI1,HGNC:11241,Spi-1 proto-oncogene,5,HGNC:11211,0
+WNT11_HUMAN,O96014,WNT11,Protein Wnt-11,4,53,4,61,bin_5,Protein Wnt-11,WNT11,1,5425,964,959,WNT11,HGNC:12776,Wnt family member 11,5,HGNC:12664,0
+EPHA4_HUMAN,P54764,EPHA4,Ephrin type-A receptor 4,12,43,19,74,bin_5,Ephrin type-A receptor 4,EPHA4,1,5395,968,9613,EPHA4,HGNC:3388,EPH receptor A4,5,HGNC:3565,0
+WNT3_HUMAN,P56703,WNT3,Proto-oncogene Wnt-3,4,27,9,40,bin_5,Proto-oncogene Wnt-3,WNT3,1,5934,897,135,WNT3,HGNC:12782,Wnt family member 3,5,HGNC:12664,0
+ANXA1_HUMAN,P04083,ANXA1,Annexin Ac2-26 ,9,37,23,69,bin_5,Annexin A1,ANXA1,1,5816,907,513,ANXA1,HGNC:533,annexin A1,5,HGNC:544,0
+HS90A_HUMAN,P07900,HSP90AA1,Heat shock protein HSP 90-alpha ,27,40,27,94,bin_5,Heat shock protein HSP 90-alpha,HSP90AA1,1,5491,954,1071,HSP90AA1,HGNC:5253,heat shock protein 90 alpha family class A member 1,5,HGNC:4870,0
+CCL8_HUMAN,P80075,CCL8,MCP-2(6-76),6,17,1,24,bin_5,MCP-2(6-76),CCL8,1,6656,809,24,CCL8,HGNC:10635,C-C motif chemokine ligand 8,5,HGNC:1629,0
+TOP1_HUMAN,P11387,TOP1,DNA topoisomerase 1,12,12,8,32,bin_5,DNA topoisomerase 1,TOP1,1,5849,904,64896,TOP1,HGNC:11986,DNA topoisomerase I,5,HGNC:3350,0
+BMR1A_HUMAN,P36894,BMPR1A,Bone morphogenetic protein receptor type-1A,9,67,7,83,bin_5,Bone morphogenetic protein receptor type-1A,BMPR1A,1,5562,943,815,BMPR1A,HGNC:1076,bone morphogenetic protein receptor type 1A,5,HGNC:1071,0
+FEN1_HUMAN,P39748,FEN1,Flap endonuclease 1 ,12,11,7,30,bin_5,Flap endonuclease 1,FEN1,1,5256,984,3547,FEN1,HGNC:3650,flap structure-specific endonuclease 1,5,HGNC:3560,0
+TDG_HUMAN,Q13569,TDG,G/T mismatch-specific thymine DNA glycosylase,19,7,4,30,bin_5,G/T mismatch-specific thymine DNA glycosylase,TDG,1,5265,980,172,TDG,HGNC:11700,thymine DNA glycosylase,5,HGNC:11664,0
+ROCK2_HUMAN,O75116,ROCK2,Rho-associated protein kinase 2,12,56,7,75,bin_5,Rho-associated protein kinase 2,ROCK2,1,6519,828,16999,ROCK2,HGNC:10252,Rho associated coiled-coil containing protein kinase 2,5,HGNC:9880,0
+OAS1_HUMAN,Q16701,OAS1,2'-5'-oligoadenylate synthase 1,4,24,9,37,bin_5,2'-5'-oligoadenylate synthase 1,OAS1,1,5517,951,1647,OAS1,HGNC:8086,2'-5'-oligoadenylate synthetase 1,5,HGNC:11142,0
+NPC1_HUMAN,O15118,NPC1,NPC intracellular cholesterol transporter 1 ,5,31,11,47,bin_5,NPC intracellular cholesterol transporter 1,NPC1,1,6322,853,3304,NPC1,HGNC:7897,NPC intracellular cholesterol transporter 1,5,HGNC:8004,0
+MSX1_HUMAN,P28360,MSX1,Homeobox protein MSX-1 ,8,46,5,59,bin_5,Homeobox protein MSX-1,MSX1,1,5589,940,510,MSX1,HGNC:7391,msh homeobox 1,5,HGNC:7171,0
+DISC1_HUMAN,C9J6D0,DISC1,Disrupted in schizophrenia 1 protein ,4,25,17,46,bin_5,Disrupted in schizophrenia 1 protein,DISC1,1,5484,955,23067,DISC1,HGNC:2888,DISC1 scaffold protein,5,HGNC:2869,0
+TFR1_HUMAN,P02786,TFRC,"Transferrin receptor protein 1, serum form",9,29,22,60,bin_5,"Transferrin receptor protein 1, serum form",TFRC,1,5821,906,46591,TFRC,HGNC:11763,transferrin receptor,5,HGNC:11715,0
+ANM5_HUMAN,Q9UKH1,PRMT5,"Protein arginine N-methyltransferase 5, N-terminally processed",14,18,8,40,bin_5,Protein arginine N-methyltransferase 5,PRMT5,1,6556,823,29,PRMT5,HGNC:10894,protein arginine methyltransferase 5,5,HGNC:9241,0
+PON1_HUMAN,P27169,PON1,Serum paraoxonase/arylesterase 1 ,6,7,7,20,bin_5,Serum paraoxonase/arylesterase 1,PON1,1,6267,859,943,PON1,HGNC:9204,paraoxonase 1,5,HGNC:8661,0
+NBN_HUMAN,O60934,NBN,Nibrin ,6,33,13,52,bin_5,Nibrin,NBN,1,5816,908,1154,NBN,HGNC:7652,nibrin,5,HGNC:7671,0
+RAD21_HUMAN,O60216,RAD21,64-kDa C-terminal product ,4,22,14,40,bin_5,no appropriate match,XXXX,0,5797,910,1084,RAD21,HGNC:9811,RAD21 cohesin complex component,5,HGNC:9591,0
+TSPO_HUMAN,P30536,TSPO,Translocator protein,5,38,7,50,bin_5,Translocator protein,TSPO,1,6477,835,23370,TSPO,HGNC:1158,translocator protein,5,HGNC:11918,0
+SP7_HUMAN,Q8TDD2,SP7,Transcription factor Sp7,6,11,3,20,bin_5,Transcription factor Sp7,SP7,1,6620,812,4615,SP7,HGNC:17321,Sp7 transcription factor,5,HGNC:11103,0
+BGH3_HUMAN,Q53XM1,TGFBI,Transforming growth factor-beta-induced protein ig-h3,6,7,8,21,bin_5,Transforming growth factor-beta-induced protein ig-h3,TGFBI,1,4557,1110,517,TGFBI,HGNC:11771,transforming growth factor beta induced,6,HGNC:11841,0
+TBX1_HUMAN,O43435,TBX1,T-box transcription factor TBX1,7,60,2,69,bin_5,T-box transcription factor TBX1,TBX1,1,4542,1115,1537,TBX1,HGNC:11592,T-box transcription factor 1,6,HGNC:11664,0
+ITAX_HUMAN,P20702,ITGAX,Integrin alpha-X,4,14,9,27,bin_5,Integrin alpha-X,ITGAX,1,4804,1064,913,ITGAX,HGNC:6152,integrin subunit alpha X,6,HGNC:5231,0
+VNEIDRRSTI,P13611,VCAN,Versican core protein,5,8,12,25,bin_5,Versican core protein,VCAN,1,4682,1086,4435,VCAN,HGNC:2464,versican,6,HGNC:12664,0
+MALT1_HUMAN,Q9UDY8,MALT1,Mucosa-associated lymphoid tissue lymphoma translocation protein 1 ,7,22,8,37,bin_5,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,MALT1,1,5141,1006,584,MALT1,HGNC:6819,MALT1 paracaspase,6,HGNC:6916,0
+4F2_HUMAN,P08195,SLC3A2,Amino acid transporter heavy chain SLC3A2 ,13,17,14,44,bin_5,Amino acid transporter heavy chain SLC3A2,SLC3A2,1,4529,1116,1429,SLC3A2,HGNC:11026,solute carrier family 3 member 2,6,HGNC:10978,0
+G3BP1_HUMAN,Q13283,G3BP1,Ras GTPase-activating protein-binding protein 1,11,7,7,25,bin_5,Ras GTPase-activating protein-binding protein 1,G3BP1,1,4113,1184,18615,G3BP1,HGNC:30292,G3BP stress granule assembly factor 1,6,HGNC:17074,0
+ANM1_HUMAN,Q99872,PRMT1,Protein arginine N-methyltransferase 1 ,15,23,6,44,bin_5,protein,PRMT1,1,5206,996,2345,PRMT1,HGNC:5187,protein arginine methyltransferase 1,6,HGNC:8541,0
+GELS_HUMAN,P06396,GSN,Gelsolin,6,31,17,54,bin_5,Gelsolin,GSN,1,4219,1162,10358,GSN,HGNC:4620,gelsolin,6,HGNC:4200,0
+CLD1_HUMAN,O95832,CLDN1,Claudin-1,3,26,8,37,bin_5,Claudin-1,CLDN1,1,4208,1166,14309,CLDN1,HGNC:2032,claudin 1,6,HGNC:2201,0
+B2L11_HUMAN,Q8WYM1,BCL2L11,Bcl-2-like protein 11,2,39,7,48,bin_5,Bcl-2-like protein 11,BCL2L11,1,4609,1095,1727,BCL2L11,HGNC:994,BCL2 like 11,6,HGNC:1041,0
+MEF2A_HUMAN,Q02078,MEF2A,Myocyte-specific enhancer factor 2A,14,18,5,37,bin_5,Myocyte-specific enhancer factor 2A,MEF2A,1,4576,1105,13143,MEF2A,HGNC:6993,myocyte enhancer factor 2A,6,HGNC:7291,0
+RBP2_HUMAN,PATSIPTPAS,RANBP2,E3 SUMO-protein ligase RanBP2,6,9,14,29,bin_5,E3 SUMO-protein ligase RanBP2,RANBP2,1,4261,1152,1258,RANBP2,HGNC:9848,RAN binding protein 2,6,HGNC:9880,0
+HAND2_HUMAN,P61296,HAND2,Heart- and neural crest derivatives-expressed protein 2,9,44,4,57,bin_5,Heart- and neural crest derivatives-expressed protein 2,HAND2,1,5139,1007,718,HAND2,HGNC:4808,heart and neural crest derivatives expressed 2,6,HGNC:4669,0
+FLNA_HUMAN,P21333,FLNA,Filamin-A,14,49,25,88,bin_5,Filamin-A,FLNA,1,4586,1102,7573,FLNA,HGNC:3754,filamin A,6,HGNC:3560,0
+BAG3_HUMAN,O95817,BAG3,BAG family molecular chaperone regulator 3,6,18,9,33,bin_5,BAG family molecular chaperone regulator 3,BAG3,1,4341,1141,2186,BAG3,HGNC:939,BAG cochaperone 3,6,HGNC:1702,0
+ALDOA_HUMAN,P04075,ALDOA,Fructose-bisphosphate aldolase A ,8,10,14,32,bin_5,Fructose-bisphosphate aldolase A,ALDOA,1,4135,1182,10781,ALDOA,HGNC:414,"aldolase, fructose-bisphosphate A",6,HGNC:310,0
+CSKP_HUMAN,Q5VT19,CASK,Peripheral plasma membrane protein CASK ,7,12,15,34,bin_5,Peripheral plasma membrane protein CASK,CASK,1,4145,1178,779,CASK,HGNC:1497,calcium/calmodulin dependent serine protein kinase,6,HGNC:1643,0
+PRKDC_HUMAN,P78527,PRKDC,DNA-dependent protein kinase catalytic subunit,12,46,13,71,bin_5,DNA-dependent protein kinase catalytic subunit,PRKDC,1,5025,1026,145732,PRKDC,HGNC:9413,"protein kinase, DNA-activated, catalytic subunit",6,HGNC:9241,0
+KPCT_HUMAN,Q04759,PRKCQ,Protein kinase C theta type,6,24,5,35,bin_5,protein,PRKCQ,1,4268,1149,2990,PRKCQ,HGNC:9410,protein kinase C theta,6,HGNC:9241,0
+CATK_HUMAN,P43235,CTSK,Cathepsin K,7,18,9,34,bin_5,Cathepsin K,CTSK,1,4850,1051,10757,CTSK,HGNC:2536,cathepsin K,6,HGNC:1715,0
+PDPN_HUMAN,Q8NBR3,PDPN,29kDa cytosolic podoplanin intracellular domain ,3,21,20,44,bin_5,29kDa cytosolic podoplanin intracellular domain,PDPN,1,4376,1138,0,PDPN,HGNC:29602,podoplanin,6,HGNC:9002,0
+BNI3L_HUMAN,O60238,BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,3,13,6,22,bin_5,BNIP3L,BNIP3L,1,4255,1153,0,BNIP3L,HGNC:1085,BCL2 interacting protein 3 like,6,HGNC:17188,0
+ROBO1_HUMAN,Q9Y6N7,ROBO1,Roundabout homolog 1,3,27,6,36,bin_5,Roundabout homolog 1,ROBO1,1,4580,1104,1485,ROBO1,HGNC:10249,roundabout guidance receptor 1,6,HGNC:9953,0
+E2F4_HUMAN,Q16254,E2F4,Transcription factor E2F4,10,10,4,24,bin_5,Transcription factor E2F4,E2F4,1,5067,1021,4742,E2F4,HGNC:3118,E2F transcription factor 4,6,HGNC:3066,0
+DGAT2_HUMAN,Q96PD7,DGAT2,Diacylglycerol O-acyltransferase 2 ,4,14,9,27,bin_5,Diacylglycerol O-acyltransferase 2,DGAT2,1,4826,1057,3718,DGAT2,HGNC:16940,diacylglycerol O-acyltransferase 2,6,HGNC:2869,0
+SMC3_HUMAN,Q9UQE7,SMC3,Structural maintenance of chromosomes protein 3,9,11,12,32,bin_5,Structural maintenance of chromosomes protein 3,SMC3,1,4570,1106,53080,SMC3,HGNC:2468,structural maintenance of chromosomes 3,6,HGNC:11104,0
+AQP2_HUMAN,P41181,AQP2,Aquaporin-2,3,10,10,23,bin_5,Aquaporin-2,AQP2,1,4562,1108,5124,AQP2,HGNC:634,aquaporin 2,6,HGNC:813,0
+BC11A_HUMAN,Q9NWA7,BCL11A,B-cell lymphoma/leukemia 11A ,10,17,8,35,bin_5,B-cell lymphoma/leukemia 11A,BCL11A,1,4972,1033,766,BCL11A,HGNC:13221,BCL11 transcription factor A,6,HGNC:1043,0
+CASP9_HUMAN,Q9UIJ8,CASP9,Caspase-9 subunit p10,8,24,7,39,bin_5,Caspase-9 subunit p10,CASP9,1,5109,1010,469,CASP9,HGNC:1511,caspase 9,6,HGNC:1715,0
+CCL24_HUMAN,O00175,CCL24,C-C motif chemokine 24,4,17,1,22,bin_5,C-C motif chemokine 24,CCL24,1,3564,1308,38,CCL24,HGNC:10623,C-C motif chemokine ligand 24,7,HGNC:1623,0
+HXA5_HUMAN,P20719,HOXA5,Homeobox protein Hox-A5,6,25,2,33,bin_5,Homeobox protein Hox-A5,HOXA5,1,3523,1313,150,HOXA5,HGNC:5106,homeobox A5,7,HGNC:4931,0
+AQP3_HUMAN,Q92482,AQP3,Aquaporin-3,4,13,6,23,bin_5,Aquaporin-3,AQP3,1,3726,1262,3083,AQP3,HGNC:636,aquaporin 3 (Gill blood group),7,HGNC:813,0
+SMUF2_HUMAN,Q9HAU4,SMURF2,E3 ubiquitin-protein ligase SMURF2,4,11,8,23,bin_5,E3 ubiquitin-protein ligase SMURF2,SMURF2,1,3624,1284,2186,SMURF2,HGNC:16809,SMAD specific E3 ubiquitin protein ligase 2,7,HGNC:11115,0
+INO80_HUMAN,Q9ULG1,INO80,Chromatin-remodeling ATPase INO80 ,8,25,7,40,bin_5,Chromatin-remodeling ATPase INO80,INO80,1,3992,1204,1932,INO80,HGNC:26956,INO80 complex ATPase subunit,7,HGNC:17018,0
+AP2A_HUMAN,P05549,TFAP2A,Transcription factor AP-2-alpha,12,29,3,44,bin_5,Transcription factor AP-2-alpha,TFAP2A,1,3515,1314,10610,TFAP2A,HGNC:11742,transcription factor AP-2 alpha,7,HGNC:11942,0
+IL12A_HUMAN,P29459,IL12A,Interleukin-12 subunit alpha,6,26,5,37,bin_5,Interleukin-12 subunit alpha,IL12A,1,3326,1382,12071,IL12A,HGNC:5969,interleukin 12A,7,HGNC:6012,0
+CXB2_HUMAN,Q9H536,GJB2,Gap junction beta-2 protein,4,17,8,29,bin_5,Gap junction beta-2 protein,GJB2,1,4042,1194,3552,GJB2,HGNC:4284,gap junction protein beta 2,7,HGNC:4136,0
+ATG4B_HUMAN,Q9Y4P1,ATG4B,Cysteine protease ATG4B ,5,13,6,24,bin_5,Cysteine protease ATG4B,ATG4B,1,3400,1360,1069,ATG4B,HGNC:20790,autophagy related 4B cysteine peptidase,7,HGNC:17088,0
+ADAM9_HUMAN,Q13443,ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,9,28,7,44,bin_5,Disintegrin and metalloproteinase domain-containing protein 9,ADAM9,1,3386,1364,3475,ADAM9,HGNC:216,ADAM metallopeptidase domain 9,7,HGNC:215,0
+STIL_HUMAN,Q15468,STIL,SCL-interrupting locus protein,1,20,7,28,bin_5,SCL-interrupting locus protein,STIL,1,3600,1293,41,STIL,HGNC:10879,STIL centriolar assembly protein,7,HGNC:10864,0
+PARP2_HUMAN,HDFGLRTPPL,PARP2,Poly [ADP-ribose] polymerase 2 ,12,13,4,29,bin_5,Poly [ADP-ribose] polymerase 2,PARP2,1,3583,1303,215394,PARP2,HGNC:272,poly(ADP-ribose) polymerase 2,7,HGNC:8860,0
+FIBB_HUMAN,P02675,FGB,Fibrinogen beta chain,4,22,15,41,bin_5,Fibrinogen beta chain,FGB,1,3424,1350,27633,FGB,HGNC:3662,fibrinogen beta chain,7,HGNC:3694,0
+RB11A_HUMAN,P62491,RAB11A,Ras-related protein Rab-11A ,7,31,24,62,bin_5,Ras-related protein Rab-11A,RAB11A,1,3984,1205,749,RAB11A,HGNC:9760,"RAB11A, member RAS oncogene family",7,HGNC:9771,0
+MEF2D_HUMAN,Q14814,MEF2D,Myocyte-specific enhancer factor 2D,11,11,5,27,bin_5,Myocyte-specific enhancer factor 2D,MEF2D,1,3589,1300,12419,MEF2D,HGNC:6997,myocyte enhancer factor 2D,7,HGNC:7170,0
+SIR4_HUMAN,Q9Y6E7,SIRT4,"NAD-dependent protein lipoamidase sirtuin-4, mitochondrial ",10,14,3,27,bin_5,"NAD-dependent protein lipoamidase sirtuin-4, mitochondrial",SIRT4,1,3444,1339,154,SIRT4,HGNC:14932,sirtuin 4,7,HGNC:11019,0
+OSTCN_HUMAN,P02818,BGLAP,Osteocalcin,5,37,8,50,bin_5,Osteocalcin,BGLAP,1,3330,1380,34048,BGLAP,HGNC:1043,bone gamma-carboxyglutamate protein,7,HGNC:1044,0
+C5AR1_HUMAN,P21730,C5AR1,C5a anaphylatoxin chemotactic receptor 1,2,27,4,33,bin_5,C5a anaphylatoxin chemotactic receptor 1,C5AR1,1,3353,1376,2176,C5AR1,HGNC:1338,complement C5a receptor 1,7,HGNC:2221,0
+NLRP6_HUMAN,P59044,NLRP6,"NACHT, LRR and PYD domains-containing protein 6 ",9,23,7,39,bin_5,"NACHT, LRR and PYD domains-containing protein 6",NLRP6,1,3876,1224,1374,NLRP6,HGNC:22944,NLR family pyrin domain containing 6,7,HGNC:13752,0
+SIX3_HUMAN,ILRARAVVAF,SIX3,Homeobox protein SIX3,6,25,3,34,bin_5,Homeobox protein SIX3,SIX3,1,3427,1347,1641,SIX3,HGNC:10889,SIX homeobox 3,7,HGNC:10864,0
+NEK2_HUMAN,P51955,NEK2,Serine/threonine-protein kinase Nek2,6,18,11,35,bin_5,Serine/threonine-protein kinase Nek2,NEK2,1,3785,1249,299,NEK2,HGNC:7745,NIMA related kinase 2,7,HGNC:7671,0
+UBE2C_HUMAN,O00762,UBE2C,Ubiquitin-conjugating enzyme E2 C,5,13,6,24,bin_5,Ubiquitin-conjugating enzyme E2 C,UBE2C,1,3448,1336,24149,UBE2C,HGNC:15937,ubiquitin conjugating enzyme E2 C,7,HGNC:12418,0
+MRP4_HUMAN,O15439,ABCC4,ATP-binding cassette sub-family C member 4,16,13,8,37,bin_5,ATP-binding cassette sub-family C member 4,ABCC4,1,3423,1351,4499,ABCC4,HGNC:55,ATP binding cassette subfamily C member 4 (PEL blood group),7,HGNC:54,0
+DCE2_HUMAN,Q05329,GAD2,Glutamate decarboxylase 2 ,4,9,12,25,bin_5,Glutamate decarboxylase 2,GAD2,1,3587,1302,843,GAD2,HGNC:4093,glutamate decarboxylase 2,7,HGNC:4291,0
+ABCG5_HUMAN,Q9H222,ABCG5,ATP-binding cassette sub-family G member 5 ,7,14,3,24,bin_5,ATP-binding cassette sub-family G member 5,ABCG5,1,3907,1219,4222,ABCG5,HGNC:13886,ATP binding cassette subfamily G member 5,7,HGNC:54,0
+CNTP2_HUMAN,Q9UHC6,CNTNAP2,Contactin-associated protein-like 2,3,21,14,38,bin_5,Contactin-associated protein-like 2,CNTNAP2,1,3754,1255,1740,CNTNAP2,HGNC:13830,contactin associated protein 2,7,HGNC:2224,0
+USP9X_HUMAN,Q93008,USP9X,Ubiquitin carboxyl-terminal hydrolase 9X,9,26,7,42,bin_5,Ubiquitin carboxyl-terminal hydrolase 9X,no appropriate match,0,3581,1304,95,USP9X,HGNC:12632,ubiquitin specific peptidase 9 X-linked,7,HGNC:12464,0
+ACTS_HUMAN,P68133,ACTA1,"Actin, alpha skeletal muscle, intermediate form",5,11,11,27,bin_5,ACTA1,ACTA1,1,3574,1306,13902,ACTA1,HGNC:129,"actin alpha 1, skeletal muscle",7,HGNC:16,0
+RCC1_HUMAN,P18754,RCC1,Regulator of chromosome condensation,8,8,7,23,bin_5,Regulator of chromosome condensation,RCC1,1,3864,1231,18141,RCC1,HGNC:1913,regulator of chromosome condensation 1,7,HGNC:9882,0
+ELAV1_HUMAN,Q15717,ELAVL1,ELAV-like protein 1,9,10,13,32,bin_5,ELAV-like protein 1,ELAVL1,1,3968,1208,829,ELAVL1,HGNC:3312,ELAV like RNA binding protein 1,7,HGNC:3134,0
+NMDZ1_HUMAN,Q5VSF5,GRIN1,"Glutamate receptor ionotropic, NMDA 1",10,23,16,49,bin_5,"Glutamate receptor ionotropic, NMDA 1",GRIN1,1,2995,1506,20226,GRIN1,HGNC:4584,glutamate ionotropic receptor NMDA type subunit 1,8,HGNC:4581,0
+SCRB1_HUMAN,Q8WTV0,SCARB1,Scavenger receptor class B member 1,13,27,9,49,bin_5,Scavenger receptor class B member 1,SCARB1,1,2971,1511,0,SCARB1,HGNC:1664,scavenger receptor class B member 1,8,HGNC:10681,0
+AMRA1_HUMAN,Q9C0C7,AMBRA1,Activating molecule in BECN1-regulated autophagy protein 1 ,4,19,14,37,bin_5,Activating molecule in BECN1-regulated autophagy protein 1,AMBRA1,1,3111,1460,99,AMBRA1,HGNC:25990,autophagy and beclin 1 regulator 1,8,HGNC:24664,0
+KDM5B_HUMAN,Q9UGL1,KDM5B,Lysine-specific demethylase 5B,9,16,4,29,bin_5,Lysine-specific demethylase 5B,KDM5B,1,3072,1482,372,KDM5B,HGNC:18039,lysine demethylase 5B,8,HGNC:17058,0
+NOX5_HUMAN,Q9H6E0,NOX5,NADPH oxidase 5,7,10,4,21,bin_5,NADPH oxidase 5,NOX5,1,3280,1402,872,NOX5,HGNC:14874,NADPH oxidase 5,8,HGNC:7674,0
+FOXN1_HUMAN,O15353,FOXN1,Forkhead box protein N1,3,15,2,20,bin_5,Forkhead box protein N1,FOXN1,1,2969,1512,2503,FOXN1,HGNC:12765,forkhead box N1,8,HGNC:3776,0
+MTP_HUMAN,P55157,MTTP,Microsomal triglyceride transfer protein large subunit,12,15,9,36,bin_5,Microsomal triglyceride transfer protein large subunit,MTTP,1,2777,1580,950,MTTP,HGNC:7467,microsomal triglyceride transfer protein,8,HGNC:7174,0
+MYLK_HUMAN,Q9UIT9,MYLK,"Myosin light chain kinase, smooth muscle, deglutamylated form",5,9,7,21,bin_5,"Myosin light chain kinase, smooth muscle, deglutamylated form",MYLK,1,3306,1392,2,MYLK,HGNC:7590,myosin light chain kinase,8,HGNC:7371,0
+THB_HUMAN,P10828,THRB,Thyroid hormone receptor beta,11,16,5,32,bin_5,Thyroid hormone receptor beta,THRB,1,2844,1558,67161,THRB,HGNC:11799,thyroid hormone receptor beta,8,HGNC:11815,0
+LYAM3_HUMAN,P16109,SELP,P-selectin,9,15,5,29,bin_5,P-selectin,SELP,1,2835,1562,31198,SELP,HGNC:10721,selectin P,8,HGNC:10764,0
+TYOBP_HUMAN,O43914,TYROBP,TYRO protein tyrosine kinase-binding protein ,5,30,4,39,bin_5,TYRO protein tyrosine kinase-binding protein,TYROBP,1,3053,1491,430,TYROBP,HGNC:12449,transmembrane immune signaling adaptor TYROBP,8,HGNC:12518,0
+HS71B_HUMAN,P0DMV9,HSPA1B,Heat shock 70 kDa protein 1B ,15,25,20,60,bin_5,Heat shock 70 kDa protein 1B,HSPA1B,1,3009,1501,5894,HSPA1B,HGNC:5233,heat shock protein family A (Hsp70) member 1B,8,HGNC:4931,0
+WWTR1_HUMAN,Q9GZV5,WWTR1,WW domain-containing transcription regulator protein 1,4,25,7,36,bin_5,WW domain-containing transcription regulator protein 1,WWTR1,1,2870,1548,3297,WWTR1,HGNC:24042,WW domain containing transcription regulator 1,8,HGNC:7720,0
+CADM1_HUMAN,X5D2C8,CADM1,Cell adhesion molecule 1 ,4,14,7,25,bin_5,Cell adhesion molecule 1,CADM1,1,3277,1403,85649,CADM1,HGNC:5951,cell adhesion molecule 1,8,HGNC:1674,0
+CLD5_HUMAN,O00501,CLDN5,Claudin-5,2,23,10,35,bin_5,Claudin-5,CLDN5,1,3019,1498,9787,CLDN5,HGNC:2047,claudin 5,8,HGNC:2084,0
+DHX9_HUMAN,Q08211,DHX9,ATP-dependent RNA helicase A ,35,43,16,94,bin_5,ATP-dependent RNA helicase A,DHX9,1,2886,1537,18357,DHX9,HGNC:2750,DExH-box helicase 9,8,HGNC:2574,0
+VDAC2_HUMAN,P45880,VDAC2,Voltage-dependent anion-selective channel protein 2,7,5,10,22,bin_5,Voltage-dependent anion-selective channel protein 2,VDAC2,1,2779,1578,3327,VDAC2,HGNC:12672,voltage dependent anion channel 2,8,HGNC:7531,0
+HCN2_HUMAN,Q9UL51,HCN2,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,5,11,5,21,bin_5,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,HCN2,1,2794,1574,143,HCN2,HGNC:4846,hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2,8,HGNC:4931,0
+FFAR2_HUMAN,O15552,FFAR2,Free fatty acid receptor 2,2,18,2,22,bin_5,Free fatty acid receptor 2,FFAR2,1,3212,1422,236694,FFAR2,HGNC:4501,free fatty acid receptor 2,8,HGNC:3774,0
+SFRP4_HUMAN,Q6FHJ7,SFRP4,Secreted frizzled-related protein 4,1,19,4,24,bin_5,Secreted frizzled-related protein 4,SFRP4,1,2878,1545,1235,SFRP4,HGNC:10778,secreted frizzled related protein 4,8,HGNC:10952,0
+TR11B_HUMAN,O00300,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,3,13,5,21,bin_5,Tumor necrosis factor receptor superfamily member 11B,TNFRSF11B,1,3150,1447,1202,TNFRSF11B,HGNC:11909,TNF receptor superfamily member 11b,8,HGNC:11911,0
+PLCG2_HUMAN,GAEYDNNKFK,PLCG2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2 ",7,54,8,69,bin_5,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",PLCG2,1,2911,1534,190,PLCG2,HGNC:9066,phospholipase C gamma 2,8,HGNC:9000,0
+RL23_HUMAN,P62829,RPL23,Large ribosomal subunit protein uL14 ,6,14,12,32,bin_5,Large ribosomal subunit protein uL14,RPL23,1,2867,1549,149,RPL23,HGNC:10316,ribosomal protein L23,8,HGNC:10419,0
+MEFV_HUMAN,O15553,MEFV,Pyrin ,4,19,11,34,bin_5,Pyrin,MEFV,1,3017,1500,25430,MEFV,HGNC:6998,"MEFV innate immunity regulator, pyrin",8,HGNC:6841,0
+FOXJ1_HUMAN,Q92949,FOXJ1,Forkhead box protein J1 ,6,33,2,41,bin_5,Forkhead box protein J1,FOXJ1,1,3217,1417,583,FOXJ1,HGNC:3816,forkhead box J1,8,HGNC:3774,0
+WWOX_HUMAN,Q9NRF6,WWOX,WW domain-containing oxidoreductase,4,10,7,21,bin_5,WW domain-containing oxidoreductase,WWOX,1,3123,1453,1440,WWOX,HGNC:12799,WW domain containing oxidoreductase,8,HGNC:12864,0
+PK3CB_HUMAN,P42338,PIK3CB,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",7,34,10,51,bin_5,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",PIK3CB,1,3008,1502,14823,PIK3CB,HGNC:8976,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",8,HGNC:9000,0
+CTBP1_HUMAN,Q13363,CTBP1,C-terminal-binding protein 1,11,10,6,27,bin_5,C-terminal-binding protein 1,CTBP1,1,2998,1504,3365,CTBP1,HGNC:2494,C-terminal binding protein 1,8,HGNC:1702,0
+FABPL_HUMAN,P07148,FABP1,"Fatty acid-binding protein, liver",8,8,7,23,bin_5,"Fatty acid-binding protein, liver",FABP1,1,3198,1429,178382,FABP1,HGNC:3555,fatty acid binding protein 1,8,HGNC:3565,0
+RNF8_HUMAN,O76064,RNF8,E3 ubiquitin-protein ligase RNF8 ,8,19,7,34,bin_5,E3 ubiquitin-protein ligase RNF8,RNF8,1,3274,1406,2070,RNF8,HGNC:10071,ring finger protein 8,8,HGNC:9953,0
+FRDA_HUMAN,Q16595,FXN,Extramitochondrial frataxin ,5,28,6,39,bin_5,frataxin,FXN,1,2534,1704,214,FXN,HGNC:3951,frataxin,9,HGNC:3728,0
+LIPC_HUMAN,P11150,LIPC,Hepatic triacylglycerol lipase,11,12,4,27,bin_5,Hepatic triacylglycerol lipase,LIPC,1,2528,1709,41508,LIPC,HGNC:6619,"lipase C, hepatic type",9,HGNC:6671,0
+EFNB1_HUMAN,P98172,EFNB1,Ephrin-B1 intracellular domain ,1,10,9,20,bin_5,Ephrin-B1 intracellular domain,EFNB1,1,2622,1658,2062,EFNB1,HGNC:3226,ephrin B1,9,HGNC:3354,0
+MBD1_HUMAN,CSTCLLQLPH,MBD1,Methyl-CpG-binding domain protein 1 ,6,11,6,23,bin_5,Methyl-CpG-binding domain protein 1,MBD1,1,2580,1680,22891,MBD1,HGNC:6916,methyl-CpG binding domain protein 1,9,HGNC:7041,0
+MP2K4_HUMAN,P45985,MAP2K4,Dual specificity mitogen-activated protein kinase kinase 4,7,17,5,29,bin_5,Dual specificity mitogen-activated protein kinase kinase 4,MAP2K4,1,2740,1600,668,MAP2K4,HGNC:6844,mitogen-activated protein kinase kinase 4,9,HGNC:6841,0
+PDPK1_HUMAN,O15530,PDPK1,3-phosphoinositide-dependent protein kinase 1,6,32,8,46,bin_5,3-phosphoinositide-dependent protein kinase 1,PDPK1,1,2527,1710,5569,PDPK1,HGNC:8816,3-phosphoinositide dependent protein kinase 1,9,HGNC:9435,0
+EPHB1_HUMAN,P54762,EPHB1,Ephrin type-B receptor 1,4,25,11,40,bin_5,Ephrin type-B receptor 1,EPHB1,1,2390,1778,1340,EPHB1,HGNC:3392,EPH receptor B1,9,HGNC:3352,0
+ITA3_HUMAN,P26006,ITGA3,Integrin alpha-3 light chain,8,30,19,57,bin_5,Integrin alpha-3 light chain,ITGA3,1,2752,1590,1759,ITGA3,HGNC:6139,integrin subunit alpha 3,9,HGNC:5426,0
+LYRIC_HUMAN,Q86UE4,MTDH,Protein LYRIC,6,9,11,26,bin_5,protein,MTDH,1,2440,1756,1595,MTDH,HGNC:29608,metadherin,9,HGNC:14271,0
+CAC1D_HUMAN,Q01668,CACNA1D,Voltage-dependent L-type calcium channel subunit alpha-1D,7,15,4,26,bin_5,Voltage-dependent L-type calcium channel subunit alpha-1D,CACNA1D,1,2433,1760,370,CACNA1D,HGNC:1391,calcium voltage-gated channel subunit alpha1 D,9,HGNC:1403,0
+RAGP1_HUMAN,P46060,RANGAP1,Ran GTPase-activating protein 1,5,8,17,30,bin_5,Ran GTPase-activating protein 1,RANGAP1,1,2561,1689,6164,RANGAP1,HGNC:9854,Ran GTPase activating protein 1,9,HGNC:9885,0
+ACTG_HUMAN,P63261,ACTG1,"Actin, cytoplasmic 2, N-terminally processed",8,17,23,48,bin_5,"Actin, cytoplasmic 2, N-terminally processed",ACTG1,1,2543,1699,3402,ACTG1,HGNC:144,actin gamma 1,9,HGNC:15,0
+ANK3_HUMAN,Q12955,ANK3,Ankyrin-3 ,7,25,22,54,bin_5,Ankyrin-3,ANK3,1,2457,1746,606,ANK3,HGNC:494,ankyrin 3,9,HGNC:611,0
+TNNI3_HUMAN,P19429,TNNI3,"Troponin I, cardiac muscle",8,13,3,24,bin_5,"Troponin I, cardiac muscle",TNNI3,1,2740,1601,23156,TNNI3,HGNC:11947,"troponin I3, cardiac type",9,HGNC:11918,0
+AGO4_HUMAN,Q9HCK5,AGO4,Protein argonaute-4 ,4,13,8,25,bin_5,protein,AGO4,1,2545,1696,531,AGO4,HGNC:18424,argonaute RISC component 4,9,HGNC:17088,0
+DVPDVNIEGP,Q09666,AHNAK,Neuroblast differentiation-associated protein AHNAK,5,3,15,23,bin_5,Neuroblast differentiation-associated protein AHNAK,AHNAK,1,2478,1735,347,AHNAK,HGNC:347,AHNAK nucleoprotein,9,HGNC:169,0
+EHD1_HUMAN,Q9H4M9,EHD1,EH domain-containing protein 1 ,6,15,13,34,bin_5,EH domain-containing protein 1,EHD1,1,2396,1776,2821,EHD1,HGNC:3242,EH domain containing 1,9,HGNC:3343,0
+DILIRYEPQL,P07942,LAMB1,Laminin subunit beta-1,2,12,12,26,bin_5,Laminin subunit beta-1,LAMB1,1,2399,1772,6180,LAMB1,HGNC:6486,laminin subunit beta 1,9,HGNC:6501,0
+EFNA1_HUMAN,P20827,EFNA1,"Ephrin-A1, secreted form",2,28,3,33,bin_5,EPHA1,EFNA1,1,2693,1620,1522,EFNA1,HGNC:3221,ephrin A1,9,HGNC:3354,0
+LHX1_HUMAN,P48742,LHX1,LIM/homeobox protein Lhx1,6,68,4,78,bin_5,LIM/homeobox protein Lhx1,LHX1,1,2460,1743,21,LHX1,HGNC:6593,LIM homeobox 1,9,HGNC:6671,0
+THA_HUMAN,P10827,THRA,Thyroid hormone receptor alpha,11,28,4,43,bin_5,Thyroid hormone receptor alpha,THRA,1,2642,1645,61517,THRA,HGNC:11796,thyroid hormone receptor alpha,9,HGNC:11815,0
+DDX4_HUMAN,Q9NQI0,DDX4,Probable ATP-dependent RNA helicase DDX4,5,10,6,21,bin_5,Probable ATP-dependent RNA helicase DDX4,DDX4,1,2486,1732,41,DDX4,HGNC:18700,DEAD-box helicase 4,9,HGNC:2294,0
+TRIM5_HUMAN,Q9C034,TRIM5,Tripartite motif-containing protein 5,9,16,4,29,bin_5,Tripartite motif-containing protein 5,TRIM5,1,2455,1747,6997,TRIM5,HGNC:16276,tripartite motif containing 5,9,HGNC:17764,0
+AOFB_HUMAN,P27338,MAOB,Amine oxidase [flavin-containing] B ,6,13,5,24,bin_5,Amine oxidase [flavin-containing] B,MAOB,1,2544,1698,7365,MAOB,HGNC:6834,monoamine oxidase B,9,HGNC:7120,0
+C11B2_HUMAN,P19099,CYP11B2,"Cytochrome P450 11B2, mitochondrial",5,15,2,22,bin_5,"Cytochrome P450 11B2, mitochondrial",CYP11B2,1,2699,1615,258,CYP11B2,HGNC:2592,cytochrome P450 family 11 subfamily B member 2,9,HGNC:2574,0
+FGF18_HUMAN,O76093,FGF18,Fibroblast growth factor 18,3,26,4,33,bin_5,Fibroblast growth factor 18,FGF18,1,2632,1651,1006,FGF18,HGNC:3674,fibroblast growth factor 18,9,HGNC:3565,0
+WFS1_HUMAN,O76024,WFS1,Wolframin,6,30,6,42,bin_5,Wolframin,WFS1,1,2543,1700,718,WFS1,HGNC:12762,wolframin ER transmembrane glycoprotein,9,HGNC:12864,0
+RHG07_HUMAN,HDRAPVVGVR,DLC1,Rho GTPase-activating protein 7,3,20,10,33,bin_5,Rho GTPase-activating protein 7,ARHGAP7,0,2538,1702,3969,DLC1,HGNC:2897,DLC1 Rho GTPase activating protein,9,HGNC:2864,0
+EHMT2_HUMAN,Q96QD0,EHMT2,Histone-lysine N-methyltransferase EHMT2,12,21,4,37,bin_5,Histone-lysine N-methyltransferase EHMT2,EHMT2,1,2671,1627,897,EHMT2,HGNC:14129,euchromatic histone lysine methyltransferase 2,9,HGNC:17071,0
+DRB3_HUMAN,Q9UIN5,HLA-DRB3,"HLA class II histocompatibility antigen, DR beta 3 chain",3,10,13,26,bin_5,"HLA class II histocompatibility antigen, DR beta 3 chain",HLA-DRB3,1,2731,1604,12946,HLA-DRB3,HGNC:4951,"major histocompatibility complex, class II, DR beta 3",9,HGNC:6182,0
+BMP5_HUMAN,P22003,BMP5,Bone morphogenetic protein 5,3,32,2,37,bin_5,Bone morphogenetic protein 5,BMP5,1,2141,1902,423,BMP5,HGNC:1072,bone morphogenetic protein 5,10,HGNC:1073,0
+EFNB2_HUMAN,P52799,EFNB2,Ephrin-B2,2,22,7,31,bin_5,Ephrin-B2,EFNB2,1,2137,1907,6396,EFNB2,HGNC:3227,ephrin B2,10,HGNC:3354,0
+ACTN1_HUMAN,P12814,ACTN1,Alpha-actinin-1,9,9,19,37,bin_5,Alpha-actinin-1,ACTN1,1,2243,1856,1850,ACTN1,HGNC:163,actinin alpha 1,10,HGNC:133,0
+COF1_HUMAN,P23528,CFL1,Cofilin-1,1,14,14,29,bin_5,Cofilin-1,CFL1,1,2192,1878,3415,CFL1,HGNC:1874,cofilin 1,10,HGNC:2201,0
+ITA1_HUMAN,P56199,ITGA1,Integrin alpha-1,5,13,11,29,bin_5,Integrin alpha-1,ITGA1,1,2355,1798,15772,ITGA1,HGNC:6134,integrin subunit alpha 1,10,HGNC:5426,0
+WNT16_HUMAN,Q9UBV4,WNT16,Protein Wnt-16,2,15,3,20,bin_5,Protein Wnt-16,WNT16,1,2137,1908,269,WNT16,HGNC:16267,Wnt family member 16,10,HGNC:12664,0
+FLCN_HUMAN,Q8NFG4,FLCN,Folliculin ,4,36,10,50,bin_5,Folliculin,FLCN,1,2023,1976,1805,FLCN,HGNC:27310,folliculin,10,HGNC:3560,0
+TRBM_HUMAN,P07204,THBD,Thrombomodulin,3,11,7,21,bin_5,Thrombomodulin,THBD,1,2370,1788,13930,THBD,HGNC:11784,thrombomodulin,10,HGNC:11664,0
+LPIN1_HUMAN,F5GY24,LPIN1,Phosphatidate phosphatase LPIN1 ,2,13,9,24,bin_5,Phosphatidate phosphatase LPIN1,LPIN1,1,2061,1954,454,LPIN1,HGNC:13345,lipin 1,10,HGNC:6671,0
+CASP6_HUMAN,P55212,CASP6,Caspase-6 subunit p11 ,5,13,4,22,bin_5,Caspase-6 subunit p11,CASP6,1,2054,1958,35,CASP6,HGNC:1507,caspase 6,10,HGNC:1715,0
+PKP2_HUMAN,Q99959,PKP2,Plakophilin-2 ,8,19,13,40,bin_5,Plakophilin-2,PKP2,1,2178,1887,2214,PKP2,HGNC:9024,plakophilin 2,10,HGNC:9010,0
+NCOA2_HUMAN,Q15596,NCOA2,Nuclear receptor coactivator 2,9,16,6,31,bin_5,Nuclear receptor coactivator 2,NCOA2,1,2149,1897,626,NCOA2,HGNC:7669,nuclear receptor coactivator 2,10,HGNC:8003,0
+DVL1_HUMAN,O14640,DVL1,Segment polarity protein dishevelled homolog DVL-1,6,40,16,62,bin_5,Segment polarity protein dishevelled homolog DVL-1,DVL1,1,2078,1944,67,DVL1,HGNC:3084,dishevelled segment polarity protein 1,10,HGNC:2864,0
+SORT_HUMAN,Q99523,SORT1,Sortilin ,5,20,18,43,bin_5,Sortilin,SORT1,1,2352,1799,5704,SORT1,HGNC:11186,sortilin 1,10,HGNC:10978,0
+PRDX3_HUMAN,P30048,PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",5,16,9,30,bin_5,"Thioredoxin-dependent peroxide reductase, mitochondrial",PRDX3,1,2155,1894,19609,PRDX3,HGNC:9354,peroxiredoxin 3,10,HGNC:9281,0
+TRI32_HUMAN,Q13049,TRIM32,E3 ubiquitin-protein ligase TRIM32 ,11,40,8,59,bin_5,E3 ubiquitin-protein ligase TRIM32,TRIM32,1,2102,1933,1232,TRIM32,HGNC:16380,tripartite motif containing 32,10,HGNC:17255,0
+AAKG2_HUMAN,Q9UGJ0,PRKAG2,5'-AMP-activated protein kinase subunit gamma-2,10,13,6,29,bin_5,5'-AMP-activated protein kinase subunit gamma-2,PRKAG2,1,2024,1974,595,PRKAG2,HGNC:9386,protein kinase AMP-activated non-catalytic subunit gamma 2,10,HGNC:9241,0
+SPRE1_HUMAN,Q7Z699,SPRED1,"Sprouty-related, EVH1 domain-containing protein 1",4,13,4,21,bin_5,"Sprouty-related, EVH1 domain-containing protein 1",SPRED1,1,2034,1970,495,SPRED1,HGNC:20249,sprouty related EVH1 domain containing 1,10,HGNC:17264,0
+IF4G1_HUMAN,Q6ZN21,EIF4G1,Eukaryotic translation initiation factor 4 gamma 1,8,26,7,41,bin_5,Eukaryotic translation initiation factor 4 gamma 1,EIF4G1,1,2313,1818,2743,EIF4G1,HGNC:3296,eukaryotic translation initiation factor 4 gamma 1,10,HGNC:3354,0
+EST1_HUMAN,Q9ULY2,CES1,Liver carboxylesterase 1 ,4,16,5,25,bin_5,Liver carboxylesterase 1,CES1,1,2084,1941,4756,CES1,HGNC:1863,carboxylesterase 1,10,HGNC:1671,0
+PCM1_HUMAN,Q9H4A2,PCM1,Pericentriolar material 1 protein ,2,16,13,31,bin_5,Pericentriolar material 1 protein,PCM1,1,2259,1843,34951,PCM1,HGNC:8727,pericentriolar material 1,10,HGNC:8861,0
+NKG2D_HUMAN,P26718,KLRK1,NKG2-D type II integral membrane protein,5,15,4,24,bin_5,NKG2-D type II integral membrane protein,KLRK1,1,2104,1930,66,KLRK1,HGNC:18788,killer cell lectin like receptor K1,10,HGNC:6344,0
+MESP1_HUMAN,Q9BRJ9,MESP1,Mesoderm posterior protein 1,6,35,2,43,bin_5,Mesoderm posterior protein 1,MESP1,1,2078,1945,17009,MESP1,HGNC:29658,mesoderm posterior bHLH transcription factor 1,10,HGNC:7044,0
+RGN_HUMAN,Q15493,RGN,Regucalcin,4,20,2,26,bin_5,Regucalcin,RGN,1,2151,1896,758,RGN,HGNC:9989,regucalcin,10,HGNC:9883,0
+SMC5_HUMAN,Q8IY18,SMC5,Structural maintenance of chromosomes protein 5,4,16,12,32,bin_5,Structural maintenance of chromosomes protein 5,SMC5,1,2321,1813,52232,SMC5,HGNC:20465,structural maintenance of chromosomes 5,10,HGNC:11103,0
+SIAH1_HUMAN,Q8IUQ4,SIAH1,E3 ubiquitin-protein ligase SIAH1,5,14,4,23,bin_5,E3 ubiquitin-protein ligase SIAH1,SIAH1,1,2254,1849,1149,SIAH1,HGNC:10857,siah E3 ubiquitin protein ligase 1,10,HGNC:10695,0
+EHMT1_HUMAN,Q9H9B1,EHMT1,Histone-lysine N-methyltransferase EHMT1,9,9,4,22,bin_5,Histone-lysine N-methyltransferase EHMT1,EHMT1,1,2149,1898,544,EHMT1,HGNC:24650,euchromatic histone lysine methyltransferase 1,10,HGNC:14264,0
+PLEC_HUMAN,Q6S382,PLEC,Plectin,7,33,17,57,bin_5,Plectin,PLEC,1,2146,1900,3647,PLEC,HGNC:9069,plectin,10,HGNC:8973,0
+FCERG_HUMAN,P30273,FCER1G,High affinity immunoglobulin epsilon receptor subunit gamma,5,17,7,29,bin_5,High affinity immunoglobulin epsilon receptor subunit gamma,FCER1G,1,2291,1825,295,FCER1G,HGNC:3611,Fc epsilon receptor Ig,10,HGNC:3565,0
+APOA2_HUMAN,P02652,APOA2,Truncated apolipoprotein A-II,16,37,10,63,bin_5,Truncated apolipoprotein A-II,APOA2,1,2341,1802,372,APOA2,HGNC:601,apolipoprotein A2,10,HGNC:613,0
+VGLU1_HUMAN,Q9P2U7,SLC17A7,Vesicular glutamate transporter 1 ,7,14,8,29,bin_5,Vesicular glutamate transporter 1,SLC17A7,1,1822,2100,2932,SLC17A7,HGNC:16704,solute carrier family 17 member 7,11,HGNC:10978,0
+PRDM9_HUMAN,Q9NQV7,PRDM9,Histone-lysine N-methyltransferase PRDM9 ,11,11,3,25,bin_5,Histone-lysine N-methyltransferase PRDM9,PRDM9,1,1808,2105,252,PRDM9,HGNC:13994,PR/SET domain 9,11,HGNC:9241,0
+NHRF1_HUMAN,O14745,NHERF1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1 ,17,42,17,76,bin_5,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,SLC9A3R1,0,1891,2054,88,NHERF1,HGNC:11075,NHERF family PDZ scaffold protein 1,11,HGNC:7941,0
+NSD2_HUMAN,Q6IS00,NSD2,Histone-lysine N-methyltransferase NSD2,8,11,5,24,bin_5,Histone-lysine N-methyltransferase NSD2,WHSC1,0,1862,2076,451,NSD2,HGNC:12766,nuclear receptor binding SET domain protein 2,11,HGNC:8002,0
+GIPR_HUMAN,P48546,GIPR,Gastric inhibitory polypeptide receptor,5,17,2,24,bin_5,Gastric inhibitory polypeptide receptor,GIPR,1,1989,1996,636,GIPR,HGNC:4271,gastric inhibitory polypeptide receptor,11,HGNC:4096,0
+CCN3_HUMAN,P48745,CCN3,CCN family member 3 ,4,28,8,40,bin_5,CCN family member 3,NOV,0,1807,2106,5085,CCN3,HGNC:7885,cellular communication network factor 3,11,HGNC:1773,0
+SEM3C_HUMAN,Q99985,SEMA3C,Semaphorin-3C,2,18,3,23,bin_5,Semaphorin-3C,SEMA3C,1,1702,2174,864,SEMA3C,HGNC:10725,semaphorin 3C,11,HGNC:10764,0
+EPHB3_HUMAN,P54753,EPHB3,Ephrin type-B receptor 3,4,20,4,28,bin_5,Ephrin type-B receptor 3,EPHB3,1,2003,1986,1326,EPHB3,HGNC:3394,EPH receptor B3,11,HGNC:3564,0
+MAGI2_HUMAN,Q86UL8,MAGI2,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",5,16,17,38,bin_5,MAGI2,MAGI2,1,1742,2152,464,MAGI2,HGNC:18957,"membrane associated guanylate kinase, WW and PDZ domain containing 2",11,HGNC:6843,0
+HXA3_HUMAN,O43365,HOXA3,Homeobox protein Hox-A3,3,15,3,21,bin_5,Homeobox protein Hox-A3,HOXA3,1,1737,2156,19,HOXA3,HGNC:5104,homeobox A3,11,HGNC:4931,0
+CSHPGCGKTY,Q13118,KLF10,Krueppel-like factor 10,7,12,2,21,bin_5,Krueppel-like factor 10,KLF10,1,1843,2085,64,KLF10,HGNC:11810,KLF transcription factor 10,11,HGNC:6291,0
+CUL4B_HUMAN,Q9UED7,CUL4B,Cullin-4B ,1,15,6,22,bin_5,Cullin-4B,CUL4B,1,1831,2095,535,CUL4B,HGNC:2555,cullin 4B,11,HGNC:2344,0
+GRHL2_HUMAN,Q6ISB3,GRHL2,Grainyhead-like protein 2 homolog,10,22,5,37,bin_5,Grainyhead-like protein 2 homolog,GRHL2,1,1757,2142,437,GRHL2,HGNC:2799,grainyhead like transcription factor 2,11,HGNC:4291,0
+ENPP2_HUMAN,Q9UCR2,ENPP2,Autotaxin ,9,10,2,21,bin_5,Autotaxin,ENPP2,1,1986,1997,4101,ENPP2,HGNC:3357,ectonucleotide pyrophosphatase/phosphodiesterase 2,11,HGNC:3355,0
+ITB8_HUMAN,P26012,ITGB8,Integrin beta-8 ,3,16,6,25,bin_5,Integrin beta-8,ITGB8,1,1833,2092,805,ITGB8,HGNC:6163,integrin subunit beta 8,11,HGNC:5234,0
+KCNN4_HUMAN,O15554,KCNN4,Intermediate conductance calcium-activated potassium channel protein 4,6,13,6,25,bin_5,Intermediate conductance calcium-activated potassium channel protein 4,KCNN4,1,1778,2131,9172,KCNN4,HGNC:6293,potassium calcium-activated channel subfamily N member 4,11,HGNC:9241,0
+GBP5_HUMAN,Q96PP8,GBP5,Guanylate-binding protein 5,6,17,9,32,bin_5,Guanylate-binding protein 5,GBP5,1,1705,2172,4150,GBP5,HGNC:19895,guanylate binding protein 5,11,HGNC:4461,0
+NUP62_HUMAN,P37198,NUP62,Nuclear pore glycoprotein p62,9,25,11,45,bin_5,Nuclear pore glycoprotein p62,NUP62,1,1709,2168,1410,NUP62,HGNC:8066,nucleoporin 62,11,HGNC:8002,0
+SCP2_HUMAN,Q16622,SCP2,Sterol carrier protein 2,12,15,9,36,bin_5,Sterol carrier protein 2,SCP2,1,1951,2016,1108,SCP2,HGNC:10606,sterol carrier protein 2,11,HGNC:11164,0
+RIGI_HUMAN,O95786,RIGI,Antiviral innate immune response receptor RIG-I ,11,23,6,40,bin_5,RIG-I,DDX58,0,1761,2139,19276,RIGI,HGNC:19102,RNA sensor RIG-I,11,HGNC:10419,0
+SMC2_HUMAN,O95347,SMC2,Structural maintenance of chromosomes protein 2,4,8,11,23,bin_5,Structural maintenance of chromosomes protein 2,SMC2,1,1913,2041,53374,SMC2,HGNC:14011,structural maintenance of chromosomes 2,11,HGNC:11104,0
+ILF3_HUMAN,Q9NRN2,ILF3,Interleukin enhancer-binding factor 3,6,6,9,21,bin_5,Interleukin enhancer-binding factor 3,ILF3,1,1780,2128,674,ILF3,HGNC:6038,interleukin enhancer binding factor 3,11,HGNC:17092,0
+FOLR1_HUMAN,P15328,FOLR1,Folate receptor alpha,3,15,16,34,bin_5,Folate receptor alpha,FOLR1,1,1757,2143,31404,FOLR1,HGNC:3791,folate receptor alpha,11,HGNC:3696,0
+VVAGKKYFID,P01042,KNG1,Low molecular weight growth-promoting factor,5,8,8,21,bin_5,no appropriate match,XXXX,0,1833,2094,15790,KNG1,HGNC:6383,kininogen 1,11,HGNC:6244,0
+GBF1_HUMAN,Q92538,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1,3,22,9,34,bin_5,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1,GBF1,1,1961,2011,130,GBF1,HGNC:4181,golgi brefeldin A resistant guanine nucleotide exchange factor 1,11,HGNC:17053,0
+ADA2A_HUMAN,P08913,ADRA2A,Alpha-2A adrenergic receptor ,10,42,11,63,bin_5,Alpha-2A adrenergic receptor,ADRA2A,1,1900,2047,21571,ADRA2A,HGNC:281,adrenoceptor alpha 2A,11,HGNC:213,0
+NPAS4_HUMAN,Q8IUM7,NPAS4,Neuronal PAS domain-containing protein 4 ,6,13,5,24,bin_5,Neuronal PAS domain-containing protein 4,NPAS4,1,1830,2096,1760,NPAS4,HGNC:18983,neuronal PAS domain protein 4,11,HGNC:7800,0
+TRIB1_HUMAN,Q96RU8,TRIB1,Tribbles homolog 1,5,12,3,20,bin_5,Tribbles homolog 1,TRIB1,1,1825,2098,2051,TRIB1,HGNC:16891,tribbles pseudokinase 1,11,HGNC:15664,0
+DNLI1_HUMAN,P18858,LIG1,DNA ligase 1,5,11,4,20,bin_5,DNA ligase 1,LIG1,1,1944,2023,236794,LIG1,HGNC:6598,DNA ligase 1,11,HGNC:3353,0
+KPCG_HUMAN,P05129,PRKCG,Protein kinase C gamma type,8,23,11,42,bin_5,protein,PRKCG,1,1984,2000,1148,PRKCG,HGNC:9402,protein kinase C gamma,11,HGNC:9240,0
+PP2AA_HUMAN,P67775,PPP2CA,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,8,21,14,43,bin_5,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,PPP2CA,1,1559,2298,1972,PPP2CA,HGNC:9299,protein phosphatase 2 catalytic subunit alpha,12,HGNC:9240,0
+SLAF1_HUMAN,Q13291,SLAMF1,Signaling lymphocytic activation molecule,7,22,4,33,bin_5,Signaling lymphocytic activation molecule,SLAMF1,1,1551,2303,196218,SLAMF1,HGNC:10903,signaling lymphocytic activation molecule family member 1,12,HGNC:11311,0
+PDGFC_HUMAN,Q9NRA1,PDGFC,"Platelet-derived growth factor C, receptor-binding form",3,16,9,28,bin_5,"Platelet-derived growth factor C, receptor-binding form",PDGFC,1,1612,2252,63,PDGFC,HGNC:8801,platelet derived growth factor C,12,HGNC:8661,0
+PLSL_HUMAN,P13796,LCP1,Plastin-2,5,16,12,33,bin_5,Plastin-2,LCP1,1,1589,2274,372,LCP1,HGNC:6528,lymphocyte cytosolic protein 1,12,HGNC:6701,0
+EAA3_HUMAN,P43005,SLC1A1,Excitatory amino acid transporter 3 ,11,59,27,97,bin_5,Excitatory amino acid transporter 3,SLC1A1,1,1674,2194,637,SLC1A1,HGNC:10939,solute carrier family 1 member 1,12,HGNC:10995,0
+ACKR3_HUMAN,P25106,ACKR3,Atypical chemokine receptor 3 ,6,14,8,28,bin_5,Atypical chemokine receptor 3,ACKR3,1,1551,2304,19977,ACKR3,HGNC:23692,atypical chemokine receptor 3,12,HGNC:170,0
+UBP13_HUMAN,Q92995,USP13,Ubiquitin carboxyl-terminal hydrolase 13,10,12,3,25,bin_5,Ubiquitin carboxyl-terminal hydrolase 13,USP13,1,1485,2372,4453,USP13,HGNC:12611,ubiquitin specific peptidase 13,12,HGNC:12464,0
+MICU1_HUMAN,Q9H9N6,MICU1,"Calcium uptake protein 1, mitochondrial ",5,9,7,21,bin_5,"Calcium uptake protein 1, mitochondrial",MICU1,1,1685,2184,90492,MICU1,HGNC:1530,mitochondrial calcium uptake 1,12,HGNC:7101,0
+FEZF2_HUMAN,Q8TBJ5,FEZF2,Fez family zinc finger protein 2,5,15,1,21,bin_5,Fez family zinc finger protein 2,FEZF2,1,1505,2350,465,FEZF2,HGNC:13506,FEZ family zinc finger 2,12,HGNC:3563,0
+STX17_HUMAN,P56962,STX17,Syntaxin-17 ,4,10,14,28,bin_5,Syntaxin-17,STX17,1,1502,2354,3280,STX17,HGNC:11432,syntaxin 17,12,HGNC:11100,0
+ERCC5_HUMAN,P28715,ERCC5,DNA excision repair protein ERCC-5 ,11,7,5,23,bin_5,DNA excision repair protein ERCC-5,ERCC5,1,1582,2283,128,ERCC5,HGNC:3437,"ERCC excision repair 5, endonuclease",12,HGNC:3353,0
+S22A5_HUMAN,O76082,SLC22A5,Organic cation/carnitine transporter 2 ,8,13,8,29,bin_5,Organic cation/carnitine transporter 2,SLC22A5,1,1565,2293,888,SLC22A5,HGNC:10969,solute carrier family 22 member 5,12,HGNC:10978,0
+MARK4_HUMAN,Q96L34,MARK4,MAP/microtubule affinity-regulating kinase 4 ,9,14,9,32,bin_5,MAP/microtubule affinity-regulating kinase 4,MARK4,1,1513,2340,367,MARK4,HGNC:13538,microtubule affinity regulating kinase 4,12,HGNC:7044,0
+PR15A_HUMAN,O75807,PPP1R15A,Protein phosphatase 1 regulatory subunit 15A,4,14,9,27,bin_5,protein,PPP1R15A,1,1672,2195,460,PPP1R15A,HGNC:14375,protein phosphatase 1 regulatory subunit 15A,12,HGNC:9243,0
+PO3F2_HUMAN,P20265,POU3F2,"POU domain, class 3, transcription factor 2",7,21,3,31,bin_5,"POU domain, class 3, transcription factor 2",POU3F2,1,1570,2290,5456,POU3F2,HGNC:9215,POU class 3 homeobox 2,12,HGNC:8861,0
+PUM1_HUMAN,Q14671,PUM1,Pumilio homolog 1 ,3,15,6,24,bin_5,Pumilio homolog 1,PUM1,1,1522,2329,1938,PUM1,HGNC:14957,pumilio RNA binding family member 1,12,HGNC:8012,0
+GBB3_HUMAN,P16520,GNB3,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3,4,10,7,21,bin_5,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3,GNB3,1,1487,2370,1306,GNB3,HGNC:4400,G protein subunit beta 3,12,HGNC:4461,0
+S38A2_HUMAN,Q96QD8,SLC38A2,Sodium-coupled neutral amino acid symporter 2 ,8,24,7,39,bin_5,Sodium-coupled neutral amino acid symporter 2,SLC38A2,1,1491,2366,485,SLC38A2,HGNC:13448,solute carrier family 38 member 2,12,HGNC:10978,0
+PLLIVFSDDQ,O95393,BMP10,Bone morphogenetic protein 10,5,25,5,35,bin_5,Bone morphogenetic protein 10,BMP10,1,1654,2214,72985,BMP10,HGNC:20869,bone morphogenetic protein 10,12,HGNC:1074,0
+ACACB_HUMAN,O00763,ACACB,Acetyl-CoA carboxylase 2 ,5,21,5,31,bin_5,Acetyl-CoA carboxylase 2,ACACB,1,1516,2337,33582,ACACB,HGNC:85,acetyl-CoA carboxylase beta,12,HGNC:358,0
+AMOT_HUMAN,Q4VCS5,AMOT,Angiomotin,2,21,15,38,bin_5,Angiomotin,AMOT,1,1624,2239,2192,AMOT,HGNC:17810,angiomotin,12,HGNC:813,0
+PHF8_HUMAN,Q7Z6D4,PHF8,Histone lysine demethylase PHF8,13,7,4,24,bin_5,Histone lysine demethylase PHF8,PHF8,1,1526,2326,902,PHF8,HGNC:20672,PHD finger protein 8,12,HGNC:9010,0
+FOXF2_HUMAN,Q12947,FOXF2,Forkhead box protein F2,9,14,6,29,bin_5,Forkhead box protein F2,FOXF2,1,1513,2341,2351,FOXF2,HGNC:3810,forkhead box F2,12,HGNC:3774,0
+PLCB1_HUMAN,Q9H4H2,PLCB1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1 ",9,43,10,62,bin_5,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1",PLCB1,1,1565,2292,289,PLCB1,HGNC:15917,phospholipase C beta 1,12,HGNC:9000,0
+PDGFD_HUMAN,Q9GZP0,PDGFD,"Platelet-derived growth factor D, receptor-binding form",2,17,4,23,bin_5,"Platelet-derived growth factor D, receptor-binding form",PDGFD,1,1662,2209,7349,PDGFD,HGNC:30620,platelet derived growth factor D,12,HGNC:8661,0
+KIF4A_HUMAN,O95239,KIF4A,Chromosome-associated kinesin KIF4A,6,6,10,22,bin_5,Chromosome-associated kinesin KIF4A,KIF4A,1,1619,2245,59,KIF4A,HGNC:13339,kinesin family member 4A,12,HGNC:6241,0
+CAC1S_HUMAN,Q13698,CACNA1S,Voltage-dependent L-type calcium channel subunit alpha-1S,6,15,7,28,bin_5,Voltage-dependent L-type calcium channel subunit alpha-1S,CACNA1S,1,1565,2294,143,CACNA1S,HGNC:1397,calcium voltage-gated channel subunit alpha1 S,12,HGNC:1374,0
+TPM4_HUMAN,Q9UCS4,TPM4,Tropomyosin alpha-4 chain,6,4,10,20,bin_5,Tropomyosin alpha-4 chain,TPM4,1,1563,2296,595,TPM4,HGNC:12013,tropomyosin 4,12,HGNC:11664,0
+ACV1B_HUMAN,P36896,ACVR1B,Activin receptor type-1B,11,19,5,35,bin_5,Activin receptor type-1B,ACVR1B,1,1647,2221,424,ACVR1B,HGNC:172,activin A receptor type 1B,12,HGNC:213,0
+ARI5B_HUMAN,Q14865,ARID5B,AT-rich interactive domain-containing protein 5B,3,22,2,27,bin_5,AT-rich interactive domain-containing protein 5B,ARID5B,1,1671,2198,200,ARID5B,HGNC:17362,AT-rich interaction domain 5B,12,HGNC:16988,0
+PPM1A_HUMAN,P35813,PPM1A,Protein phosphatase 1A,6,16,5,27,bin_5,protein phosphatase 1A,PPM1A,1,1338,2496,59584,PPM1A,HGNC:9275,"protein phosphatase, Mg2+/Mn2+ dependent 1A",13,HGNC:9241,0
+PDE4A_HUMAN,Q9H3H2,PDE4A,"3',5'-cyclic-AMP phosphodiesterase 4A ",4,8,8,20,bin_5,"3',5'-cyclic-AMP phosphodiesterase 4A",PDE4A,1,1328,2501,627,PDE4A,HGNC:8780,phosphodiesterase 4A,13,HGNC:9002,0
+CPSF6_HUMAN,Q16630,CPSF6,Cleavage and polyadenylation specificity factor subunit 6 ,4,7,11,22,bin_5,Cleavage and polyadenylation specificity factor subunit 6,CPSF6,1,1389,2450,7170,CPSF6,HGNC:13871,cleavage and polyadenylation specific factor 6,13,HGNC:2083,0
+ITA8_HUMAN,P53708,ITGA8,Integrin alpha-8 light chain,2,19,12,33,bin_5,Integrin alpha-8 light chain,ITGA8,1,1360,2472,186,ITGA8,HGNC:6144,integrin subunit alpha 8,13,HGNC:5460,0
+INHBB_HUMAN,P09529,INHBB,Inhibin beta B chain,5,28,4,37,bin_5,Inhibin beta B chain,INHBB,1,1458,2392,0,INHBB,HGNC:6067,inhibin subunit beta B,13,HGNC:5424,0
+MCLN1_HUMAN,Q9GZU1,MCOLN1,Mucolipin-1 ,11,13,14,38,bin_5,Mucolipin-1,MCOLN1,1,1325,2502,1150,MCOLN1,HGNC:13356,mucolipin TRP cation channel 1,13,HGNC:7103,0
+CARD8_HUMAN,Q96P82,CARD8,"Caspase recruitment domain-containing protein 8, N-terminus ",8,15,7,30,bin_5,"Caspase recruitment domain-containing protein 8, N-terminus",CARD8,1,1260,2570,2747,CARD8,HGNC:17057,caspase recruitment domain family member 8,13,HGNC:1715,0
+AMBP_HUMAN,P02760,AMBP,Trypstatin ,8,5,11,24,bin_5,Trypstatin,no appropriate match,0,1476,2382,27,AMBP,HGNC:453,alpha-1-microglobulin/bikunin precursor,13,HGNC:311,0
+B4GT1_HUMAN,P15291,B4GALT1,"Processed beta-1,4-galactosyltransferase 1 ",10,20,16,46,bin_5,"Processed beta-1,4-galactosyltransferase 1",B4GALT1,1,1280,2548,1074,B4GALT1,HGNC:924,"beta-1,4-galactosyltransferase 1",13,HGNC:1044,0
+GOLP3_HUMAN,Q9H4A6,GOLPH3,Golgi phosphoprotein 3,3,20,11,34,bin_5,Golgi phosphoprotein 3,GOLPH3,1,1276,2552,10649,GOLPH3,HGNC:15452,golgi phosphoprotein 3,13,HGNC:4291,0
+PRGC2_HUMAN,Q8TDE5,PPARGC1B,Peroxisome proliferator-activated receptor gamma coactivator 1-beta,5,13,5,23,bin_5,Peroxisome proliferator-activated receptor gamma coactivator 1-beta,PPARGC1B,1,1354,2481,1473,PPARGC1B,HGNC:30022,PPARG coactivator 1 beta,13,HGNC:9002,0
+SSR3_HUMAN,P32745,SSTR3,Somatostatin receptor type 3,4,11,5,20,bin_5,Somatostatin receptor type 3,SSTR3,1,1342,2491,37867,SSTR3,HGNC:11332,somatostatin receptor 3,13,HGNC:10971,0
+TBB2B_HUMAN,Q9BVA1,TUBB2B,Tubulin beta-2B chain,5,8,7,20,bin_5,Tubulin beta-2B chain,TUBB2B,1,1291,2538,253,TUBB2B,HGNC:30829,tubulin beta 2B class IIb,13,HGNC:11964,0
+ERR1_HUMAN,P11474,ESRRA,Steroid hormone receptor ERR1,10,4,7,21,bin_5,Steroid hormone receptor ERR1,ESRRA,1,1458,2393,95,ESRRA,HGNC:3471,estrogen related receptor alpha,13,HGNC:3434,0
+DTBP1_HUMAN,Q96EV8,DTNBP1,Dysbindin,0,23,24,47,bin_5,Dysbindin,DTNBP1,1,1346,2488,1820,DTNBP1,HGNC:17328,dystrobrevin binding protein 1,13,HGNC:2862,0
+AELLLGQPIF,P49840,GSK3A,Glycogen synthase kinase-3 alpha,7,49,10,66,bin_5,Glycogen synthase kinase-3 alpha,GSK3A,1,1300,2527,686,GSK3A,HGNC:4616,glycogen synthase kinase 3 alpha,13,HGNC:4299,0
+GNA13_HUMAN,Q14344,GNA13,Guanine nucleotide-binding protein subunit alpha-13,7,16,10,33,bin_5,Guanine nucleotide-binding protein subunit alpha-13,GNA13,1,1261,2568,338,GNA13,HGNC:4381,G protein subunit alpha 13,13,HGNC:4294,0
+RAB13_HUMAN,P51153,RAB13,Ras-related protein Rab-13,2,15,17,34,bin_5,Ras-related protein Rab-13,RAB13,1,1265,2564,41,RAB13,HGNC:9762,"RAB13, member RAS oncogene family",13,HGNC:9771,0
+CTR1_HUMAN,P30825,SLC7A1,High affinity cationic amino acid transporter 1,7,11,6,24,bin_5,High affinity cationic amino acid transporter 1,SLC7A1,1,1437,2412,353,SLC7A1,HGNC:11057,solute carrier family 7 member 1,13,HGNC:10978,0
+CHM4B_HUMAN,Q9H444,CHMP4B,Charged multivesicular body protein 4b,3,31,20,54,bin_5,Charged multivesicular body protein 4b,CHMP4B,1,1293,2535,475,CHMP4B,HGNC:16171,charged multivesicular body protein 4B,13,HGNC:24685,0
+ARPC2_HUMAN,O15144,ARPC2,Actin-related protein 2/3 complex subunit 2,2,6,13,21,bin_5,Actin-related protein 2/3 complex subunit 2,ARPC2,1,1407,2437,2537,ARPC2,HGNC:705,actin related protein 2/3 complex subunit 2,13,HGNC:133,0
+PRP8_HUMAN,Q6P2Q9,PRPF8,Pre-mRNA-processing-splicing factor 8,7,7,10,24,bin_5,Pre-mRNA-processing-splicing factor 8,PRPF8,1,1302,2524,116,PRPF8,HGNC:17340,pre-mRNA processing factor 8,13,HGNC:9443,0
+ARH_HUMAN,Q5SW96,LDLRAP1,Low density lipoprotein receptor adapter protein 1 ,10,16,9,35,bin_5,Low density lipoprotein receptor adapter protein 1,LDLRAP1,1,1290,2539,10574,LDLRAP1,HGNC:18640,low density lipoprotein receptor adaptor protein 1,13,HGNC:6671,0
+NDUS2_HUMAN,O75306,NDUFS2,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",8,10,5,23,bin_5,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",NDUFS2,1,1343,2490,8258,NDUFS2,HGNC:7708,NADH:ubiquinone oxidoreductase core subunit S2,13,HGNC:7671,0
+C1QBP_HUMAN,Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial",10,26,10,46,bin_5,"Complement component 1 Q subcomponent-binding protein, mitochondrial",C1QBP,1,1441,2407,245,C1QBP,HGNC:1243,complement C1q binding protein,13,HGNC:2223,0
+RAB1B_HUMAN,Q9H0U4,RAB1B,Ras-related protein Rab-1B,3,7,10,20,bin_5,Ras-related protein Rab-1B,RAB1B,1,1395,2443,112,RAB1B,HGNC:18370,"RAB1B, member RAS oncogene family",13,HGNC:9771,0
+BCAR1_HUMAN,F5GXV6,BCAR1,Breast cancer anti-estrogen resistance protein 1,2,23,8,33,bin_5,Breast cancer anti-estrogen resistance protein 1,BCAR1,1,1341,2492,4258,BCAR1,HGNC:971,"BCAR1 scaffold protein, Cas family member",13,HGNC:1044,0
+ARNT2_HUMAN,Q9HBZ2,ARNT2,Aryl hydrocarbon receptor nuclear translocator 2,7,8,6,21,bin_5,Aryl hydrocarbon receptor nuclear translocator 2,ARNT2,1,1341,2494,6750,ARNT2,HGNC:16876,aryl hydrocarbon receptor nuclear translocator 2,13,HGNC:24,0
+ABCE1_HUMAN,P61221,ABCE1,ATP-binding cassette sub-family E member 1,9,7,6,22,bin_5,ATP-binding cassette sub-family E member 1,ABCE1,1,1428,2419,4305,ABCE1,HGNC:69,ATP binding cassette subfamily E member 1,13,HGNC:54,0
+VRLVGRGGRR,P78559,MAP1A,MAP1 light chain LC2,6,16,15,37,bin_5,MAP1 light chain LC2,MAP1LC2,0,1454,2396,20,MAP1A,HGNC:6835,microtubule associated protein 1A,13,HGNC:6914,0
+SMC6_HUMAN,Q96SB8,SMC6,Structural maintenance of chromosomes protein 6,6,9,11,26,bin_5,Structural maintenance of chromosomes protein 6,SMC6,1,1141,2694,49555,SMC6,HGNC:20466,structural maintenance of chromosomes 6,14,HGNC:11104,0
+PTPA_HUMAN,Q9NNZ8,PTPA,Serine/threonine-protein phosphatase 2A activator,8,7,7,22,bin_5,Serine/threonine-protein phosphatase 2A activator,PPP2R4,0,1136,2699,2805,PTPA,HGNC:9308,protein phosphatase 2 phosphatase activator,14,HGNC:9243,0
+TYB4_HUMAN,P62328,TMSB4X,Hemoregulatory peptide AcSDKP ,4,10,6,20,bin_5,Hemoregulatory peptide AcSDKP,no appropriate match,0,1186,2648,68,TMSB4X,HGNC:11881,thymosin beta 4 X-linked,14,HGNC:11664,0
+GRHL3_HUMAN,Q8TE85,GRHL3,Grainyhead-like protein 3 homolog ,5,16,3,24,bin_5,Grainyhead-like protein 3 homolog,GRHL3,1,1160,2670,439,GRHL3,HGNC:25839,grainyhead like transcription factor 3,14,HGNC:4291,0
+UTRN_HUMAN,P46939,UTRN,Utrophin ,5,5,13,23,bin_5,Utrophin,UTRN,1,1247,2590,4423,UTRN,HGNC:12635,utrophin,14,HGNC:12515,0
+IGJ_HUMAN,P01591,JCHAIN,Immunoglobulin J chain,5,9,8,22,bin_5,Immunoglobulin J chain,IGJ,0,1135,2700,196779,JCHAIN,HGNC:5713,joining chain of multimeric IgA and IgM,14,HGNC:6346,0
+KRIT1_HUMAN,O00522,KRIT1,Krev interaction trapped protein 1,3,11,6,20,bin_5,Krev interaction trapped protein 1,KRIT1,1,1076,2768,993,KRIT1,HGNC:1573,KRIT1 ankyrin repeat containing,14,HGNC:6341,0
+JAM1_HUMAN,Q9Y624,F11R,Junctional adhesion molecule A,5,22,6,33,bin_5,Junctional adhesion molecule A,F11R,1,1253,2580,2649,F11R,HGNC:14685,F11 receptor,14,HGNC:3564,0
+SPTA1_HUMAN,P02549,SPTA1,"Spectrin alpha chain, erythrocytic 1",3,9,11,23,bin_5,"Spectrin alpha chain, erythrocytic 1",SPTA1,1,1094,2746,1764,SPTA1,HGNC:11272,"spectrin alpha, erythrocytic 1",14,HGNC:11215,0
+COMD1_HUMAN,Q8N668,COMMD1,COMM domain-containing protein 1,9,10,9,28,bin_5,COMM domain-containing protein 1,COMMD1,1,1089,2750,661,COMMD1,HGNC:23024,copper metabolism domain containing 1,14,HGNC:2203,0
+CAPON_HUMAN,O75052,NOS1AP,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein ,3,12,13,28,bin_5,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,NOS1AP,1,1154,2679,250,NOS1AP,HGNC:16859,nitric oxide synthase 1 adaptor protein,14,HGNC:7800,0
+CUBN_HUMAN,O60494,CUBN,Cubilin ,5,8,16,29,bin_5,Cubilin,CUBN,1,1147,2689,2567,CUBN,HGNC:2548,cubilin,14,HGNC:2346,0
+GRM7_HUMAN,Q14831,GRM7,Metabotropic glutamate receptor 7,8,10,9,27,bin_5,Metabotropic glutamate receptor 7,GRM7,1,1106,2736,670,GRM7,HGNC:4599,glutamate metabotropic receptor 7,14,HGNC:4464,0
+ADA1A_HUMAN,Q96RE8,ADRA1A,Alpha-1A adrenergic receptor,2,33,8,43,bin_5,Alpha-1A adrenergic receptor,ADRA1A,1,1246,2591,20464,ADRA1A,HGNC:277,adrenoceptor alpha 1A,14,HGNC:213,0
+VILI_HUMAN,P09327,VIL1,Villin-1,7,28,11,46,bin_5,Villin-1,VIL1,1,1150,2686,552,VIL1,HGNC:12690,villin 1,14,HGNC:7530,0
+GOPC_HUMAN,Q9HD26,GOPC,Golgi-associated PDZ and coiled-coil motif-containing protein ,3,6,11,20,bin_5,Golgi-associated PDZ and coiled-coil motif-containing protein,GOPC,1,1114,2725,159,GOPC,HGNC:17643,golgi associated PDZ and coiled-coil motif containing,14,HGNC:4289,0
+CLAP2_HUMAN,O75122,CLASP2,CLIP-associating protein 2,5,30,20,55,bin_5,CLIP-associating protein 2,CLASP2,1,1076,2766,152,CLASP2,HGNC:17078,cytoplasmic linker associated protein 2,14,HGNC:2484,0
+VATA_HUMAN,P38606,ATP6V1A,V-type proton ATPase catalytic subunit A,4,10,18,32,bin_5,V-type proton ATPase catalytic subunit A,ATP6V1A,1,1079,2762,1484,ATP6V1A,HGNC:851,ATPase H+ transporting V1 subunit A,14,HGNC:813,0
+TFDP1_HUMAN,Q14186,TFDP1,Transcription factor Dp-1,5,10,7,22,bin_5,Transcription factor Dp-1,TFDP1,1,1232,2610,5008,TFDP1,HGNC:11749,transcription factor Dp-1,14,HGNC:11664,0
+RPGP1_HUMAN,P47736,RAP1GAP,Rap1 GTPase-activating protein 1,4,9,8,21,bin_5,Rap1 GTPase-activating protein 1,RAP1GAP,1,1110,2733,4913,RAP1GAP,HGNC:9858,RAP1 GTPase activating protein,14,HGNC:9881,0
+PO3F3_HUMAN,P20264,POU3F3,"POU domain, class 3, transcription factor 3 ",6,17,3,26,bin_5,"POU domain, class 3, transcription factor 3",POU3F3,1,1201,2635,418,POU3F3,HGNC:9216,POU class 3 homeobox 3,14,HGNC:8861,0
+ASIC2_HUMAN,Q16515,ASIC2,Acid-sensing ion channel 2 ,3,20,3,26,bin_5,Acid-sensing ion channel 2,ASIC2,1,1115,2722,65041,ASIC2,HGNC:99,acid sensing ion channel subunit 2,14,HGNC:248,0
+BBS2_HUMAN,Q9BXC9,BBS2,Bardet-Biedl syndrome 2 protein ,1,24,10,35,bin_5,Bardet-Biedl syndrome 2 protein,BBS2,1,1104,2737,108,BBS2,HGNC:967,Bardet-Biedl syndrome 2,14,HGNC:1041,0
+PIAS4_HUMAN,Q8N2W9,PIAS4,E3 SUMO-protein ligase PIAS4 ,7,17,7,31,bin_5,E3 SUMO-protein ligase PIAS4,PIAS4,1,1148,2688,744,PIAS4,HGNC:17002,protein inhibitor of activated STAT 4,14,HGNC:9441,0
+GPAT1_HUMAN,Q9HCL2,GPAM,"Glycerol-3-phosphate acyltransferase 1, mitochondrial ",2,19,3,24,bin_5,"Glycerol-3-phosphate acyltransferase 1, mitochondrial",GPAM,1,1236,2605,2909,GPAM,HGNC:24865,"glycerol-3-phosphate acyltransferase, mitochondrial",14,HGNC:4294,0
+JMY_HUMAN,Q8N9B5,JMY,Junction-mediating and -regulatory protein,4,8,8,20,bin_5,Junction-mediating and -regulatory protein,JMY,1,1188,2641,125,JMY,HGNC:28916,"junction mediating and regulatory protein, p53 cofactor",14,HGNC:17088,0
+KCND2_HUMAN,Q9NZV8,KCND2,A-type voltage-gated potassium channel KCND2 ,4,11,13,28,bin_5,A-type voltage-gated potassium channel KCND2,KCND2,1,1146,2690,284,KCND2,HGNC:6238,potassium voltage-gated channel subfamily D member 2,14,HGNC:8661,0
+TAPACPGKVH,Q00G26,PLIN5,Perilipin-5,2,13,5,20,bin_5,Perilipin-5,PLIN5,1,1144,2692,995,PLIN5,HGNC:33196,perilipin 5,14,HGNC:17018,0
+PPID_HUMAN,Q08752,PPID,Peptidyl-prolyl cis-trans isomerase D ,7,13,5,25,bin_5,Peptidyl-prolyl cis-trans isomerase D,PPID,1,1222,2617,14104,PPID,HGNC:9257,peptidylprolyl isomerase D,14,HGNC:8861,0
+MK07_HUMAN,Q13164,MAPK7,Mitogen-activated protein kinase 7,6,21,5,32,bin_5,Mitogen-activated protein kinase 7,MAPK7,1,1244,2594,685,MAPK7,HGNC:6880,mitogen-activated protein kinase 7,14,HGNC:6841,0
+S6A14_HUMAN,Q9UN76,SLC6A14,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+) ,7,8,5,20,bin_5,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),SLC6A14,1,959,2892,189,SLC6A14,HGNC:11047,solute carrier family 6 member 14,15,HGNC:10978,0
+WDR1_HUMAN,O75083,WDR1,WD repeat-containing protein 1,1,17,9,27,bin_5,WD repeat-containing protein 1,WDR1,1,957,2897,5154,WDR1,HGNC:12754,WD repeat domain 1,15,HGNC:12642,0
+FBX7_HUMAN,Q9Y3I1,FBXO7,F-box only protein 7,6,15,13,34,bin_5,F-box only protein 7,FBXO7,1,1001,2846,27824,FBXO7,HGNC:13586,F-box protein 7,15,HGNC:3564,0
+ANKH_HUMAN,Q9HCJ1,ANKH,Mineralization regulator ANKH ,3,15,4,22,bin_5,Mineralization regulator ANKH,ANKH,1,982,2868,227,ANKH,HGNC:15492,ANKH inorganic pyrophosphate transport regulator,15,HGNC:813,0
+ANXA4_HUMAN,P09525,ANXA4,Annexin A4 ,7,7,10,24,bin_5,Annexin A4,ANXA4,1,1055,2788,4822,ANXA4,HGNC:542,annexin A4,15,HGNC:544,0
+CCN4_HUMAN,O95388,CCN4,CCN family member 4 ,2,18,3,23,bin_5,CCN family member 4,WISP2,0,956,2898,5005,CCN4,HGNC:12769,cellular communication network factor 4,15,HGNC:1773,0
+CNTN2_HUMAN,Q02246,CNTN2,Contactin-2,1,11,9,21,bin_5,Contactin-2,CNTN2,1,893,2966,792,CNTN2,HGNC:2172,contactin 2,15,HGNC:2221,0
+E41L3_HUMAN,Q9Y2J2,EPB41L3,"Band 4.1-like protein 3, N-terminally processed",3,11,7,21,bin_5,EPB41L3,EPB41L3,1,1066,2778,5,EPB41L3,HGNC:3380,erythrocyte membrane protein band 4.1 like 3,15,HGNC:3353,0
+SIA4A_HUMAN,Q11201,ST3GAL1,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1",3,12,6,21,bin_5,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1",ST3GAL1,1,914,2944,5,ST3GAL1,HGNC:10862,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1",15,HGNC:10952,0
+ODFP2_HUMAN,Q1W2J6,ODF2,Outer dense fiber protein 2,2,6,13,21,bin_5,Outer dense fiber protein 2,ODF2,1,910,2948,14224,ODF2,HGNC:8114,outer dense fiber of sperm tails 2,15,HGNC:8004,0
+PO4F2_HUMAN,Q12837,POU4F2,"POU domain, class 4, transcription factor 2 ",6,30,7,43,bin_5,"POU domain, class 4, transcription factor 2",POU4F2,1,967,2877,430,POU4F2,HGNC:9219,POU class 4 homeobox 2,15,HGNC:8862,0
+1433F_HUMAN,Q04917,YWHAH,14-3-3 protein eta,9,14,7,30,bin_5,14-3-3 protein eta,YWHAH,1,961,2887,1643,YWHAH,HGNC:12853,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta,15,HGNC:12818,0
+MP2K5_HUMAN,Q13163,MAP2K5,Dual specificity mitogen-activated protein kinase kinase 5,7,22,1,30,bin_5,Dual specificity mitogen-activated protein kinase kinase 5,MAP2K5,1,921,2934,140,MAP2K5,HGNC:6845,mitogen-activated protein kinase kinase 5,15,HGNC:6841,0
+PTGIS_HUMAN,Q16647,PTGIS,Prostacyclin synthase,6,14,5,25,bin_5,Prostacyclin synthase,PTGIS,1,1052,2789,2313,PTGIS,HGNC:9603,prostaglandin I2 synthase,15,HGNC:9241,0
+TERF2_HUMAN,Q15554,TERF2,Telomeric repeat-binding factor 2,6,28,8,42,bin_5,Telomeric repeat-binding factor 2,TERF2,1,962,2884,2365,TERF2,HGNC:11729,telomeric repeat binding factor 2,15,HGNC:11664,0
+DUS22_HUMAN,Q9NRW4,DUSP22,Dual specificity protein phosphatase 22 ,5,13,5,23,bin_5,Dual specificity protein phosphatase 22,DUSP22,1,937,2923,35719,DUSP22,HGNC:16077,dual specificity phosphatase 22,15,HGNC:29164,0
+UD18_HUMAN,Q9HAW9,UGT1A8,UDP-glucuronosyltransferase 1A8 ,8,14,2,24,bin_5,UDP-glucuronosyltransferase 1A8,UGT1A8,1,898,2964,393,UGT1A8,HGNC:12540,UDP glucuronosyltransferase family 1 member A8,15,HGNC:12518,0
+CXAR_HUMAN,P78310,CXADR,Coxsackievirus and adenovirus receptor,9,16,20,45,bin_5,Coxsackievirus and adenovirus receptor,CXADR,1,901,2960,2450,CXADR,HGNC:2559,CXADR cell adhesion molecule,15,HGNC:2221,0
+VPP3_HUMAN,Q13488,TCIRG1,V-type proton ATPase 116 kDa subunit a 3,2,40,11,53,bin_5,V-type proton ATPase 116 kDa subunit a 3,ATP6V0A3,0,1036,2808,304,TCIRG1,HGNC:11647,"T cell immune regulator 1, ATPase H+ transporting V0 subunit a3",15,HGNC:11500,0
+KAT6B_HUMAN,Q8WYB5,KAT6B,Histone acetyltransferase KAT6B,9,8,5,22,bin_5,Histone acetyltransferase KAT6B,KAT6B,1,924,2931,527,KAT6B,HGNC:17582,lysine acetyltransferase 6B,15,HGNC:17088,0
+NK1R_HUMAN,P25103,TACR1,Substance-P receptor,2,38,7,47,bin_5,Substance-P receptor,TACR1,1,1013,2833,8707,TACR1,HGNC:11526,tachykinin receptor 1,15,HGNC:11664,0
+ARHG2_HUMAN,Q92974,ARHGEF2,Rho guanine nucleotide exchange factor 2,4,22,12,38,bin_5,Rho guanine nucleotide exchange factor 2,ARHGEF2,1,940,2920,19600,ARHGEF2,HGNC:682,Rho/Rac guanine nucleotide exchange factor 2,15,HGNC:9880,0
+AP2M1_HUMAN,Q96CW1,AP2M1,AP-2 complex subunit mu ,6,12,15,33,bin_5,AP-2 complex subunit mu,AP2M1,1,920,2935,1571,AP2M1,HGNC:564,adaptor related protein complex 2 subunit mu 1,15,HGNC:812,0
+STAR3_HUMAN,Q14849,STARD3,StAR-related lipid transfer protein 3 ,3,7,10,20,bin_5,StAR-related lipid transfer protein 3,STARD3,1,962,2886,368,STARD3,HGNC:17579,StAR related lipid transfer domain containing 3,15,HGNC:17264,0
+ATOH7_HUMAN,Q8N100,ATOH7,Transcription factor ATOH7 ,6,11,4,21,bin_5,Transcription factor ATOH7,ATOH7,1,1039,2803,877,ATOH7,HGNC:13907,atonal bHLH transcription factor 7,15,HGNC:170,0
+TRIM1_HUMAN,Q9UJV3,MID2,Probable E3 ubiquitin-protein ligase MID2,8,10,3,21,bin_5,Probable E3 ubiquitin-protein ligase MID2,MID2,1,1010,2839,37,MID2,HGNC:7096,midline 2,15,HGNC:7041,0
+V2R_HUMAN,P30518,AVPR2,Vasopressin V2 receptor,2,15,8,25,bin_5,Vasopressin V2 receptor,AVPR2,1,960,2888,33882,AVPR2,HGNC:897,arginine vasopressin receptor 2,15,HGNC:233,0
+MYRF_HUMAN,Q9Y2G1,MYRF,"Myelin regulatory factor, C-terminal",5,10,5,20,bin_5,"Myelin regulatory factor, C-terminal",MYRF,1,960,2890,6601,MYRF,HGNC:1181,myelin regulatory factor,15,HGNC:17088,0
+ABCD3_HUMAN,P28288,ABCD3,ATP-binding cassette sub-family D member 3,7,11,7,25,bin_5,ATP-binding cassette sub-family D member 3,ABCD3,1,1030,2815,3938,ABCD3,HGNC:67,ATP binding cassette subfamily D member 3,15,HGNC:54,0
+NAT10_HUMAN,Q9H0A0,NAT10,RNA cytidine acetyltransferase ,8,9,8,25,bin_5,RNA cytidine acetyltransferase,NAT10,1,1049,2792,2775,NAT10,HGNC:29830,N-acetyltransferase 10,15,HGNC:7611,0
+GPM6A_HUMAN,P51674,GPM6A,Neuronal membrane glycoprotein M6-a,1,9,11,21,bin_5,Neuronal membrane glycoprotein M6-a,GPM6A,1,795,3090,92,GPM6A,HGNC:4460,glycoprotein M6A,16,HGNC:4291,0
+ZPR1_HUMAN,O75312,ZPR1,Zinc finger protein ZPR1,4,22,11,37,bin_5,Zinc finger protein ZPR1,ZNF259,0,788,3095,317,ZPR1,HGNC:13051,ZPR1 zinc finger,16,HGNC:8013,0
+DACT1_HUMAN,Q9NYF0,DACT1,Dapper homolog 1,6,17,5,28,bin_5,Dapper homolog 1,DACT1,1,827,3044,215,DACT1,HGNC:17748,dishevelled binding antagonist of beta catenin 1,16,HGNC:2864,0
+NPNT_HUMAN,E9PCQ1,NPNT,Nephronectin,2,16,6,24,bin_5,Nephronectin,NPNT,1,811,3066,769,NPNT,HGNC:27405,nephronectin,16,HGNC:7801,0
+FLRT3_HUMAN,Q9NZU0,FLRT3,Leucine-rich repeat transmembrane protein FLRT3,4,13,15,32,bin_5,Leucine-rich repeat transmembrane protein FLRT3,FLRT3,1,875,2986,231,FLRT3,HGNC:3762,fibronectin leucine rich transmembrane protein 3,16,HGNC:17792,0
+VPS4B_HUMAN,O75351,VPS4B,Vacuolar protein sorting-associated protein 4B ,5,35,14,54,bin_5,Vacuolar protein sorting-associated protein 4B,VPS4B,1,787,3096,186,VPS4B,HGNC:10895,vacuolar protein sorting 4 homolog B,16,HGNC:12664,0
+GRIK3_HUMAN,Q13003,GRIK3,"Glutamate receptor ionotropic, kainate 3",6,6,10,22,bin_5,"Glutamate receptor ionotropic, kainate 3",GRIK3,1,745,3164,9333,GRIK3,HGNC:4581,glutamate ionotropic receptor kainate type subunit 3,16,HGNC:4580,0
+GDF2_HUMAN,Q9UK05,GDF2,Growth/differentiation factor 2,3,30,3,36,bin_5,Growth/differentiation factor 2,GDF2,1,883,2976,3553,GDF2,HGNC:4217,growth differentiation factor 2,16,HGNC:4580,0
+VPS11_HUMAN,Q9H270,VPS11,Vacuolar protein sorting-associated protein 11 homolog,6,16,12,34,bin_5,Vacuolar protein sorting-associated protein 11 homolog,VPS11,1,756,3142,631,VPS11,HGNC:14583,VPS11 core subunit of CORVET and HOPS complexes,16,HGNC:17764,0
+KCC1A_HUMAN,Q14012,CAMK1,Calcium/calmodulin-dependent protein kinase type 1,4,18,2,24,bin_5,Calcium/calmodulin-dependent protein kinase type 1,CAMK1,1,754,3146,18010,CAMK1,HGNC:1459,calcium/calmodulin dependent protein kinase I,16,HGNC:1523,0
+GNA12_HUMAN,Q03113,GNA12,Guanine nucleotide-binding protein subunit alpha-12,8,16,8,32,bin_5,Guanine nucleotide-binding protein subunit alpha-12,GNA12,1,804,3075,316,GNA12,HGNC:4380,G protein subunit alpha 12,16,HGNC:4464,0
+RAP2B_HUMAN,P61225,RAP2B,Ras-related protein Rap-2b,5,9,8,22,bin_5,Ras-related protein Rap-2b,RAP2B,1,800,3085,63,RAP2B,HGNC:9862,"RAP2B, member of RAS oncogene family",16,HGNC:9771,0
+FNIP1_HUMAN,Q8TF40,FNIP1,Folliculin-interacting protein 1 ,5,18,3,26,bin_5,Folliculin-interacting protein 1,FNIP1,1,766,3132,372,FNIP1,HGNC:29418,folliculin interacting protein 1,16,HGNC:20858,0
+NPHP4_HUMAN,O75161,NPHP4,Nephrocystin-4,1,11,14,26,bin_5,Nephrocystin-4,NPHP4,1,875,2987,450,NPHP4,HGNC:19104,nephrocystin 4,16,HGNC:7800,0
+RGS14_HUMAN,O43566,RGS14,Regulator of G-protein signaling 14,8,19,13,40,bin_5,Regulator of G-protein signaling 14,RGS14,1,801,3082,64705,RGS14,HGNC:9996,regulator of G protein signaling 14,16,HGNC:9884,0
+CSN5_HUMAN,Q92905,COPS5,COP9 signalosome complex subunit 5,8,13,9,30,bin_5,COP9 signalosome complex subunit 5,COPS5,1,775,3121,3419,COPS5,HGNC:2240,COP9 signalosome subunit 5,16,HGNC:2314,0
+CEBPG_HUMAN,P53567,CEBPG,CCAAT/enhancer-binding protein gamma,8,15,4,27,bin_5,CCAAT/enhancer-binding protein gamma,CEBPG,1,745,3162,12631,CEBPG,HGNC:1837,CCAAT enhancer binding protein gamma,16,HGNC:1643,0
+TTBK2_HUMAN,Q6IQ55,TTBK2,Tau-tubulin kinase 2,8,12,6,26,bin_5,Tau-tubulin kinase 2,TTBK2,1,748,3158,581,TTBK2,HGNC:19141,tau tubulin kinase 2,16,HGNC:11500,0
+HIPK1_HUMAN,Q8TBZ1,HIPK1,Homeodomain-interacting protein kinase 1,4,19,7,30,bin_5,Homeodomain-interacting protein kinase 1,HIPK1,1,860,3006,2383,HIPK1,HGNC:19006,homeodomain interacting protein kinase 1,16,HGNC:4880,0
+SC6A9_HUMAN,P48067,SLC6A9,Sodium- and chloride-dependent glycine transporter 1,2,10,14,26,bin_5,Sodium- and chloride-dependent glycine transporter 1,SLC6A9,1,767,3129,416,SLC6A9,HGNC:11056,solute carrier family 6 member 9,16,HGNC:10978,0
+FLOT2_HUMAN,Q14254,FLOT2,Flotillin-2,1,12,20,33,bin_5,Flotillin-2,FLOT2,1,835,3031,2868,FLOT2,HGNC:3758,flotillin 2,16,HGNC:3566,0
+CRHBP_HUMAN,P24387,CRHBP,Corticotropin-releasing factor-binding protein,2,22,12,36,bin_5,Corticotropin-releasing factor-binding protein,CRHBP,1,776,3118,337,CRHBP,HGNC:2356,corticotropin releasing hormone binding protein,16,HGNC:2294,0
+KANK1_HUMAN,Q14678,KANK1,KN motif and ankyrin repeat domain-containing protein 1,1,16,5,22,bin_5,KN motif and ankyrin repeat domain-containing protein 1,KANK1,1,764,3133,228,KANK1,HGNC:19309,KN motif and ankyrin repeat domains 1,16,HGNC:17092,0
+CLN5_HUMAN,O75503,CLN5,"Bis(monoacylglycero)phosphate synthase CLN5, secreted form",4,11,9,24,bin_5,"Bis(monoacylglycero)phosphate synthase CLN5, secreted form",CLN5,1,801,3084,4,CLN5,HGNC:2076,CLN5 lysosomal BMP synthase,16,HGNC:2344,0
+IFNL1_HUMAN,Q8IU54,IFNL1,Interferon lambda-1,3,18,3,24,bin_5,Interferon lambda-1,IFNL1,1,862,3001,1261,IFNL1,HGNC:18363,interferon lambda 1,16,HGNC:6004,0
+ZMIZ1_HUMAN,Q9ULJ6,ZMIZ1,Zinc finger MIZ domain-containing protein 1 ,5,17,5,27,bin_5,Zinc finger MIZ domain-containing protein 1,ZMIZ1,1,832,3037,270,ZMIZ1,HGNC:16493,zinc finger MIZ-type containing 1,16,HGNC:12864,0
+TE2IP_HUMAN,Q9NYB0,TERF2IP,Telomeric repeat-binding factor 2-interacting protein 1,3,17,9,29,bin_5,Telomeric repeat-binding factor 2-interacting protein 1,TERF2IP,1,797,3086,143,TERF2IP,HGNC:19246,TERF2 interacting protein,16,HGNC:11500,0
+KALRN_HUMAN,O60229,KALRN,Kalirin ,5,8,7,20,bin_5,Kalirin,KALRN,1,796,3088,1478,KALRN,HGNC:4814,kalirin RhoGEF kinase,16,HGNC:6241,0
+OVOL2_HUMAN,Q9BRP0,OVOL2,Transcription factor Ovo-like 2 ,8,24,1,33,bin_5,Transcription factor Ovo-like 2,OVOL2,1,855,3013,303,OVOL2,HGNC:15804,ovo like zinc finger 2,16,HGNC:8004,0
+UBP33_HUMAN,Q8TEY7,USP33,Ubiquitin carboxyl-terminal hydrolase 33,5,14,9,28,bin_5,Ubiquitin carboxyl-terminal hydrolase 33,USP33,1,874,2990,2697,USP33,HGNC:20059,ubiquitin specific peptidase 33,16,HGNC:12464,0
+PRDM5_HUMAN,Q9NQX1,PRDM5,PR domain zinc finger protein 5,9,8,4,21,bin_5,PR domain zinc finger protein 5,PRDM5,1,664,3288,10732,PRDM5,HGNC:9349,PR/SET domain 5,17,HGNC:9243,0
+FLVC1_HUMAN,Q9Y5Y0,FLVCR1,Heme transporter FLVCR1 ,2,15,4,21,bin_5,FLVCR1,FLVCR1,1,662,3293,270,FLVCR1,HGNC:24682,FLVCR choline and heme transporter 1,17,HGNC:13564,0
+AT2B3_HUMAN,Q16720,ATP2B3,Plasma membrane calcium-transporting ATPase 3,8,4,8,20,bin_5,Plasma membrane calcium-transporting ATPase 3,ATP2B3,1,689,3242,1937,ATP2B3,HGNC:816,ATPase plasma membrane Ca2+ transporting 3,17,HGNC:908,0
+GPSM2_HUMAN,P81274,GPSM2,G-protein-signaling modulator 2,6,8,9,23,bin_5,G-protein-signaling modulator 2,GPSM2,1,673,3264,3796,GPSM2,HGNC:29501,G protein signaling modulator 2,17,HGNC:4464,0
+APLF_HUMAN,Q8IW19,APLF,Aprataxin and PNK-like factor ,10,11,5,26,bin_5,Aprataxin and PNK-like factor,APLF,1,733,3184,102,APLF,HGNC:28724,aprataxin and PNKP like factor,17,HGNC:25664,0
+VATL_HUMAN,P27449,ATP6V0C,V-type proton ATPase 16 kDa proteolipid subunit c ,3,8,16,27,bin_5,V-type proton ATPase 16 kDa proteolipid subunit c,ATP6V0C,1,661,3294,230,ATP6V0C,HGNC:855,ATPase H+ transporting V0 subunit c,17,HGNC:813,0
+GTR10_HUMAN,O95528,SLC2A10,"Solute carrier family 2, facilitated glucose transporter member 10 ",4,20,5,29,bin_5,"Solute carrier family 2, facilitated glucose transporter member 10",SLC2A10,1,609,3362,3163,SLC2A10,HGNC:13444,solute carrier family 2 member 10,17,HGNC:11000,0
+NECT1_HUMAN,Q15223,NECTIN1,Nectin-1,8,14,10,32,bin_5,Nectin-1,PVRL1,0,738,3174,3043,NECTIN1,HGNC:9706,nectin cell adhesion molecule 1,17,HGNC:7611,0
+EPHA8_HUMAN,P29322,EPHA8,Ephrin type-A receptor 8,5,11,4,20,bin_5,Ephrin type-A receptor 8,EPHA8,1,633,3340,8366,EPHA8,HGNC:3391,EPH receptor A8,17,HGNC:3354,0
+PNPT1_HUMAN,Q8TCS8,PNPT1,"Polyribonucleotide nucleotidyltransferase 1, mitochondrial ",7,26,8,41,bin_5,"Polyribonucleotide nucleotidyltransferase 1, mitochondrial",PNPT1,1,629,3344,271,PNPT1,HGNC:23166,polyribonucleotide nucleotidyltransferase 1,17,HGNC:9002,0
+VP33B_HUMAN,Q9H267,VPS33B,Vacuolar protein sorting-associated protein 33B,1,16,17,34,bin_5,Vacuolar protein sorting-associated protein 33B,VPS33B,1,668,3273,43,VPS33B,HGNC:12712,VPS33B late endosome and lysosome associated,17,HGNC:17764,0
+SAR1A_HUMAN,Q9NR31,SAR1A,Small COPII coat GTPase SAR1A ,4,11,6,21,bin_5,Small COPII coat GTPase SAR1A,SAR1A,1,665,3283,220,SAR1A,HGNC:10534,secretion associated Ras related GTPase 1A,17,HGNC:17023,0
+TGFI1_HUMAN,O43294,TGFB1I1,Transforming growth factor beta-1-induced transcript 1 protein,5,12,5,22,bin_5,Transforming growth factor beta-1-induced transcript 1 protein,TGFB1I1,1,639,3330,240,TGFB1I1,HGNC:11767,transforming growth factor beta 1 induced transcript 1,17,HGNC:17288,0
+DTX3L_HUMAN,Q8TDB6,DTX3L,E3 ubiquitin-protein ligase DTX3L,10,19,8,37,bin_5,E3 ubiquitin-protein ligase DTX3L,DTX3L,1,731,3185,337,DTX3L,HGNC:30323,deltex E3 ubiquitin ligase 3L,17,HGNC:2574,0
+PCSK5_HUMAN,Q92824,PCSK5,Proprotein convertase subtilisin/kexin type 5,4,17,6,27,bin_5,Proprotein convertase subtilisin/kexin type 5,PCSK5,1,665,3280,8655,PCSK5,HGNC:8747,proprotein convertase subtilisin/kexin type 5,17,HGNC:9241,0
+PSD10_HUMAN,O75832,PSMD10,26S proteasome non-ATPase regulatory subunit 10,5,15,9,29,bin_5,26S proteasome non-ATPase regulatory subunit 10,PSMD10,1,646,3319,1630,PSMD10,HGNC:9555,"proteasome 26S subunit, non-ATPase 10",17,HGNC:9611,0
+PTPRN_HUMAN,Q16849,PTPRN,ICA512-cleaved cytosolic fragment,3,8,10,21,bin_5,ICA512-cleaved cytosolic fragment,PTPRN,1,611,3360,1,PTPRN,HGNC:9676,protein tyrosine phosphatase receptor type N,17,HGNC:9241,0
+S15A2_HUMAN,Q16348,SLC15A2,Solute carrier family 15 member 2 ,3,13,4,20,bin_5,Solute carrier family 15 member 2,SLC15A2,1,619,3356,24436,SLC15A2,HGNC:10921,solute carrier family 15 member 2,17,HGNC:10978,0
+CHMP3_HUMAN,Q9Y3E7,CHMP3,Charged multivesicular body protein 3,5,29,16,50,bin_5,Charged multivesicular body protein 3,CHMP3,1,717,3204,4961,CHMP3,HGNC:29865,charged multivesicular body protein 3,17,HGNC:17041,0
+MBB1A_HUMAN,Q9BQG0,MYBBP1A,Myb-binding protein 1A,4,14,8,26,bin_5,Myb-binding protein 1A,MYBBP1A,1,642,3327,603,MYBBP1A,HGNC:7546,MYB binding protein 1a,17,HGNC:7103,0
+IQGA3_HUMAN,Q86VI3,IQGAP3,Ras GTPase-activating-like protein IQGAP3,5,13,4,22,bin_5,Ras GTPase-activating-like protein IQGAP3,IQGAP3,1,698,3229,33,IQGAP3,HGNC:20669,IQ motif containing GTPase activating protein 3,17,HGNC:17088,0
+ATP4A_HUMAN,P20648,ATP4A,Potassium-transporting ATPase alpha chain 1,6,10,4,20,bin_5,Potassium-transporting ATPase alpha chain 1,ATP4A,1,649,3316,358,ATP4A,HGNC:819,ATPase H+/K+ transporting subunit alpha,17,HGNC:813,0
+MYO1A_HUMAN,Q9UBC5,MYO1A,Unconventional myosin-Ia,4,6,12,22,bin_5,MYO1A,MYO1A,1,639,3331,660,MYO1A,HGNC:7595,myosin IA,17,HGNC:7372,0
+CR3L3_HUMAN,Q68CJ9,CREB3L3,Processed cyclic AMP-responsive element-binding protein 3-like protein 3,8,5,8,21,bin_5,Processed cyclic AMP-responsive element-binding protein 3-like protein 3,CREB3L3,1,665,3282,114,CREB3L3,HGNC:18855,cAMP responsive element binding protein 3 like 3,17,HGNC:17074,0
+RPGF2_HUMAN,Q9Y4G8,RAPGEF2,Rap guanine nucleotide exchange factor 2,9,37,14,60,bin_5,Rap guanine nucleotide exchange factor 2,RAPGEF2,1,720,3199,3340,RAPGEF2,HGNC:16854,Rap guanine nucleotide exchange factor 2,17,HGNC:9881,0
+B3A2_HUMAN,P04920,SLC4A2,Anion exchange protein 2,5,13,5,23,bin_5,Anion exchange protein 2,SLC4A2,1,693,3235,897,SLC4A2,HGNC:11028,solute carrier family 4 member 2,17,HGNC:10978,0
+PACRG_HUMAN,Q96M98,PACRG,Parkin coregulated gene protein,9,3,9,21,bin_5,Parkin coregulated gene protein,PACRG,1,665,3284,234,PACRG,HGNC:19152,parkin coregulated,17,HGNC:17119,0
+FMN2_HUMAN,Q9NZ56,FMN2,Formin-2,1,16,12,29,bin_5,Formin-2,FMN2,1,664,3286,1240,FMN2,HGNC:14074,formin 2,17,HGNC:3721,0
+CAP7_HUMAN,P20160,AZU1,Azurocidin ,5,27,8,40,bin_5,Azurocidin,AZU1,1,713,3211,1276,AZU1,HGNC:913,azurocidin 1,17,HGNC:813,0
+TRDN_HUMAN,Q13061,TRDN,Triadin,3,15,10,28,bin_5,Triadin,TRDN,1,729,3188,1398,TRDN,HGNC:12261,triadin,17,HGNC:11642,0
+STAU2_HUMAN,Q6AHY7,STAU2,Double-stranded RNA-binding protein Staufen homolog 2,7,11,13,31,bin_5,Double-stranded RNA-binding protein Staufen homolog 2,STAU2,1,529,3486,1099,STAU2,HGNC:11371,staufen double-stranded RNA binding protein 2,18,HGNC:10864,0
+TGO1_HUMAN,Q5JRB1,MIA3,Transport and Golgi organization protein 1 homolog ,1,17,5,23,bin_5,Transport and Golgi organization protein 1 homolog,TANGO1,0,526,3491,12142,MIA3,HGNC:24008,MIA SH3 domain ER export factor 3,18,HGNC:14264,0
+E4F1_HUMAN,Q66K89,E4F1,Transcription factor E4F1,9,9,4,22,bin_5,Transcription factor E4F1,E4F1,1,561,3440,512,E4F1,HGNC:3121,E4F transcription factor 1,18,HGNC:3204,0
+ACHB_HUMAN,P11230,CHRNB1,Acetylcholine receptor subunit beta ,6,14,4,24,bin_5,Acetylcholine receptor subunit beta,CHRNB,0,547,3462,42921,CHRNB1,HGNC:1961,cholinergic receptor nicotinic beta 1 subunit,18,HGNC:2221,0
+S38A3_HUMAN,Q99624,SLC38A3,Sodium-coupled neutral amino acid transporter 3 ,9,17,3,29,bin_5,Sodium-coupled neutral amino acid transporter 3,SLC38A3,1,600,3382,1711,SLC38A3,HGNC:18044,solute carrier family 38 member 3,18,HGNC:11000,0
+PAXI1_HUMAN,Q6ZW49,PAXIP1,PAX-interacting protein 1,0,15,6,21,bin_5,PAX-interacting protein 1,PAXIP1,1,526,3492,126,PAXIP1,HGNC:8624,PAX interacting protein 1,18,HGNC:8661,0
+RIT2_HUMAN,Q99578,RIT2,GTP-binding protein Rit2,7,14,11,32,bin_5,GTP-binding protein Rit2,RIT2,1,475,3560,80,RIT2,HGNC:10017,Ras like without CAAX 2,18,HGNC:9882,0
+GBA2_HUMAN,Q9HCG7,GBA2,Non-lysosomal glucosylceramidase ,5,12,6,23,bin_5,Non-lysosomal glucosylceramidase,GBA2,1,604,3372,237,GBA2,HGNC:18986,glucosylceramidase beta 2,18,HGNC:4291,0
+IL31R_HUMAN,Q8NI17,IL31RA,Interleukin-31 receptor subunit alpha,4,16,6,26,bin_5,Interleukin-31 receptor subunit alpha,IL31RA,1,496,3538,490,IL31RA,HGNC:18969,interleukin 31 receptor A,18,HGNC:17053,0
+NAL10_HUMAN,Q86W26,NLRP10,"NACHT, LRR and PYD domains-containing protein 10",3,12,5,20,bin_5,"NACHT, LRR and PYD domains-containing protein 10",NLRP10,1,495,3542,1305,NLRP10,HGNC:21464,NLR family pyrin domain containing 10,18,HGNC:13764,0
+KMT2E_HUMAN,Q86WG0,KMT2E,Inactive histone-lysine N-methyltransferase 2E ,4,7,12,23,bin_5,Inactive histone-lysine N-methyltransferase 2E,KMT2E,1,538,3471,83,KMT2E,HGNC:18541,lysine methyltransferase 2E (inactive),18,HGNC:17088,0
+POPD1_HUMAN,Q8NE79,BVES,Blood vessel epicardial substance ,2,19,8,29,bin_5,Blood vessel epicardial substance,BVES,1,531,3481,1652,,,,18,HGNC:7673,0
+RAPSN_HUMAN,Q13702,RAPSN,43 kDa receptor-associated protein of the synapse,5,9,6,20,bin_5,43 kDa receptor-associated protein of the synapse,DLGAP1,0,503,3528,584,RAPSN,HGNC:9863,receptor associated protein of the synapse,18,HGNC:9865,0
+MAPK5_HUMAN,Q8IW41,MAPKAPK5,MAP kinase-activated protein kinase 5,9,12,6,27,bin_5,MAP kinase-activated protein kinase 5,MAPKAPK5,1,600,3383,3980,MAPKAPK5,HGNC:6889,MAPK activated protein kinase 5,18,HGNC:6841,0
+WASF1_HUMAN,Q92558,WASF1,Actin-binding protein WASF1 ,4,13,8,25,bin_5,Actin-binding protein WASF1,WASF1,1,532,3478,372,WASF1,HGNC:12732,WASP family member 1,18,HGNC:12664,0
+OPN3_HUMAN,Q9H1Y3,OPN3,Opsin-3,5,13,4,22,bin_5,Opsin-3,OPN3,1,512,3517,316,OPN3,HGNC:14007,opsin 3,18,HGNC:8000,0
+ASAH2_HUMAN,Q9NR71,ASAH2,Neutral ceramidase soluble form ,4,11,7,22,bin_5,Neutral ceramidase soluble form,ASAH2,1,481,3558,741,ASAH2,HGNC:18860,N-acylsphingosine amidohydrolase 2,18,HGNC:14264,0
+M3K13_HUMAN,O43283,MAP3K13,Mitogen-activated protein kinase kinase kinase 13,12,11,2,25,bin_5,Mitogen-activated protein kinase kinase kinase 13,MAP3K13,1,484,3554,194572,MAP3K13,HGNC:6852,mitogen-activated protein kinase kinase kinase 13,18,HGNC:6914,0
+IFT74_HUMAN,Q96LB3,IFT74,Intraflagellar transport protein 74 homolog,2,12,7,21,bin_5,Intraflagellar transport protein 74 homolog,IFT74,1,588,3402,387,IFT74,HGNC:21424,intraflagellar transport 74,18,HGNC:17092,0
+AP3D1_HUMAN,O14617,AP3D1,AP-3 complex subunit delta-1,0,22,12,34,bin_5,AP-3 complex subunit delta-1,AP3D1,1,504,3525,92,AP3D1,HGNC:568,adaptor related protein complex 3 subunit delta 1,18,HGNC:812,0
+SH3K1_HUMAN,Q96B97,SH3KBP1,SH3 domain-containing kinase-binding protein 1,2,8,10,20,bin_5,SH3 domain-containing kinase-binding protein 1,SH3KBP1,1,570,3427,478,SH3KBP1,HGNC:13867,SH3 domain containing kinase binding protein 1,18,HGNC:17267,0
+AL3B1_HUMAN,P43353,ALDH3B1,Aldehyde dehydrogenase family 3 member B1,5,8,7,20,bin_5,Aldehyde dehydrogenase family 3 member B1,ALDH3B1,1,513,3514,2431,ALDH3B1,HGNC:410,aldehyde dehydrogenase 3 family member B1,18,HGNC:190,0
+ADCYA_HUMAN,Q96PN6,ADCY10,Adenylate cyclase type 10,6,27,14,47,bin_5,Adenylate cyclase type 10,ADCY10,1,502,3529,43898,ADCY10,HGNC:21285,adenylate cyclase 10,18,HGNC:104,0
+AKAP6_HUMAN,Q13023,AKAP6,A-kinase anchor protein 6,6,15,10,31,bin_5,A-kinase anchor protein 6,AKAP6,1,531,3480,5719,AKAP6,HGNC:376,A-kinase anchoring protein 6,18,HGNC:18,0
+S27A5_HUMAN,Q9Y2P5,SLC27A5,Long-chain fatty acid transport protein 5 ,8,10,5,23,bin_5,Long-chain fatty acid transport protein 5,SLC27A5,1,590,3397,42238,SLC27A5,HGNC:10999,solute carrier family 27 member 5,18,HGNC:10978,0
+YBOX3_HUMAN,P16989,YBX3,Y-box-binding protein 3,6,17,6,29,bin_5,Y-box-binding protein 3,YBX3,1,564,3433,3830,YBX3,HGNC:2428,Y-box binding protein 3,18,HGNC:12664,0
+SKAP1_HUMAN,Q86WV1,SKAP1,Src kinase-associated phosphoprotein 1,4,11,8,23,bin_5,Src kinase-associated phosphoprotein 1,SKAP1,1,531,3482,1104,SKAP1,HGNC:15605,src kinase associated phosphoprotein 1,18,HGNC:10864,0
+EXOSX_HUMAN,Q01780,EXOSC10,Exosome complex component 10 ,7,23,11,41,bin_5,Exosome complex component 10,EXOSC10,1,530,3484,44710,EXOSC10,HGNC:9138,exosome component 10,18,HGNC:30555,0
+RHG35_HUMAN,Q9NRY4,ARHGAP35,Rho GTPase-activating protein 35 ,5,23,5,33,bin_5,Rho GTPase-activating protein 35,ARHGAP35,1,581,3409,2034,ARHGAP35,HGNC:4591,Rho GTPase activating protein 35,18,HGNC:10264,0
+ZNT1_HUMAN,Q9Y6M5,SLC30A1,Proton-coupled zinc antiporter SLC30A1 ,4,17,14,35,bin_5,Proton-coupled zinc antiporter SLC30A1,SLC30A1,1,599,3386,18,SLC30A1,HGNC:11012,solute carrier family 30 member 1,18,HGNC:10978,0
+PTN23_HUMAN,Q9H3S7,PTPN23,Tyrosine-protein phosphatase non-receptor type 23,2,10,9,21,bin_5,Tyrosine-protein phosphatase non-receptor type 23,PTPN23,1,383,3684,42680,PTPN23,HGNC:14406,protein tyrosine phosphatase non-receptor type 23,19,HGNC:9443,0
+CP131_HUMAN,Q9UPN4,CEP131,Centrosomal protein of 131 kDa,2,10,11,23,bin_5,Centrosomal protein of 131 kDa,CEP131,1,381,3689,282,CEP131,HGNC:29511,centrosomal protein 131,19,HGNC:1923,0
+SMRD2_HUMAN,Q92925,SMARCD2,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2,2,11,10,23,bin_5,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2,SMARCD2,1,418,3638,1402,SMARCD2,HGNC:11107,SWI/SNF related BAF chromatin remodeling complex subunit D2,19,HGNC:11103,0
+INTU_HUMAN,Q9ULD6,INTU,Protein inturned,0,24,7,31,bin_5,protein,INTU,1,401,3660,378,INTU,HGNC:29239,inturned planar cell polarity protein,19,HGNC:17088,0
+MYO1G_HUMAN,B0I1T2,MYO1G,Minor histocompatibility antigen HA-2 ,7,11,12,30,bin_5,Minor histocompatibility antigen HA-2,HMHA2,0,461,3580,277,MYO1G,HGNC:13880,myosin IG,19,HGNC:7373,0
+TEN2_HUMAN,Q9NT68,TENM2,Ten-2 intracellular domain,5,7,14,26,bin_5,TENM2,TENM2,1,380,3690,144,TENM2,HGNC:29943,teneurin transmembrane protein 2,19,HGNC:15864,0
+PIDD1_HUMAN,Q9HB75,PIDD1,PIDD-CC ,2,11,7,20,bin_5,PIDD-CC,PIDD1,1,327,3758,54,PIDD1,HGNC:16491,p53-induced death domain protein 1,19,HGNC:9002,0
+CHMP7_HUMAN,Q8WUX9,CHMP7,Charged multivesicular body protein 7,0,24,16,40,bin_5,Charged multivesicular body protein 7,CHMP7,1,470,3570,4396,CHMP7,HGNC:28439,charged multivesicular body protein 7,19,HGNC:17041,0
+DDRGK_HUMAN,Q96HY6,DDRGK1,DDRGK domain-containing protein 1 ,3,29,4,36,bin_5,DDRGK domain-containing protein 1,DDRGK1,1,340,3736,119,DDRGK1,HGNC:16110,DDRGK domain containing 1,19,HGNC:26664,0
+AT1A4_HUMAN,Q13733,ATP1A4,Sodium/potassium-transporting ATPase subunit alpha-4 ,6,18,7,31,bin_5,Sodium/potassium-transporting ATPase subunit alpha-4,ATP1A4,1,338,3740,104,ATP1A4,HGNC:14073,ATPase Na+/K+ transporting subunit alpha 4,19,HGNC:813,0
+M3K10_HUMAN,Q02779,MAP3K10,Mitogen-activated protein kinase kinase kinase 10,8,12,1,21,bin_5,Mitogen-activated protein kinase kinase kinase 10,MAP3K10,1,396,3669,330675,MAP3K10,HGNC:6849,mitogen-activated protein kinase kinase kinase 10,19,HGNC:6944,0
+STX5_HUMAN,Q13190,STX5,Syntaxin-5,3,11,9,23,bin_5,Syntaxin-5,STX5,1,388,3679,2625,STX5,HGNC:11440,syntaxin 5,19,HGNC:11100,0
+DBNL_HUMAN,Q9HBN8,DBNL,Drebrin-like protein,6,7,23,36,bin_5,Drebrin-like protein,DBNL,1,349,3726,163,DBNL,HGNC:2696,drebrin like,19,HGNC:2924,0
+TCF15_HUMAN,Q12870,TCF15,Transcription factor 15 ,7,18,3,28,bin_5,Transcription factor 15,TCF15,1,461,3581,1228426,TCF15,HGNC:11627,transcription factor 15,19,HGNC:11664,0
+CK5P3_HUMAN,Q96JB5,CDK5RAP3,CDK5 regulatory subunit-associated protein 3 ,7,27,9,43,bin_5,CDK5 regulatory subunit-associated protein 3,CDK5RAP3,1,389,3676,561,CDK5RAP3,HGNC:18673,CDK5 regulatory subunit associated protein 3,19,HGNC:17055,0
+KS6A4_HUMAN,O75676,RPS6KA4,Ribosomal protein S6 kinase alpha-4,7,10,5,22,bin_5,Ribosomal protein S6 kinase alpha-4,RPS6KA4,1,362,3715,364,RPS6KA4,HGNC:10433,ribosomal protein S6 kinase A4,19,HGNC:10219,0
+ACH10_HUMAN,Q9GZZ6,CHRNA10,Neuronal acetylcholine receptor subunit alpha-10,4,8,9,21,bin_5,Neuronal acetylcholine receptor subunit alpha-10,CHRNA10,1,328,3756,205,CHRNA10,HGNC:13800,cholinergic receptor nicotinic alpha 10 subunit,19,HGNC:2453,0
+RUXF_HUMAN,P62306,SNRPF,Small nuclear ribonucleoprotein F,1,5,19,25,bin_5,Small nuclear ribonucleoprotein F,SNRPF,1,329,3752,38422,SNRPF,HGNC:11162,small nuclear ribonucleoprotein polypeptide F,19,HGNC:11114,0
+SMD3_HUMAN,P62318,SNRPD3,Small nuclear ribonucleoprotein Sm D3,6,6,24,36,bin_5,Small nuclear ribonucleoprotein Sm D3,SNRPD3,1,450,3600,725,SNRPD3,HGNC:11160,small nuclear ribonucleoprotein D3 polypeptide,19,HGNC:11114,0
+UHMK1_HUMAN,Q8TAS1,UHMK1,Serine/threonine-protein kinase Kist,8,6,7,21,bin_5,Serine/threonine-protein kinase Kist,no appropriate match,0,351,3723,35,UHMK1,HGNC:19683,U2AF homology motif kinase 1,19,HGNC:12464,0
+TTC8_HUMAN,Q8TAM2,TTC8,Tetratricopeptide repeat protein 8,1,19,9,29,bin_5,Tetratricopeptide repeat protein 8,TTC8,1,429,3625,10130,TTC8,HGNC:20087,tetratricopeptide repeat domain 8,19,HGNC:11564,0
+KIFA3_HUMAN,Q92845,KIFAP3,Kinesin-associated protein 3,3,14,16,33,bin_5,Kinesin-associated protein 3,KIFAP3,1,363,3712,558,KIFAP3,HGNC:17060,kinesin associated protein 3,19,HGNC:17018,0
+PLXA3_HUMAN,P51805,PLXNA3,Plexin-A3,1,18,2,21,bin_5,Plexin-A3,PLXNA3,1,349,3727,403,PLXNA3,HGNC:9101,plexin A3,19,HGNC:9002,0
+FOXB1_HUMAN,Q99853,FOXB1,Forkhead box protein B1,4,21,2,27,bin_5,Forkhead box protein B1,FOXB1,1,388,3678,7819,FOXB1,HGNC:3799,forkhead box B1,19,HGNC:3804,0
+TMEDA_HUMAN,P49755,TMED10,Transmembrane emp24 domain-containing protein 10,3,15,18,36,bin_5,Transmembrane emp24 domain-containing protein 10,TMED10,1,453,3595,459,TMED10,HGNC:16998,transmembrane p24 trafficking protein 10,19,HGNC:17264,0
+BICD1_HUMAN,Q96G01,BICD1,Protein bicaudal D homolog 1,8,15,8,31,bin_5,Protein bicaudal D homolog 1,BICD1,1,425,3631,794,BICD1,HGNC:1049,BICD cargo adaptor 1,19,HGNC:17942,0
+SC5A6_HUMAN,Q9Y289,SLC5A6,Sodium-dependent multivitamin transporter ,7,7,6,20,bin_5,Sodium-dependent multivitamin transporter,SLC5A6,1,386,3680,498,SLC5A6,HGNC:11041,solute carrier family 5 member 6,19,HGNC:10978,0
+P4K2A_HUMAN,Q9BTU6,PI4K2A,Phosphatidylinositol 4-kinase type 2-alpha,4,4,17,25,bin_5,Phosphatidylinositol 4-kinase type 2-alpha,PI4K2A,1,385,3682,141,PI4K2A,HGNC:30031,phosphatidylinositol 4-kinase type 2 alpha,19,HGNC:9002,0
+ATPA_HUMAN,Q9BTV8,ATP5F1A,"ATP synthase subunit alpha, mitochondrial ",8,10,12,30,bin_5,"ATP synthase subunit alpha, mitochondrial",ATP5F1A,1,446,3607,51241,ATP5F1A,HGNC:823,ATP synthase F1 subunit alpha,19,HGNC:813,0
+PLPP3_HUMAN,O14495,PLPP3,Phospholipid phosphatase 3 ,4,23,11,38,bin_5,Phospholipid phosphatase 3,PLPP3,1,457,3584,54061,PLPP3,HGNC:9229,phospholipid phosphatase 3,19,HGNC:9002,0
+U17L2_HUMAN,Q6R6M4,USP17L2,Ubiquitin carboxyl-terminal hydrolase 17,1,18,3,22,bin_5,Ubiquitin carboxyl-terminal hydrolase 17,USP17,0,113,3952,3964,USP17L2,HGNC:34434,ubiquitin specific peptidase 17 like family member 2,20,HGNC:20023,0
+TADA3_HUMAN,O75528,TADA3,Transcriptional adapter 3,4,16,6,26,bin_5,Transcriptional adapter 3,TADA3,1,144,3934,81901,TADA3,HGNC:19422,transcriptional adaptor 3,20,HGNC:17245,0
+COR1B_HUMAN,Q9BR76,CORO1B,Coronin-1B,4,14,11,29,bin_5,Coronin-1B,CORO1B,1,231,3867,477,CORO1B,HGNC:2253,coronin 1B,20,HGNC:2224,0
+MINP1_HUMAN,Q9UNW1,MINPP1,Multiple inositol polyphosphate phosphatase 1 ,13,5,3,21,bin_5,Multiple inositol polyphosphate phosphatase 1,MINPP1,1,297,3792,222,MINPP1,HGNC:7102,multiple inositol-polyphosphate phosphatase 1,20,HGNC:7104,0
+CP2W1_HUMAN,Q8TAV3,CYP2W1,Cytochrome P450 2W1 ,8,6,6,20,bin_5,Cytochrome P450 2W1,CYP2W1,1,297,3793,263,CYP2W1,HGNC:20243,cytochrome P450 family 2 subfamily W member 1,20,HGNC:2573,0
+NOC2L_HUMAN,Q9Y3T9,NOC2L,Nucleolar complex protein 2 homolog,6,7,7,20,bin_5,Nucleolar complex protein 2 homolog,NOC2L,1,228,3875,12697,NOC2L,HGNC:24517,NOC2 like nucleolar associated transcriptional repressor,20,HGNC:30058,0
+SKOR2_HUMAN,Q2VWA4,SKOR2,SKI family transcriptional corepressor 2 ,6,11,3,20,bin_5,SKI family transcriptional corepressor 2,SKOR2,1,154,3928,900,SKOR2,HGNC:32695,SKI family transcriptional corepressor 2,20,HGNC:11115,0
+SPEF1_HUMAN,Q9Y4P9,SPEF1,Sperm flagellar protein 1,2,9,12,23,bin_5,Sperm flagellar protein 1,SPEF1,1,127,3946,5872,SPEF1,HGNC:15874,sperm flagellar 1,20,HGNC:11111,0
+AZIN2_HUMAN,Q96L56,AZIN2,Antizyme inhibitor 2,2,8,13,23,bin_5,Antizyme inhibitor 2,AZIN2,1,194,3898,1453,AZIN2,HGNC:29957,antizyme inhibitor 2,20,HGNC:18088,0
+ZBED1_HUMAN,O96006,ZBED1,E3 SUMO-protein ligase ZBED1 ,12,6,6,24,bin_5,E3 SUMO-protein ligase ZBED1,ZBED1,1,174,3913,18,ZBED1,HGNC:447,zinc finger BED-type containing 1,20,HGNC:12864,0
+SELK_HUMAN,Q9Y6D0,SELENOK,Selenoprotein K ,1,20,4,25,bin_5,Selenoprotein K,SELENOK,1,252,3847,8695,SELENOK,HGNC:30394,selenoprotein K,20,HGNC:10788,0
+DCNP1_HUMAN,Q8TF63,DCANP1,Dendritic cell nuclear protein 1 ,1,19,3,23,bin_5,Dendritic cell nuclear protein 1,DCNP1,0,9,3975,202697,DCANP1,HGNC:24459,dendritic cell associated nuclear protein 1,20,HGNC:2774,0
+RFIP3_HUMAN,Q9H1G0,RAB11FIP3,Rab11 family-interacting protein 3 ,8,16,17,41,bin_5,Rab11 family-interacting protein 3,RAB11FIP3,1,183,3905,615,RAB11FIP3,HGNC:17224,RAB11 family interacting protein 3,20,HGNC:17115,0
+CARL1_HUMAN,Q5VZK9,CARMIL1,F-actin-uncapping protein LRRC16A ,1,15,9,25,bin_5,F-actin-uncapping protein LRRC16A,LRRC16A,0,189,3901,11,CARMIL1,HGNC:21581,capping protein regulator and myosin 1 linker 1,20,HGNC:17088,0
+WASH3_HUMAN,C4AMC7,WASH3P,Putative WAS protein family homolog 3,3,9,10,22,bin_5,Putative WAS protein family homolog 3,WASHC3,0,22,3973,120824,WASH3P,HGNC:24362,"WASP family homolog 3, pseudogene",20,HGNC:12664,0
+H33_HUMAN,P84243,H3-3B,Histone H3.3,5,17,9,31,bin_5,Histone H3.3,H3F3A,0,241,3861,107233,H3-3B,HGNC:4765,H3.3 histone B,20,HGNC:17088,0
+CAR16_HUMAN,Q5EG05,CARD16,Caspase recruitment domain-containing protein 16,5,10,5,20,bin_5,Caspase recruitment domain-containing protein 16,CARD16,1,202,3891,10825,CARD16,HGNC:33701,caspase recruitment domain family member 16,20,HGNC:17066,0
+CLCN4_HUMAN,P51793,CLCN4,H(+)/Cl(-) exchange transporter 4,4,3,13,20,bin_5,H(+)/Cl(-) exchange transporter 4,CLC4,0,301,3788,58983,CLCN4,HGNC:2022,chloride voltage-gated channel 4,20,HGNC:2221,0
+TBG2_HUMAN,Q9NRH3,TUBG2,Tubulin gamma-2 chain,3,6,11,20,bin_5,Tubulin gamma-2 chain,TUBG2,1,157,3925,792,TUBG2,HGNC:12419,tubulin gamma 2,20,HGNC:11964,0
+SPIR2_HUMAN,Q8WWL2,SPIRE2,Protein spire homolog 2,2,13,5,20,bin_5,protein spire homolog 2,SPIRE2,1,162,3921,460,SPIRE2,HGNC:30623,spire type actin nucleation factor 2,20,HGNC:11103,0
+TMF1_HUMAN,P82094,TMF1,TATA element modulatory factor,3,14,5,22,bin_5,TATA element modulatory factor,TMF1,1,260,3842,1047,TMF1,HGNC:11870,TATA element modulatory factor 1,20,HGNC:11564,0
+ANR27_HUMAN,Q96NW4,ANKRD27,Ankyrin repeat domain-containing protein 27,4,8,12,24,bin_5,Ankyrin repeat domain-containing protein 27,ANKRD27,1,170,3916,3590,ANKRD27,HGNC:25310,ankyrin repeat domain 27,20,HGNC:170,0
+MEGF8_HUMAN,Q7Z7M0,MEGF8,Multiple epidermal growth factor-like domains protein 8,1,17,3,21,bin_5,Multiple epidermal growth factor-like domains protein 8,MEGF8,1,276,3823,4897,MEGF8,HGNC:3233,multiple EGF like domains 8,20,HGNC:7101,0
+SL9B2_HUMAN,Q86UD5,SLC9B2,Sodium/hydrogen exchanger 9B2,3,9,9,21,bin_5,Sodium/hydrogen exchanger 9B2,SLC9B2,1,125,3948,11,SLC9B2,HGNC:25143,solute carrier family 9 member B2,20,HGNC:11000,0
+ZDHC7_HUMAN,Q9NXF8,ZDHHC7,Palmitoyltransferase ZDHHC7 ,4,14,4,22,bin_5,Palmitoyltransferase ZDHHC7,ZDHHC7,1,266,3836,118,ZDHHC7,HGNC:18459,zDHHC palmitoyltransferase 7,20,HGNC:17141,0
+RMP_HUMAN,O94763,URI1,Unconventional prefoldin RPB5 interactor 1,6,9,8,23,bin_5,Unconventional prefoldin RPB5 interactor 1,URI1,1,219,3880,140,URI1,HGNC:13236,URI1 prefoldin like chaperone,20,HGNC:12864,0
+EXOS8_HUMAN,Q96B26,EXOSC8,Exosome complex component RRP43,2,11,12,25,bin_5,Exosome complex component RRP43,EXOSC8,1,272,3830,147,EXOSC8,HGNC:17035,exosome component 8,20,HGNC:17088,0
+ACOT8_HUMAN,O14734,ACOT8,Acyl-coenzyme A thioesterase 8,10,8,2,20,bin_5,Acyl-coenzyme A thioesterase 8,ACOT8,1,287,3808,1505,ACOT8,HGNC:15919,acyl-CoA thioesterase 8,20,HGNC:170,0
+RUFY3_HUMAN,Q7L099,RUFY3,Protein RUFY3 ,0,9,12,21,bin_5,protein,RUFY3,1,294,3801,288,RUFY3,HGNC:30285,RUN and FYVE domain containing 3,20,HGNC:10664,0
+NUBP1_HUMAN,P53384,NUBP1,Cytosolic Fe-S cluster assembly factor NUBP1 ,7,7,6,20,bin_5,Cytosolic Fe-S cluster assembly factor NUBP1,NUBP1,1,219,3881,58,NUBP1,HGNC:8041,"NUBP iron-sulfur cluster assembly factor 1, cytosolic",20,HGNC:17088,0
