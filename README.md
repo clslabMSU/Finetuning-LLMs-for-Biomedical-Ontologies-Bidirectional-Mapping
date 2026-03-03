@@ -4,9 +4,9 @@ Large language models (LLMs) show promise in biomedical term normalization, but 
 
 In this project, we investigate fine-tuning effectiveness across three biomedical terminologies: Human Phenotype Ontology (HPO), Gene Ontology (GO), and protein-gene symbol mappings (GENE). We reveal that success depends on two key factors: **identifier popularity** (frequency in biomedical literature) and **identifier lexicalization** (semantic meaningfulness of identifiers).
 
-When tested on frequency-balanced datasets, we observed that GO achieved substantial memorization gains (up to **77%** for term→identifier mappings), while GENE demonstrated both memorization and generalization to unseen terms (**13.9%** improvement on validation terms). HPO showed minimal gains due to low identifier popularity.
-
 Our findings provide a predictive framework for understanding when fine-tuning will enhance factual recall and when it will fail due to low popularity or non-lexicalized identifiers.
+
+All the Together AI Models are available on - https://huggingface.co/suswitha
 
 ---
 
